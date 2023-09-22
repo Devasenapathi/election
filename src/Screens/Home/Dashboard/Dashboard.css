@@ -1,0 +1,13 @@
+/* .dashboard{ */
+    /* display: flex;  */
+	/* flex-wrap: wrap; */
+    /* margin:5px; */
+    /* justify-content: center; */
+/* } */
+
+/* @media (max-width: 768px) { */
+    /* .dashboard { */
+        /* flex-direction: column; Stack items vertically on smaller screens */
+        /* align-items: center; Center items horizontally within the container */
+    /* } */
+/* } */

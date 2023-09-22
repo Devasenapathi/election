@@ -1,0 +1,854 @@
+﻿Election_Id,Election_Type,Constituency,Candidate_Name,Gender,Age,Caste,Party,Party_Name,Symbol,Total_Votes,Percentage_Votes,State,Year,Result,Margin
+A,Assembly,Dampa,Lalrobiaka, Male,49, ST,INC, Indian National Congress, hand,6172,0.430000007,Mizoram,01-01-2013,Winner,1161
+A,Assembly,Dampa,Liansuama, Male,65, ST,MNF, Mizo National Front, star,5011,0.349999994,Mizoram,01-01-2013,Loser,-1161
+A,Assembly,Dampa,Lalrimawia, Male,48, ST,ZNP, Zoram Nationalist Party, sun (without rays),2878,0.200000003,Mizoram,01-01-2013,Loser,-3294
+A,Assembly,Dampa,R Laltawnliana, Male,53, ST,BJP, Bharatiya Janata Party, lotus,121,0.01,Mizoram,01-01-2013,Loser,-6051
+A,Assembly,Dampa,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,81,0.01,Mizoram,01-01-2013,Loser,-6091
+A,Assembly,Dampa,Lalrobiaka, Male,43, ST,INC, Indian National Congress,Unknown,5004,0.409999996,Mizoram,01-01-2008,Winner,680
+A,Assembly,Dampa,Lalrintluanga Sailo, Male,47, ST,MNF, Mizo National Front,Unknown,4324,0.360000014,Mizoram,01-01-2008,Loser,-680
+A,Assembly,Dampa,Lalhmingthanga Sailo, Male,34, ST,ZNP, Zoram Nationalist Party,Unknown,2387,0.200000003,Mizoram,01-01-2008,Loser,-2617
+A,Assembly,Dampa,C Hmingthansanga, Male,32, ST,BJP, Bharatiya Janata Party,Unknown,270,0.02,Mizoram,01-01-2008,Loser,-4734
+A,Assembly,Dampa,Zakhuma, Male,77, ST,LJP, Lok Jan Shakti Party,Unknown,115,0.01,Mizoram,01-01-2008,Loser,-4889
+A,Assembly,Dampa,Lalawmpuia Chhangte, Male,41, ST,NCP, Nationalist Congress Party,Unknown,69,0.01,Mizoram,01-01-2008,Loser,-4935
+A,Assembly,Easttuipui,Ramthanmawia, Male,61, ST,MNF, Mizo National Front, star,4384,0.370000005,Mizoram,01-01-2018,Winner,587
+A,Assembly,Easttuipui,C Laltanpuia, Male,57, ST,IND, Independent, hat,3797,0.319999993,Mizoram,01-01-2018,Loser,-587
+A,Assembly,Easttuipui,T Sangkunga, Male,65, ST,INC, Indian National Congress, hand,3421,0.289999992,Mizoram,01-01-2018,Loser,-963
+A,Assembly,Easttuipui,Dr Vl Zahawma Chawngthu, Male,45, ST,BJP, Bharatiya Janata Party, lotus,100,0.01,Mizoram,01-01-2018,Loser,-4284
+A,Assembly,Easttuipui,Simeona, Male,32, ST,IND, Independent, ring,23,NULL,Mizoram,01-01-2018,Loser,-4361
+A,Assembly,Easttuipui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,21,NULL,Mizoram,01-01-2018,Loser,-4363
+A,Assembly,Easttuipui,T Sangkunga, Male,69, ST,INC, Indian National Congress, hand,4926,0.430000007,Mizoram,01-01-2013,Winner,798
+A,Assembly,Easttuipui,Zoramthanga, Male,69, ST,MNF, Mizo National Front, star,4128,0.360000014,Mizoram,01-01-2013,Loser,-798
+A,Assembly,Easttuipui,W Chhuanawma, Male,53, ST,ZNP, Zoram Nationalist Party, sun (without rays),2204,0.189999998,Mizoram,01-01-2013,Loser,-2722
+A,Assembly,Easttuipui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,64,0.01,Mizoram,01-01-2013,Loser,-4862
+A,Assembly,Easttuipui,Lalrawna, Male,48, ST,BJP, Bharatiya Janata Party, lotus,37,NULL,Mizoram,01-01-2013,Loser,-4889
+A,Assembly,Easttuipui,B Lalthlengliana, Male,59, ST,MNF, Mizo National Front,Unknown,3787,0.360000014,Mizoram,01-01-2008,Winner,467
+A,Assembly,Easttuipui,H Thangchuanga, Male,52, ST,INC, Indian National Congress,Unknown,3320,0.310000002,Mizoram,01-01-2008,Loser,-467
+A,Assembly,Easttuipui,Dr R Rotluanga, Male,56, ST,ZNP, Zoram Nationalist Party,Unknown,3276,0.310000002,Mizoram,01-01-2008,Loser,-511
+A,Assembly,Easttuipui,Laldinkimi, Female,32, ST,IND, Independent,Unknown,203,0.02,Mizoram,01-01-2008,Loser,-3584
+A,Assembly,Easttuipui,Lalhunliana, Male,40, ST,LJP, Lok Jan Shakti Party,Unknown,57,0.01,Mizoram,01-01-2008,Loser,-3730
+A,Assembly,Hachhek,Lalrindika Ralte, Male,43, ST,INC, Indian National Congress, hand,6202,0.330000013,Mizoram,01-01-2018,Winner,366
+A,Assembly,Hachhek,Lalrinenga Sailo, Male,54, ST,MNF, Mizo National Front, star,5836,0.310000002,Mizoram,01-01-2018,Loser,-366
+A,Assembly,Hachhek,Vanlalruata Pachuau, Male,38, ST,BJP, Bharatiya Janata Party, lotus,4399,0.239999995,Mizoram,01-01-2018,Loser,-1803
+A,Assembly,Hachhek,H Lallianzuala, Male,40, ST,IND, Independent, hat,1373,0.07,Mizoram,01-01-2018,Loser,-4829
+A,Assembly,Hachhek,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,250,0.01,Mizoram,01-01-2018,Loser,-5952
+A,Assembly,Hachhek,Eddy Zosangliana Colney, Male,35, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,250,0.01,Mizoram,01-01-2018,Loser,-5952
+A,Assembly,Hachhek,Lalzenghaki, Female,45, ST,IND, Independent, ring,133,0.01,Mizoram,01-01-2018,Loser,-6069
+A,Assembly,Hachhek,J Lalsailova, Male,58, ST,IND, Independent, cup & saucer,91,NULL,Mizoram,01-01-2018,Loser,-6111
+A,Assembly,Hachhek,C Ramkinlova, Male,63, ST,NCP, Nationalist Congress Party, clock,78,NULL,Mizoram,01-01-2018,Loser,-6124
+A,Assembly,Hachhek,Lalrinmawia Ralte, Male,50, ST,INC, Indian National Congress, hand,7852,0.449999988,Mizoram,01-01-2013,Winner,2333
+A,Assembly,Hachhek,Saikapthianga, Male,59, ST,MNF, Mizo National Front, star,5519,0.319999993,Mizoram,01-01-2013,Loser,-2333
+A,Assembly,Hachhek,Lalhmingthanga, Male,30, ST,NCP, Nationalist Congress Party, clock,2467,0.140000001,Mizoram,01-01-2013,Loser,-5385
+A,Assembly,Hachhek,Lalzamlova Tochhawng, Male,38, ST,ZNP, Zoram Nationalist Party, sun (without rays),1139,0.07,Mizoram,01-01-2013,Loser,-6713
+A,Assembly,Hachhek,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,183,0.01,Mizoram,01-01-2013,Loser,-7669
+A,Assembly,Hachhek,Pazawna, Male,27, ST,BJP, Bharatiya Janata Party, lotus,155,0.01,Mizoram,01-01-2013,Loser,-7697
+A,Assembly,Hachhek,Lalrinmawia Ralte, Male,45, ST,INC, Indian National Congress,Unknown,6990,0.519999981,Mizoram,01-01-2008,Winner,2617
+A,Assembly,Hachhek,H Lalenvela, Male,49, ST,MNF, Mizo National Front,Unknown,4373,0.330000013,Mizoram,01-01-2008,Loser,-2617
+A,Assembly,Hachhek,John Lalngilneia, Male,60, ST,MPC, Mizoram People's Conference,Unknown,1840,0.140000001,Mizoram,01-01-2008,Loser,-5150
+A,Assembly,Hachhek,Laldinliana, Male,26, ST,JD(U), Janata Dal (united),Unknown,139,0.01,Mizoram,01-01-2008,Loser,-6851
+A,Assembly,Hachhek,P C Lalthanpuia, Male,29, ST,LJP, Lok Jan Shakti Party,Unknown,111,0.01,Mizoram,01-01-2008,Loser,-6879
+A,Assembly,Hrangturzo,Lalchamliana, Male,63, ST,MNF, Mizo National Front, star,4572,0.360000014,Mizoram,01-01-2018,Winner,757
+A,Assembly,Hrangturzo,Vanlalawmpuii Chawngthu, Female,39, ST,INC, Indian National Congress, hand,3815,0.300000012,Mizoram,01-01-2018,Loser,-757
+A,Assembly,Hrangturzo,Lalthansanga, Male,55, ST,IND, Independent, hat,3766,0.289999992,Mizoram,01-01-2018,Loser,-806
+A,Assembly,Hrangturzo,K Sangzuala, Male,61, ST,BJP, Bharatiya Janata Party, lotus,307,0.02,Mizoram,01-01-2018,Loser,-4265
+A,Assembly,Hrangturzo,Lalawmpuia Renthlei, Male,41, ST,IND, Independent, ring,215,0.02,Mizoram,01-01-2018,Loser,-4357
+A,Assembly,Hrangturzo,Rl Liantluanga, Male,35, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,111,0.01,Mizoram,01-01-2018,Loser,-4461
+A,Assembly,Hrangturzo,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,50,NULL,Mizoram,01-01-2018,Loser,-4522
+A,Assembly,Hrangturzo,Lal Thanhawla, Male,71, ST,INC, Indian National Congress, hand,5173,0.419999987,Mizoram,01-01-2013,Winner,1628
+A,Assembly,Hrangturzo,Lalthansanga, Male,50, ST,MPC, Mizoram People's Conference, electric bulb,3545,0.289999992,Mizoram,01-01-2013,Loser,-1628
+A,Assembly,Hrangturzo,H Lalduhawma, Male,56, ST,ZNP, Zoram Nationalist Party, sun (without rays),3412,0.280000001,Mizoram,01-01-2013,Loser,-1761
+A,Assembly,Hrangturzo,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,56,NULL,Mizoram,01-01-2013,Loser,-5117
+A,Assembly,Hrangturzo,Lalawmpuia Renthlei, Male,36, ST,IND, Independent, walking stick,39,NULL,Mizoram,01-01-2013,Loser,-5134
+A,Assembly,Hrangturzo,F Remkhuma, Male,46, ST,JMBP, Jai Maha Bharath Party, pot,29,NULL,Mizoram,01-01-2013,Loser,-5144
+A,Assembly,Hrangturzo,Lalthansanga, Male,45, ST,MPC, Mizoram People's Conference,Unknown,4431,0.379999995,Mizoram,01-01-2008,Winner,452
+A,Assembly,Hrangturzo,Ronald Sapa Tlau, Male,51, ST,INC, Indian National Congress,Unknown,3979,0.340000004,Mizoram,01-01-2008,Loser,-452
+A,Assembly,Hrangturzo,Lalhlimpuii, Female,57, ST,MNF, Mizo National Front,Unknown,3222,0.270000011,Mizoram,01-01-2008,Loser,-1209
+A,Assembly,Hrangturzo,K Zoliana, Male,52, ST,LJP, Lok Jan Shakti Party,Unknown,89,0.01,Mizoram,01-01-2008,Loser,-4342
+A,Assembly,Kolasib,K Lalrinliana, Male,58, ST,MNF, Mizo National Front, star,5940,0.330000013,Mizoram,01-01-2018,Winner,279
+A,Assembly,Kolasib,Lalfamkima, Male,52, ST,IND, Independent, hat,5661,0.319999993,Mizoram,01-01-2018,Loser,-279
+A,Assembly,Kolasib,Dr Ngurdingliana, Male,52, ST,INC, Indian National Congress, hand,5232,0.289999992,Mizoram,01-01-2018,Loser,-708
+A,Assembly,Kolasib,B Lianthlira, Male,63, ST,BJP, Bharatiya Janata Party, lotus,504,0.029999999,Mizoram,01-01-2018,Loser,-5436
+A,Assembly,Kolasib,John Lalremruata, Male,39, ST,NPEP, National People's Party, book,288,0.02,Mizoram,01-01-2018,Loser,-5652
+A,Assembly,Kolasib,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,114,0.01,Mizoram,01-01-2018,Loser,-5826
+A,Assembly,Kolasib,Zodinsanga, Male,46, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,80,NULL,Mizoram,01-01-2018,Loser,-5860
+A,Assembly,Kolasib,P C Zoram Sangliana, Male,57, ST,INC, Indian National Congress, hand,6078,0.379999995,Mizoram,01-01-2013,Winner,595
+A,Assembly,Kolasib,Lalchamliana, Male,58, ST,MNF, Mizo National Front, star,5483,0.340000004,Mizoram,01-01-2013,Loser,-595
+A,Assembly,Kolasib,Lalduhoma, Male,64, ST,ZNP, Zoram Nationalist Party, sun (without rays),4128,0.25999999,Mizoram,01-01-2013,Loser,-1950
+A,Assembly,Kolasib,Ramfangzauvi, Female,55, ST,BJP, Bharatiya Janata Party, lotus,159,0.01,Mizoram,01-01-2013,Loser,-5919
+A,Assembly,Kolasib,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,122,0.01,Mizoram,01-01-2013,Loser,-5956
+A,Assembly,Kolasib,P C Zoram Sangliana, Male,50, ST,INC, Indian National Congress,Unknown,5510,0.409999996,Mizoram,01-01-2008,Winner,1048
+A,Assembly,Kolasib,K Lalrinliana, Male,48, ST,MNF, Mizo National Front,Unknown,4462,0.330000013,Mizoram,01-01-2008,Loser,-1048
+A,Assembly,Kolasib,Lalrawna Sailo, Male,62, ST,MPC, Mizoram People's Conference,Unknown,2805,0.209999993,Mizoram,01-01-2008,Loser,-2705
+A,Assembly,Kolasib,Lalfamkima, Male,42, ST,IND, Independent,Unknown,471,0.039999999,Mizoram,01-01-2008,Loser,-5039
+A,Assembly,Kolasib,Ramfangzauvi, Female,50, ST,BJP, Bharatiya Janata Party,Unknown,126,0.01,Mizoram,01-01-2008,Loser,-5384
+A,Assembly,Kolasib,R Lalrinawmi, Female,46, ST,LJP, Lok Jan Shakti Party,Unknown,91,0.01,Mizoram,01-01-2008,Loser,-5419
+A,Assembly,Kolasib,Zoramthanga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3702,0.340000004,Mizoram,01-01-2003,Winner,92
+A,Assembly,Kolasib,C Lalbiakthanga, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,3610,0.330000013,Mizoram,01-01-2003,Loser,-92
+A,Assembly,Kolasib,P C Zoramsangliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3473,0.319999993,Mizoram,01-01-2003,Loser,-229
+A,Assembly,Kolasib,F Thangkima, Male,Unknown,Unknown,JD(U), Janata Dal (united),Unknown,64,0.01,Mizoram,01-01-2003,Loser,-3638
+A,Assembly,Kolasib,Rualchhina, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3368,0.389999986,Mizoram,01-01-1998,Winner,824
+A,Assembly,Kolasib,Lalthanzara, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2544,0.289999992,Mizoram,01-01-1998,Loser,-824
+A,Assembly,Kolasib,Hrangdailova, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,2137,0.25,Mizoram,01-01-1998,Loser,-1231
+A,Assembly,Kolasib,Lalkhawhluna, Male,Unknown,Unknown,IND, Independent,Unknown,616,0.07,Mizoram,01-01-1998,Loser,-2752
+A,Assembly,Kolasib,H D Darthangvunga, Male,Unknown,Unknown,SAP, Samata Party,Unknown,17,NULL,Mizoram,01-01-1998,Loser,-3351
+A,Assembly,Kolasib,Lalkhawliana, Male,Unknown,Unknown,LS, Lok Shakti,Unknown,8,NULL,Mizoram,01-01-1998,Loser,-3360
+A,Assembly,Kolasib,Zosiama Pachuau, Male,Unknown,Unknown,IND, Independents,Unknown,4231,0.50999999,Mizoram,01-01-1993,Winner,447
+A,Assembly,Kolasib,Aichhinga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3784,0.449999988,Mizoram,01-01-1993,Loser,-447
+A,Assembly,Kolasib,Khawlremthanga, Male,Unknown,Unknown,IND, Independents,Unknown,335,0.039999999,Mizoram,01-01-1993,Loser,-3896
+A,Assembly,Kolasib,Aichhinga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2820,0.400000006,Mizoram,01-01-1989,Winner,296
+A,Assembly,Kolasib,R Lalzieliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2524,0.360000014,Mizoram,01-01-1989,Loser,-296
+A,Assembly,Kolasib,C Vulluaia, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1564,0.219999999,Mizoram,01-01-1989,Loser,-1256
+A,Assembly,Kolasib,F Lalzarmawia, Male,Unknown,Unknown,IND, Independents,Unknown,155,0.02,Mizoram,01-01-1989,Loser,-2665
+A,Assembly,Kolasib,Aichhinga, Male,Unknown,Unknown,IND, Independent,Unknown,2609,0.469999999,Mizoram,01-01-1987,Winner,1124
+A,Assembly,Kolasib,Lalsawta, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1485,0.270000011,Mizoram,01-01-1987,Loser,-1124
+A,Assembly,Kolasib,K Biakchungnunga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1260,0.230000004,Mizoram,01-01-1987,Loser,-1349
+A,Assembly,Kolasib,F Lalzarmawia, Male,Unknown,Unknown,IND, Independent,Unknown,205,0.039999999,Mizoram,01-01-1987,Loser,-2404
+A,Assembly,Kolasib,Zalawma, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3044,0.379999995,Mizoram,01-01-1984,Winner,416
+A,Assembly,Kolasib,Joe Ngurdawla, Male,Unknown,Unknown,PC, Peoples Conference,Unknown,2628,0.330000013,Mizoram,01-01-1984,Loser,-416
+A,Assembly,Kolasib,Lalbiakthanga, Male,Unknown,Unknown,IND, Independent,Unknown,1032,0.129999995,Mizoram,01-01-1984,Loser,-2012
+A,Assembly,Kolasib,Siamliana, Male,Unknown,Unknown,IND, Independent,Unknown,967,0.119999997,Mizoram,01-01-1984,Loser,-2077
+A,Assembly,Kolasib,Thangdela, Male,Unknown,Unknown,IND, Independent,Unknown,333,0.039999999,Mizoram,01-01-1984,Loser,-2711
+A,Assembly,Kolasib,C Chawngkunga, Male,Unknown,Unknown,PPC, People's Conference,Unknown,2242,0.349999994,Mizoram,01-01-1979,Winner,677
+A,Assembly,Kolasib,Zalawma, Male,Unknown,Unknown,INC(I), Indian National Congress (i),Unknown,1565,0.239999995,Mizoram,01-01-1979,Loser,-677
+A,Assembly,Kolasib,Vanlalngaia, Male,Unknown,Unknown,IND, Independents,Unknown,1060,0.159999996,Mizoram,01-01-1979,Loser,-1182
+A,Assembly,Kolasib,C Duthanga, Male,Unknown,Unknown,IND, Independents,Unknown,969,0.150000006,Mizoram,01-01-1979,Loser,-1273
+A,Assembly,Kolasib,Lawmthanga, Male,Unknown,Unknown,JNP, Janta Party,Unknown,613,0.100000001,Mizoram,01-01-1979,Loser,-1629
+A,Assembly,Kolasib,Ch Chhunga, Male,Unknown,Unknown,IND, Independents,Unknown,2290,0.449999988,Mizoram,01-01-1972,Winner,913
+A,Assembly,Kolasib,Dosanga, Male,Unknown,Unknown,IND, Independents,Unknown,1377,0.270000011,Mizoram,01-01-1972,Loser,-913
+A,Assembly,Kolasib,Lalthansanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,927,0.180000007,Mizoram,01-01-1972,Loser,-1363
+A,Assembly,Kolasib,Vanlalhruaia, Male,Unknown,Unknown,IND, Independents,Unknown,496,0.100000001,Mizoram,01-01-1972,Loser,-1794
+A,Assembly,Lawngtlaieast,H Biakzaua, Male,53, ST,MNF, Mizo National Front, star,8656,0.479999989,Mizoram,01-01-2018,Winner,944
+A,Assembly,Lawngtlaieast,H Zothangliana, Male,49, ST,INC, Indian National Congress, hand,7712,0.430000007,Mizoram,01-01-2018,Loser,-944
+A,Assembly,Lawngtlaieast,Vanupa Zathang, Male,65, ST,BJP, Bharatiya Janata Party, lotus,1086,0.059999999,Mizoram,01-01-2018,Loser,-7570
+A,Assembly,Lawngtlaieast,Mc Lalramchhana, Male,41, ST,IND, Independent, hat,209,0.01,Mizoram,01-01-2018,Loser,-8447
+A,Assembly,Lawngtlaieast,C Biakchhunga, Male,59, ST,IND, Independent, ring,164,0.01,Mizoram,01-01-2018,Loser,-8492
+A,Assembly,Lawngtlaieast,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,58,NULL,Mizoram,01-01-2018,Loser,-8598
+A,Assembly,Lawngtlaieast,H Zothangliana, Male,44, ST,INC, Indian National Congress, hand,8191,0.49000001,Mizoram,01-01-2013,Winner,273
+A,Assembly,Lawngtlaieast,Vanupa Zathang, Male,60, ST,MNF, Mizo National Front, star,7918,0.469999999,Mizoram,01-01-2013,Loser,-273
+A,Assembly,Lawngtlaieast,F Sangdawna, Male,63, ST,ZNP, Zoram Nationalist Party, sun (without rays),642,0.039999999,Mizoram,01-01-2013,Loser,-7549
+A,Assembly,Lawngtlaieast,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,86,0.01,Mizoram,01-01-2013,Loser,-8105
+A,Assembly,Lawngtlaieast,H Zothangliana, Male,39, ST,INC, Indian National Congress,Unknown,6294,0.409999996,Mizoram,01-01-2008,Winner,911
+A,Assembly,Lawngtlaieast,H Rammawi, Male,54, ST,MNF, Mizo National Front,Unknown,5383,0.349999994,Mizoram,01-01-2008,Loser,-911
+A,Assembly,Lawngtlaieast,Manghmunga Chinzah, Male,55, ST,IND, Independent,Unknown,3363,0.219999999,Mizoram,01-01-2008,Loser,-2931
+A,Assembly,Lawngtlaieast,R Zoramchhana, Male,27, ST,LB, Lok Bharati,Unknown,62,NULL,Mizoram,01-01-2008,Loser,-6232
+A,Assembly,Lawngtlaieast,Zaliana, Male,65, ST,LJP, Lok Jan Shakti Party,Unknown,56,NULL,Mizoram,01-01-2008,Loser,-6238
+A,Assembly,Lawngtlaieast,C Lalbiakthanga, Male,48, ST,IND, Independent,Unknown,31,NULL,Mizoram,01-01-2008,Loser,-6263
+A,Assembly,Lawngtlaiwest,C Ngunlianchunga, Male,58, ST,INC, Indian National Congress, hand,10681,0.49000001,Mizoram,01-01-2018,Winner,796
+A,Assembly,Lawngtlaiwest,C Ramhluna, Male,71, ST,MNF, Mizo National Front, star,9885,0.449999988,Mizoram,01-01-2018,Loser,-796
+A,Assembly,Lawngtlaiwest,J B Rualchhinga, Male,66, ST,BJP, Bharatiya Janata Party, lotus,975,0.039999999,Mizoram,01-01-2018,Loser,-9706
+A,Assembly,Lawngtlaiwest,Vanlalthaa, Male,47, ST,IND, Independent, hat,179,0.01,Mizoram,01-01-2018,Loser,-10502
+A,Assembly,Lawngtlaiwest,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,136,0.01,Mizoram,01-01-2018,Loser,-10545
+A,Assembly,Lawngtlaiwest,C Ngunlianchunga, Male,53, ST,INC, Indian National Congress, hand,10323,0.529999971,Mizoram,01-01-2013,Winner,1535
+A,Assembly,Lawngtlaiwest,C Ramhluna, Male,58, ST,MNF, Mizo National Front, star,8788,0.449999988,Mizoram,01-01-2013,Loser,-1535
+A,Assembly,Lawngtlaiwest,Mc Lalramchhana, Male,35, ST,ZNP, Zoram Nationalist Party, sun (without rays),320,0.02,Mizoram,01-01-2013,Loser,-10003
+A,Assembly,Lawngtlaiwest,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,150,0.01,Mizoram,01-01-2013,Loser,-10173
+A,Assembly,Lawngtlaiwest,C Ramhluna, Male,57, ST,MNF, Mizo National Front,Unknown,6086,0.360000014,Mizoram,01-01-2008,Winner,800
+A,Assembly,Lawngtlaiwest,Lh Chhuanawma, Male,38, ST,INC, Indian National Congress,Unknown,5286,0.310000002,Mizoram,01-01-2008,Loser,-800
+A,Assembly,Lawngtlaiwest,H Vanlalthaliana, Male,42, ST,IND, Independent,Unknown,2625,0.159999996,Mizoram,01-01-2008,Loser,-3461
+A,Assembly,Lawngtlaiwest,J B Rualchhinga, Male,52, ST,IND, Independent,Unknown,2413,0.140000001,Mizoram,01-01-2008,Loser,-3673
+A,Assembly,Lawngtlaiwest,F Hrangkhuma, Male,61, ST,BJP, Bharatiya Janata Party,Unknown,273,0.02,Mizoram,01-01-2008,Loser,-5813
+A,Assembly,Lawngtlaiwest,Lalremruata, Male,25, ST,LJP, Lok Jan Shakti Party,Unknown,235,0.01,Mizoram,01-01-2008,Loser,-5851
+A,Assembly,Lengteng,L Thangmawia, Male,44, ST,MNF, Mizo National Front, star,6430,0.460000008,Mizoram,01-01-2018,Winner,1772
+A,Assembly,Lengteng,H Rohluna, Male,57, ST,INC, Indian National Congress, hand,4658,0.330000013,Mizoram,01-01-2018,Loser,-1772
+A,Assembly,Lengteng,H Ginzalala, Male,45, ST,IND, Independent, hat,2657,0.189999998,Mizoram,01-01-2018,Loser,-3773
+A,Assembly,Lengteng,Laldinngheti, Female,59, ST,BJP, Bharatiya Janata Party, lotus,204,0.01,Mizoram,01-01-2018,Loser,-6226
+A,Assembly,Lengteng,Lalhrilzeli Hlawndo, Female,28, ST,IND, Independent, ring,77,0.01,Mizoram,01-01-2018,Loser,-6353
+A,Assembly,Lengteng,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,24,NULL,Mizoram,01-01-2018,Loser,-6406
+A,Assembly,Lengteng,H Rohluna, Male,53, ST,INC, Indian National Congress, hand,5682,0.430000007,Mizoram,01-01-2013,Winner,167
+A,Assembly,Lengteng,L Thangmawia, Male,39, ST,MNF, Mizo National Front, star,5515,0.419999987,Mizoram,01-01-2013,Loser,-167
+A,Assembly,Lengteng,H Ginzalala, Male,40, ST,ZNP, Zoram Nationalist Party, sun (without rays),1944,0.150000006,Mizoram,01-01-2013,Loser,-3738
+A,Assembly,Lengteng,Zoramchhani, Female,43, ST,BJP, Bharatiya Janata Party, lotus,80,0.01,Mizoram,01-01-2013,Loser,-5602
+A,Assembly,Lengteng,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,46,NULL,Mizoram,01-01-2013,Loser,-5636
+A,Assembly,Lengteng,H Rohluna, Male,48, ST,INC, Indian National Congress,Unknown,4776,0.389999986,Mizoram,01-01-2008,Winner,786
+A,Assembly,Lengteng,L Thangmawia, Male,34, ST,MNF, Mizo National Front,Unknown,3990,0.330000013,Mizoram,01-01-2008,Loser,-786
+A,Assembly,Lengteng,T C Kaphmingthanga, Male,33, ST,IND, Independent,Unknown,3452,0.280000001,Mizoram,01-01-2008,Loser,-1324
+A,Assembly,Lengteng,Biaksiama, Male,45, ST,LJP, Lok Jan Shakti Party,Unknown,54,NULL,Mizoram,01-01-2008,Loser,-4722
+A,Assembly,Lungleieast,Lawmawma Tochhawng, Male,62, ST,MNF, Mizo National Front, star,4063,0.330000013,Mizoram,01-01-2018,Winner,72
+A,Assembly,Lungleieast,Lalrinpuii, Female,56, ST,IND, Independent, hat,3991,0.319999993,Mizoram,01-01-2018,Loser,-72
+A,Assembly,Lungleieast,Joseph Lalhimpuia, Male,59, ST,INC, Indian National Congress, hand,3836,0.310000002,Mizoram,01-01-2018,Loser,-227
+A,Assembly,Lungleieast,H Lalruata, Male,73, ST,BJP, Bharatiya Janata Party, lotus,405,0.029999999,Mizoram,01-01-2018,Loser,-3658
+A,Assembly,Lungleieast,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,52,NULL,Mizoram,01-01-2018,Loser,-4011
+A,Assembly,Lungleieast,Joseph Lalhimpuia, Male,39, ST,INC, Indian National Congress, hand,5367,0.49000001,Mizoram,01-01-2013,Winner,1611
+A,Assembly,Lungleieast,Lalrinzuala, Male,58, ST,MPC, Mizoram People's Conference, electric bulb,3756,0.349999994,Mizoram,01-01-2013,Loser,-1611
+A,Assembly,Lungleieast,Pc Lalduhthlanga, Male,58, ST,ZNP, Zoram Nationalist Party, sun (without rays),1661,0.150000006,Mizoram,01-01-2013,Loser,-3706
+A,Assembly,Lungleieast,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,97,0.01,Mizoram,01-01-2013,Loser,-5270
+A,Assembly,Lungleieast,Joseph Lalhimpuia, Male,35, ST,INC, Indian National Congress,Unknown,3898,0.400000006,Mizoram,01-01-2008,Winner,423
+A,Assembly,Lungleieast,Samson Zoramthanga, Male,54, ST,MNF, Mizo National Front,Unknown,3475,0.349999994,Mizoram,01-01-2008,Loser,-423
+A,Assembly,Lungleieast,H Lalthansanga, Male,42, ST,IND, Independent,Unknown,1765,0.180000007,Mizoram,01-01-2008,Loser,-2133
+A,Assembly,Lungleieast,Vanneia Hnamte, Male,53, ST,ZNP, Zoram Nationalist Party,Unknown,657,0.07,Mizoram,01-01-2008,Loser,-3241
+A,Assembly,Lungleinorth,Vanlaltanpuia, Male,43, ST,MNF, Mizo National Front, star,5022,0.349999994,Mizoram,01-01-2018,Winner,395
+A,Assembly,Lungleinorth,V Malsawmtluanga, Male,29, ST,IND, Independent, hat,4627,0.319999993,Mizoram,01-01-2018,Loser,-395
+A,Assembly,Lungleinorth,P C Lalthanliana, Male,55, ST,INC, Indian National Congress, hand,4466,0.310000002,Mizoram,01-01-2018,Loser,-556
+A,Assembly,Lungleinorth,Ramdinzauva, Male,49, ST,BJP, Bharatiya Janata Party, lotus,66,NULL,Mizoram,01-01-2018,Loser,-4956
+A,Assembly,Lungleinorth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,61,NULL,Mizoram,01-01-2018,Loser,-4961
+A,Assembly,Lungleinorth,P C Lalthanliana, Male,49, ST,INC, Indian National Congress, hand,6168,0.469999999,Mizoram,01-01-2013,Winner,870
+A,Assembly,Lungleinorth,Dr K Vanlallawma, Male,56, ST,MNF, Mizo National Front, star,5298,0.409999996,Mizoram,01-01-2013,Loser,-870
+A,Assembly,Lungleinorth,Rd Lalrammawia, Male,39, ST,ZNP, Zoram Nationalist Party, sun (without rays),1373,0.100000001,Mizoram,01-01-2013,Loser,-4795
+A,Assembly,Lungleinorth,S L Sailova, Male,72, ST,IND, Independent, whistle,208,0.02,Mizoram,01-01-2013,Loser,-5960
+A,Assembly,Lungleinorth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,36,NULL,Mizoram,01-01-2013,Loser,-6132
+A,Assembly,Lungleinorth,Pc Lalthanliana, Male,42, ST,INC, Indian National Congress,Unknown,4914,0.409999996,Mizoram,01-01-2008,Winner,705
+A,Assembly,Lungleinorth,C Lalrinsanga, Male,46, ST,MNF, Mizo National Front,Unknown,4209,0.349999994,Mizoram,01-01-2008,Loser,-705
+A,Assembly,Lungleinorth,Lalrinzuala, Male,55, ST,MPC, Mizoram People's Conference,Unknown,2948,0.239999995,Mizoram,01-01-2008,Loser,-1966
+A,Assembly,Lungleinorth,B Zatawna, Male,64, ST,LJP, Lok Jan Shakti Party,Unknown,46,NULL,Mizoram,01-01-2008,Loser,-4868
+A,Assembly,Lungleinorth,Dr R Lalthangliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4641,0.430000007,Mizoram,01-01-2003,Winner,690
+A,Assembly,Lungleinorth,J Lawmzuala, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,3951,0.370000005,Mizoram,01-01-2003,Loser,-690
+A,Assembly,Lungleinorth,Sapliana Chongthu, Male,Unknown,Unknown,ZNP, Zoram Nationalist Party,Unknown,1344,0.119999997,Mizoram,01-01-2003,Loser,-3297
+A,Assembly,Lungleinorth,K Lalrinliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,860,0.079999998,Mizoram,01-01-2003,Loser,-3781
+A,Assembly,Lungleinorth,Dr R Lalthangliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3419,0.400000006,Mizoram,01-01-1998,Winner,736
+A,Assembly,Lungleinorth,Lalnghinglova Hauhnar, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,2683,0.319999993,Mizoram,01-01-1998,Loser,-736
+A,Assembly,Lungleinorth,P C Lalthanliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1466,0.170000002,Mizoram,01-01-1998,Loser,-1953
+A,Assembly,Lungleinorth,F Zothuama, Male,Unknown,Unknown,MNF(N), Mizo National Front (nationalist),Unknown,703,0.079999998,Mizoram,01-01-1998,Loser,-2716
+A,Assembly,Lungleinorth,V Lalnunmawia, Male,Unknown,Unknown,LS, Lok Shakti,Unknown,227,0.029999999,Mizoram,01-01-1998,Loser,-3192
+A,Assembly,Lungleinorth,R Lalthangliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4004,0.529999971,Mizoram,01-01-1993,Winner,392
+A,Assembly,Lungleinorth,R Lalrinzuala, Male,Unknown,Unknown,IND, Independents,Unknown,3612,0.469999999,Mizoram,01-01-1993,Loser,-392
+A,Assembly,Lungleinorth,R Thangliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2418,0.349999994,Mizoram,01-01-1989,Winner,183
+A,Assembly,Lungleinorth,R Sangkawia, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,2235,0.330000013,Mizoram,01-01-1989,Loser,-183
+A,Assembly,Lungleinorth,Lianhmingthanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2010,0.289999992,Mizoram,01-01-1989,Loser,-408
+A,Assembly,Lungleinorth,C Zathuama, Male,Unknown,Unknown,IND, Independents,Unknown,190,0.029999999,Mizoram,01-01-1989,Loser,-2228
+A,Assembly,Lungleinorth,L Ngurchhina, Male,Unknown,Unknown,IND, Independent,Unknown,2514,0.439999998,Mizoram,01-01-1987,Winner,711
+A,Assembly,Lungleinorth,Lalhmingthanga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1803,0.319999993,Mizoram,01-01-1987,Loser,-711
+A,Assembly,Lungleinorth,Rodingliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1206,0.209999993,Mizoram,01-01-1987,Loser,-1308
+A,Assembly,Lungleinorth,T Nghakliana, Male,Unknown,Unknown,IND, Independent,Unknown,180,0.029999999,Mizoram,01-01-1987,Loser,-2334
+A,Assembly,Lungleisouth,K Pachhunga, Male,50, ST,MNF, Mizo National Front, star,6245,0.430000007,Mizoram,01-01-2018,Winner,2441
+A,Assembly,Lungleisouth,R Lalnunthara, Male,47, ST,INC, Indian National Congress, hand,3804,0.25999999,Mizoram,01-01-2018,Loser,-2441
+A,Assembly,Lungleisouth,Rev Dr K Thanzauva, Male,72, ST,IND, Independent, hat,3492,0.239999995,Mizoram,01-01-2018,Loser,-2753
+A,Assembly,Lungleisouth,Dr Aichhunga, Male,59, ST,BJP, Bharatiya Janata Party, lotus,920,0.059999999,Mizoram,01-01-2018,Loser,-5325
+A,Assembly,Lungleisouth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,53,NULL,Mizoram,01-01-2018,Loser,-6192
+A,Assembly,Lungleisouth,S Laldingliana, Male,59, ST,INC, Indian National Congress, hand,6230,0.469999999,Mizoram,01-01-2013,Winner,450
+A,Assembly,Lungleisouth,Dr K Pachhunga, Male,45, ST,MNF, Mizo National Front, star,5780,0.439999998,Mizoram,01-01-2013,Loser,-450
+A,Assembly,Lungleisouth,Dr Aichhunga, Male,54, ST,ZNP, Zoram Nationalist Party, sun (without rays),1037,0.079999998,Mizoram,01-01-2013,Loser,-5193
+A,Assembly,Lungleisouth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,83,0.01,Mizoram,01-01-2013,Loser,-6147
+A,Assembly,Lungleisouth,S Laldingliana, Male,54, ST,INC, Indian National Congress,Unknown,5276,0.449999988,Mizoram,01-01-2008,Winner,1041
+A,Assembly,Lungleisouth,Z H Ropuia, Male,45, ST,MNF, Mizo National Front,Unknown,4235,0.360000014,Mizoram,01-01-2008,Loser,-1041
+A,Assembly,Lungleisouth,Saitlawma, Male,65, ST,ZNP, Zoram Nationalist Party,Unknown,2164,0.180000007,Mizoram,01-01-2008,Loser,-3112
+A,Assembly,Lungleisouth,Vanlalhruaia Hauhulh, Male,26, ST,IND, Independent,Unknown,118,0.01,Mizoram,01-01-2008,Loser,-5158
+A,Assembly,Lungleisouth,Lalthuammawii, Female,25, ST,LJP, Lok Jan Shakti Party,Unknown,53,NULL,Mizoram,01-01-2008,Loser,-5223
+A,Assembly,Lungleisouth,Lalhmingthanga, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,3692,0.340000004,Mizoram,01-01-2003,Winner,62
+A,Assembly,Lungleisouth,K Lalsanga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3630,0.330000013,Mizoram,01-01-2003,Loser,-62
+A,Assembly,Lungleisouth,C Lalhmingliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2010,0.180000007,Mizoram,01-01-2003,Loser,-1682
+A,Assembly,Lungleisouth,F Lawmzuali, Female,Unknown,Unknown,ZNP, Zoram Nationalist Party,Unknown,1550,0.140000001,Mizoram,01-01-2003,Loser,-2142
+A,Assembly,Lungleisouth,J Lawmzuala, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,3185,0.360000014,Mizoram,01-01-1998,Winner,70
+A,Assembly,Lungleisouth,T Neihlaia, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3115,0.360000014,Mizoram,01-01-1998,Loser,-70
+A,Assembly,Lungleisouth,C Thanseia, Male,Unknown,Unknown,MNF(N), Mizo National Front (nationalist),Unknown,1172,0.129999995,Mizoram,01-01-1998,Loser,-2013
+A,Assembly,Lungleisouth,H Killuaia, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1142,0.129999995,Mizoram,01-01-1998,Loser,-2043
+A,Assembly,Lungleisouth,C Lianmawia, Male,Unknown,Unknown,BJP, Bharatiya Janata Party,Unknown,92,0.01,Mizoram,01-01-1998,Loser,-3093
+A,Assembly,Lungleisouth,P Saidinga, Male,Unknown,Unknown,IND, Independent,Unknown,34,NULL,Mizoram,01-01-1998,Loser,-3151
+A,Assembly,Lungleisouth,H Lalruata, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3777,0.529999971,Mizoram,01-01-1993,Winner,466
+A,Assembly,Lungleisouth,F Sapa, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3311,0.469999999,Mizoram,01-01-1993,Loser,-466
+A,Assembly,Lungleisouth,F Sapa, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2332,0.360000014,Mizoram,01-01-1989,Winner,15
+A,Assembly,Lungleisouth,Saingura, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2317,0.360000014,Mizoram,01-01-1989,Loser,-15
+A,Assembly,Lungleisouth,B Lalchungnunga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1718,0.270000011,Mizoram,01-01-1989,Loser,-614
+A,Assembly,Lungleisouth,R Zanghina, Male,Unknown,Unknown,IND, Independents,Unknown,101,0.02,Mizoram,01-01-1989,Loser,-2231
+A,Assembly,Lungleisouth,H Lalruata, Male,Unknown,Unknown,IND, Independent,Unknown,2622,0.519999981,Mizoram,01-01-1987,Winner,1264
+A,Assembly,Lungleisouth,B Lalchungnunga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1358,0.270000011,Mizoram,01-01-1987,Loser,-1264
+A,Assembly,Lungleisouth,K Muankima, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1071,0.209999993,Mizoram,01-01-1987,Loser,-1551
+A,Assembly,Lungleiwest,C Lalrinsanga, Male,57, ST,MNF, Mizo National Front, star,4093,0.340000004,Mizoram,01-01-2018,Winner,77
+A,Assembly,Lungleiwest,Chalrosanga Ralte, Male,44, ST,INC, Indian National Congress, hand,4016,0.340000004,Mizoram,01-01-2018,Loser,-77
+A,Assembly,Lungleiwest,Lalnuntluanga Sailo, Male,55, ST,IND, Independent, hat,3587,0.300000012,Mizoram,01-01-2018,Loser,-506
+A,Assembly,Lungleiwest,C S Chawngchhuma, Male,61, ST,BJP, Bharatiya Janata Party, lotus,142,0.01,Mizoram,01-01-2018,Loser,-3951
+A,Assembly,Lungleiwest,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,47,NULL,Mizoram,01-01-2018,Loser,-4046
+A,Assembly,Lungleiwest,Chalrosanga Ralte, Male,39, ST,INC, Indian National Congress, hand,5174,0.460000008,Mizoram,01-01-2013,Winner,94
+A,Assembly,Lungleiwest,Dr R Lalthangliana, Male,57, ST,MNF, Mizo National Front, star,5080,0.449999988,Mizoram,01-01-2013,Loser,-94
+A,Assembly,Lungleiwest,R Lalramzauva, Male,37, ST,ZNP, Zoram Nationalist Party, sun (without rays),846,0.079999998,Mizoram,01-01-2013,Loser,-4328
+A,Assembly,Lungleiwest,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,81,0.01,Mizoram,01-01-2013,Loser,-5093
+A,Assembly,Lungleiwest,Dr R Lalthangliana, Male,51, ST,MNF, Mizo National Front,Unknown,4156,0.409999996,Mizoram,01-01-2008,Winner,723
+A,Assembly,Lungleiwest,J Lawmzuala, Male,64, ST,INC, Indian National Congress,Unknown,3433,0.340000004,Mizoram,01-01-2008,Loser,-723
+A,Assembly,Lungleiwest,C Zokhuma, Male,45, ST,MPC, Mizoram People's Conference,Unknown,2588,0.25,Mizoram,01-01-2008,Loser,-1568
+A,Assembly,Mamit,H Lalzirliana, Male,49, ST,MNF, Mizo National Front, star,6874,0.349999994,Mizoram,01-01-2018,Winner,407
+A,Assembly,Mamit,John Rotluangliana, Male,60, ST,INC, Indian National Congress, hand,6467,0.330000013,Mizoram,01-01-2018,Loser,-407
+A,Assembly,Mamit,Malsawmtluanga, Male,45, ST,BJP, Bharatiya Janata Party, lotus,4528,0.230000004,Mizoram,01-01-2018,Loser,-2346
+A,Assembly,Mamit,C Zothansanga, Male,40, ST,IND, Independent, hat,1122,0.059999999,Mizoram,01-01-2018,Loser,-5752
+A,Assembly,Mamit,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,190,0.01,Mizoram,01-01-2018,Loser,-6684
+A,Assembly,Mamit,Lianzuala, Male,68, ST,NPEP, National People's Party, book,90,NULL,Mizoram,01-01-2018,Loser,-6784
+A,Assembly,Mamit,Lalawmpuia Chhangte, Male,41, ST,NCP, Nationalist Congress Party, clock,80,NULL,Mizoram,01-01-2018,Loser,-6794
+A,Assembly,Mamit,B Lalhmunzawnga, Male,55, ST,IND, Independent, ring,75,NULL,Mizoram,01-01-2018,Loser,-6799
+A,Assembly,Mamit,John Rotluangliana, Male,50, ST,INC, Indian National Congress, hand,7798,0.460000008,Mizoram,01-01-2013,Winner,2490
+A,Assembly,Mamit,H B Lianmunga, Male,51, ST,MNF, Mizo National Front, star,5308,0.310000002,Mizoram,01-01-2013,Loser,-2490
+A,Assembly,Mamit,Biakthuama Molshoy, Male,35, ST,NCP, Nationalist Congress Party, clock,2368,0.140000001,Mizoram,01-01-2013,Loser,-5430
+A,Assembly,Mamit,H Laltanpuia, Male,37, ST,ZNP, Zoram Nationalist Party, sun (without rays),1296,0.079999998,Mizoram,01-01-2013,Loser,-6502
+A,Assembly,Mamit,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,151,0.01,Mizoram,01-01-2013,Loser,-7647
+A,Assembly,Mamit,C Darlianthanga, Male,62, ST,BJP, Bharatiya Janata Party, lotus,100,0.01,Mizoram,01-01-2013,Loser,-7698
+A,Assembly,Mamit,John Rotluangliana, Male,48, ST,INC, Indian National Congress,Unknown,4421,0.319999993,Mizoram,01-01-2008,Winner,2147
+A,Assembly,Mamit,Lalthlengliana, Male,58, ST,MNF, Mizo National Front,Unknown,2274,0.159999996,Mizoram,01-01-2008,Loser,-2147
+A,Assembly,Mamit,Lallawmsanga Apetow, Male,32, ST,IND, Independent,Unknown,2211,0.159999996,Mizoram,01-01-2008,Loser,-2210
+A,Assembly,Mamit,Laltanpuia, Male,32, ST,ZNP, Zoram Nationalist Party,Unknown,2106,0.150000006,Mizoram,01-01-2008,Loser,-2315
+A,Assembly,Mamit,Lalromawia, Male,51, ST,IND, Independent,Unknown,1893,0.140000001,Mizoram,01-01-2008,Loser,-2528
+A,Assembly,Mamit,R Lalhmunmawia, Male,40, ST,IND, Independent,Unknown,366,0.029999999,Mizoram,01-01-2008,Loser,-4055
+A,Assembly,Mamit,Lalhluna, Male,62, ST,BJP, Bharatiya Janata Party,Unknown,232,0.02,Mizoram,01-01-2008,Loser,-4189
+A,Assembly,Mamit,Mathew Lalnunpuia, Male,27, ST,NCP, Nationalist Congress Party,Unknown,107,0.01,Mizoram,01-01-2008,Loser,-4314
+A,Assembly,Mamit,Suresbihari, Male,43, ST,LB, Lok Bharati,Unknown,89,0.01,Mizoram,01-01-2008,Loser,-4332
+A,Assembly,Mamit,M Zarzoliana, Male,28, ST,LJP, Lok Jan Shakti Party,Unknown,68,NULL,Mizoram,01-01-2008,Loser,-4353
+A,Assembly,Mamit,T Lalsanga, Male,49, ST,JD(U), Janata Dal (united),Unknown,57,NULL,Mizoram,01-01-2008,Loser,-4364
+A,Assembly,Mamit,Lalthlengliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2805,0.349999994,Mizoram,01-01-2003,Winner,167
+A,Assembly,Mamit,John Rotluangliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2638,0.330000013,Mizoram,01-01-2003,Loser,-167
+A,Assembly,Mamit,K L Berema, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,2494,0.310000002,Mizoram,01-01-2003,Loser,-311
+A,Assembly,Mamit,Hauliana, Male,Unknown,Unknown,JD(U), Janata Dal (united),Unknown,46,0.01,Mizoram,01-01-2003,Loser,-2759
+A,Assembly,Mamit,Brig T Sailo, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,3480,0.519999981,Mizoram,01-01-1998,Winner,1404
+A,Assembly,Mamit,Lalhuthanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2076,0.310000002,Mizoram,01-01-1998,Loser,-1404
+A,Assembly,Mamit,V L Nithanga, Male,Unknown,Unknown,IND, Independent,Unknown,1067,0.159999996,Mizoram,01-01-1998,Loser,-2413
+A,Assembly,Mamit,Rualhmingthanga, Male,Unknown,Unknown,JD, Janata Dal,Unknown,24,NULL,Mizoram,01-01-1998,Loser,-3456
+A,Assembly,Mamit,Lalthuthanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2940,0.379999995,Mizoram,01-01-1993,Winner,139
+A,Assembly,Mamit,F Lalnienga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2801,0.370000005,Mizoram,01-01-1993,Loser,-139
+A,Assembly,Mamit,K Rosawmliana, Male,Unknown,Unknown,IND, Independents,Unknown,1096,0.140000001,Mizoram,01-01-1993,Loser,-1844
+A,Assembly,Mamit,Vanlalhruaia, Male,Unknown,Unknown,BJP, Bhartiya Janta Party,Unknown,779,0.100000001,Mizoram,01-01-1993,Loser,-2161
+A,Assembly,Mamit,T T Zohmingthanga, Male,Unknown,Unknown,IND, Independents,Unknown,37,NULL,Mizoram,01-01-1993,Loser,-2903
+A,Assembly,Mamit,Lalhuthanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2820,0.419999987,Mizoram,01-01-1989,Winner,326
+A,Assembly,Mamit,R Zamawia, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2494,0.370000005,Mizoram,01-01-1989,Loser,-326
+A,Assembly,Mamit,F Lalnienga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1401,0.209999993,Mizoram,01-01-1989,Loser,-1419
+A,Assembly,Mamit,Ch Thanmawia, Male,Unknown,Unknown,IND, Independents,Unknown,73,0.01,Mizoram,01-01-1989,Loser,-2747
+A,Assembly,Mamit,K Zahungliana, Male,Unknown,Unknown,IND, Independent,Unknown,2193,0.379999995,Mizoram,01-01-1987,Winner,231
+A,Assembly,Mamit,Lalhuthanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1962,0.340000004,Mizoram,01-01-1987,Loser,-231
+A,Assembly,Mamit,F Lalnienga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1378,0.239999995,Mizoram,01-01-1987,Loser,-815
+A,Assembly,Mamit,Neihchhunga, Male,Unknown,Unknown,IND, Independent,Unknown,249,0.039999999,Mizoram,01-01-1987,Loser,-1944
+A,Assembly,Mamit,C Chawngkunga, Male,Unknown,Unknown,IND, Independents,Unknown,1138,0.519999981,Mizoram,01-01-1972,Winner,505
+A,Assembly,Mamit,Fc Ghina, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,633,0.289999992,Mizoram,01-01-1972,Loser,-505
+A,Assembly,Mamit,C Lalhming Thanga, Male,Unknown,Unknown,IND, Independents,Unknown,203,0.090000004,Mizoram,01-01-1972,Loser,-935
+A,Assembly,Mamit,Thangohungnunga, Male,Unknown,Unknown,IND, Independents,Unknown,163,0.07,Mizoram,01-01-1972,Loser,-975
+A,Assembly,Mamit,Rova, Male,Unknown,Unknown,SOP, Samyukta Socialist Party/socialist Party,Unknown,41,0.02,Mizoram,01-01-1972,Loser,-1097
+A,Assembly,Palak,M Chakhu, Male,40, ST,MNF, Mizo National Front, star,5492,0.370000005,Mizoram,01-01-2018,Winner,844
+A,Assembly,Palak,Hiphei, Male,81, ST,BJP, Bharatiya Janata Party, lotus,4648,0.319999993,Mizoram,01-01-2018,Loser,-844
+A,Assembly,Palak,K T Rokhaw, Male,54, ST,INC, Indian National Congress, hand,4431,0.300000012,Mizoram,01-01-2018,Loser,-1061
+A,Assembly,Palak,S Sathlu, Male,58, ST,IND, Independent, boat with man and sail,59,NULL,Mizoram,01-01-2018,Loser,-5433
+A,Assembly,Palak,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,40,NULL,Mizoram,01-01-2018,Loser,-5452
+A,Assembly,Palak,Hiphei, Male,73, ST,INC, Indian National Congress, hand,7256,0.569999993,Mizoram,01-01-2013,Winner,1823
+A,Assembly,Palak,Pp Thawla, Male,63, ST,MDF, Maraland Democratic Front, hat,5433,0.430000007,Mizoram,01-01-2013,Loser,-1823
+A,Assembly,Palak,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,72,0.01,Mizoram,01-01-2013,Loser,-7184
+A,Assembly,Palak,P P Thawla, Male,52, ST,MDF, Maraland Democratic Front,Unknown,4206,0.330000013,Mizoram,01-01-2008,Winner,84
+A,Assembly,Palak,T T Vakhu, Male,49, ST,INC, Indian National Congress,Unknown,4122,0.330000013,Mizoram,01-01-2008,Loser,-84
+A,Assembly,Palak,Laicho Notlia, Male,57, ST,IND, Independent,Unknown,2167,0.170000002,Mizoram,01-01-2008,Loser,-2039
+A,Assembly,Palak,K T Rokhaw, Male,48, ST,IND, Independent,Unknown,1877,0.150000006,Mizoram,01-01-2008,Loser,-2329
+A,Assembly,Palak,N Beikhai, Male,50, ST,MPC, Mizoram People's Conference,Unknown,185,0.01,Mizoram,01-01-2008,Loser,-4021
+A,Assembly,Palak,Lalthlahlova, Male,32, ST,LJP, Lok Jan Shakti Party,Unknown,46,NULL,Mizoram,01-01-2008,Loser,-4160
+A,Assembly,Serchhip,Lalduhoma, Male,69, ST,IND, Independent, hat,5481,0.349999994,Mizoram,01-01-2018,Winner,410
+A,Assembly,Serchhip,Lal Thanhawla, Male,80, ST,INC, Indian National Congress, hand,5071,0.330000013,Mizoram,01-01-2018,Loser,-410
+A,Assembly,Serchhip,C Lalramzauva, Male,57, ST,MNF, Mizo National Front, star,4313,0.280000001,Mizoram,01-01-2018,Loser,-1168
+A,Assembly,Serchhip,Zaichhawna Hlawndo, Male,55, ST,IND, Independent, ring,278,0.02,Mizoram,01-01-2018,Loser,-5203
+A,Assembly,Serchhip,Lalchunglura, Male,57, ST,BJP, Bharatiya Janata Party, lotus,211,0.01,Mizoram,01-01-2018,Loser,-5270
+A,Assembly,Serchhip,Kapliana Pachuau, Male,40, ST,NPEP, National People's Party, book,119,0.01,Mizoram,01-01-2018,Loser,-5362
+A,Assembly,Serchhip,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,41,NULL,Mizoram,01-01-2018,Loser,-5440
+A,Assembly,Serchhip,Vanlalruata, Male,43, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,29,NULL,Mizoram,01-01-2018,Loser,-5452
+A,Assembly,Serchhip,Lal Thanhawla, Male,71, ST,INC, Indian National Congress, hand,5719,0.409999996,Mizoram,01-01-2013,Winner,734
+A,Assembly,Serchhip,C Lalramzauva, Male,52, ST,MNF, Mizo National Front, star,4985,0.360000014,Mizoram,01-01-2013,Loser,-734
+A,Assembly,Serchhip,P B Lalsawmliana, Male,40, ST,ZNP, Zoram Nationalist Party, sun (without rays),2899,0.209999993,Mizoram,01-01-2013,Loser,-2820
+A,Assembly,Serchhip,Lalawmpuia Renthlei, Male,36, ST,IND, Independent, walking stick,120,0.01,Mizoram,01-01-2013,Loser,-5599
+A,Assembly,Serchhip,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,65,NULL,Mizoram,01-01-2013,Loser,-5654
+A,Assembly,Serchhip,Lal Thanhawla, Male,68, ST,INC, Indian National Congress,Unknown,4744,0.400000006,Mizoram,01-01-2008,Winner,952
+A,Assembly,Serchhip,C Lalramzauva, Male,47, ST,ZNP, Zoram Nationalist Party,Unknown,3792,0.319999993,Mizoram,01-01-2008,Loser,-952
+A,Assembly,Serchhip,R Lalhnuna, Male,49, ST,MNF, Mizo National Front,Unknown,3338,0.280000001,Mizoram,01-01-2008,Loser,-1406
+A,Assembly,Serchhip,Lalkulhliana, Male,42, ST,LJP, Lok Jan Shakti Party,Unknown,82,0.01,Mizoram,01-01-2008,Loser,-4662
+A,Assembly,Serchhip,Lal Thanhawla, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,4937,0.400000006,Mizoram,01-01-2003,Winner,927
+A,Assembly,Serchhip,J Sawilaia, Male,Unknown,Unknown,IND, Independent,Unknown,4010,0.319999993,Mizoram,01-01-2003,Loser,-927
+A,Assembly,Serchhip,C Lalramzauva, Male,Unknown,Unknown,ZNP, Zoram Nationalist Party,Unknown,3538,0.280000001,Mizoram,01-01-2003,Loser,-1399
+A,Assembly,Serchhip,K Thangzuala, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4596,0.460000008,Mizoram,01-01-1998,Winner,696
+A,Assembly,Serchhip,Lalthanhawla, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3900,0.389999986,Mizoram,01-01-1998,Loser,-696
+A,Assembly,Serchhip,Chalthanzauva, Male,Unknown,Unknown,MNF(N), Mizo National Front (nationalist),Unknown,1419,0.140000001,Mizoram,01-01-1998,Loser,-3177
+A,Assembly,Serchhip,J Rothangpuii, Female,Unknown,Unknown,RJD, Rashtriya Janata Dal,Unknown,70,0.01,Mizoram,01-01-1998,Loser,-4526
+A,Assembly,Serchhip,Rualpawla, Male,Unknown,Unknown,IND, Independent,Unknown,57,0.01,Mizoram,01-01-1998,Loser,-4539
+A,Assembly,Serchhip,Lalthanzami, Female,Unknown,Unknown,IND, Independent,Unknown,15,NULL,Mizoram,01-01-1998,Loser,-4581
+A,Assembly,Serchhip,Biakenga, Male,Unknown,Unknown,IND, Independent,Unknown,7,NULL,Mizoram,01-01-1998,Loser,-4589
+A,Assembly,Serchhip,Lal Thanhawla, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,5267,0.569999993,Mizoram,01-01-1993,Winner,1286
+A,Assembly,Serchhip,R Lalawia, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3981,0.430000007,Mizoram,01-01-1993,Loser,-1286
+A,Assembly,Serchhip,Lalthanhawla, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3235,0.439999998,Mizoram,01-01-1989,Winner,843
+A,Assembly,Serchhip,Lianhmingthanga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,2392,0.319999993,Mizoram,01-01-1989,Loser,-843
+A,Assembly,Serchhip,J V Hiuna, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1659,0.219999999,Mizoram,01-01-1989,Loser,-1576
+A,Assembly,Serchhip,K Sapdanga, Male,Unknown,Unknown,IND, Independents,Unknown,97,0.01,Mizoram,01-01-1989,Loser,-3138
+A,Assembly,Serchhip,Lalthanhawla, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2711,0.370000005,Mizoram,01-01-1987,Winner,231
+A,Assembly,Serchhip,Lalrawnliana, Male,Unknown,Unknown,IND, Independent,Unknown,2480,0.340000004,Mizoram,01-01-1987,Loser,-231
+A,Assembly,Serchhip,C Vulluaia, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,2025,0.280000001,Mizoram,01-01-1987,Loser,-686
+A,Assembly,Serchhip,Paul T K Dawnga, Male,Unknown,Unknown,IND, Independent,Unknown,28,NULL,Mizoram,01-01-1987,Loser,-2683
+A,Assembly,Serchhip,Lal Thanhawla, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2456,0.460000008,Mizoram,01-01-1984,Winner,270
+A,Assembly,Serchhip,C V Ulluaia, Male,Unknown,Unknown,PC, Peoples Conference,Unknown,2186,0.409999996,Mizoram,01-01-1984,Loser,-270
+A,Assembly,Serchhip,V L Khama, Male,Unknown,Unknown,IND, Independent,Unknown,511,0.100000001,Mizoram,01-01-1984,Loser,-1945
+A,Assembly,Serchhip,Rosiamhnuna, Male,Unknown,Unknown,IND, Independent,Unknown,196,0.039999999,Mizoram,01-01-1984,Loser,-2260
+A,Assembly,Serchhip,Bualhranga, Male,Unknown,Unknown,PPC, People's Conference,Unknown,2135,0.370000005,Mizoram,01-01-1979,Winner,133
+A,Assembly,Serchhip,Vaivenga, Male,Unknown,Unknown,INC(I), Indian National Congress (i),Unknown,2002,0.349999994,Mizoram,01-01-1979,Loser,-133
+A,Assembly,Serchhip,Hrangaia, Male,Unknown,Unknown,IND, Independents,Unknown,588,0.100000001,Mizoram,01-01-1979,Loser,-1547
+A,Assembly,Serchhip,Hrangthanga, Male,Unknown,Unknown,JNP, Janta Party,Unknown,544,0.100000001,Mizoram,01-01-1979,Loser,-1591
+A,Assembly,Serchhip,Lalliana, Male,Unknown,Unknown,IND, Independents,Unknown,455,0.079999998,Mizoram,01-01-1979,Loser,-1680
+A,Assembly,Serchhip,Thanmawii, Female,Unknown,Unknown,PPC, People's Conference,Unknown,1824,0.409999996,Mizoram,01-01-1978,Winner,119
+A,Assembly,Serchhip,Vaivenga, Male,Unknown,Unknown,IND, Independent,Unknown,1705,0.389999986,Mizoram,01-01-1978,Loser,-119
+A,Assembly,Serchhip,K H Robuanga, Male,Unknown,Unknown,IND, Independent,Unknown,695,0.159999996,Mizoram,01-01-1978,Loser,-1129
+A,Assembly,Serchhip,C Rothanga, Male,Unknown,Unknown,IND, Independent,Unknown,172,0.039999999,Mizoram,01-01-1978,Loser,-1652
+A,Assembly,Serchhip,Hauliana, Male,Unknown,Unknown,IND, Independent,Unknown,31,0.01,Mizoram,01-01-1978,Loser,-1793
+A,Assembly,Serchhip,Vaivenga, Male,Unknown,Unknown,IND, Independents,Unknown,1776,0.449999988,Mizoram,01-01-1972,Winner,383
+A,Assembly,Serchhip,Z V Lalmawia, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1393,0.349999994,Mizoram,01-01-1972,Loser,-383
+A,Assembly,Serchhip,Lalhmuakliana Sailo, Male,Unknown,Unknown,IND, Independents,Unknown,500,0.129999995,Mizoram,01-01-1972,Loser,-1276
+A,Assembly,Serchhip,Lalliana, Male,Unknown,Unknown,IND, Independents,Unknown,231,0.059999999,Mizoram,01-01-1972,Loser,-1545
+A,Assembly,Serchhip,Sapchhawnngura, Male,Unknown,Unknown,IND, Independents,Unknown,47,0.01,Mizoram,01-01-1972,Loser,-1729
+A,Assembly,Serchhip,Raizatawna, Male,Unknown,Unknown,SOP, Samyukta Socialist Party/socialist Party,Unknown,40,0.01,Mizoram,01-01-1972,Loser,-1736
+A,Assembly,Serlui,Lalrinsanga Ralte, Male,40, ST,MNF, Mizo National Front, star,6128,0.379999995,Mizoram,01-01-2018,Winner,927
+A,Assembly,Serlui,Lalhmachhuana, Male,34, ST,INC, Indian National Congress, hand,5201,0.319999993,Mizoram,01-01-2018,Loser,-927
+A,Assembly,Serlui,Lalmuanpuia Punte, Male,51, ST,IND, Independent, hat,1995,0.119999997,Mizoram,01-01-2018,Loser,-4133
+A,Assembly,Serlui,Vanlalhmuaka, Male,42, ST,BJP, Bharatiya Janata Party, lotus,1959,0.119999997,Mizoram,01-01-2018,Loser,-4169
+A,Assembly,Serlui,Hmingchungnunga, Male,57, ST,NPEP, National People's Party, book,638,0.039999999,Mizoram,01-01-2018,Loser,-5490
+A,Assembly,Serlui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,134,0.01,Mizoram,01-01-2018,Loser,-5994
+A,Assembly,Serlui,K Lalrinthanga, Male,56, ST,INC, Indian National Congress, hand,5664,0.409999996,Mizoram,01-01-2013,Winner,1406
+A,Assembly,Serlui,Lalhmingliana, Male,57, ST,MNF, Mizo National Front, star,4258,0.300000012,Mizoram,01-01-2013,Loser,-1406
+A,Assembly,Serlui,R Lalawia, Male,72, ST,ZNP, Zoram Nationalist Party, sun (without rays),3549,0.25,Mizoram,01-01-2013,Loser,-2115
+A,Assembly,Serlui,H A Dawngliana, Male,51, ST,BJP, Bharatiya Janata Party, lotus,354,0.029999999,Mizoram,01-01-2013,Loser,-5310
+A,Assembly,Serlui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,155,0.01,Mizoram,01-01-2013,Loser,-5509
+A,Assembly,Serlui,K Lalrinthanga, Male,54, ST,INC, Indian National Congress,Unknown,4536,0.370000005,Mizoram,01-01-2008,Winner,924
+A,Assembly,Serlui,D Thangliana, Male,53, ST,MNF, Mizo National Front,Unknown,3612,0.300000012,Mizoram,01-01-2008,Loser,-924
+A,Assembly,Serlui,H L Hluna, Male,42, ST,ZNP, Zoram Nationalist Party,Unknown,2381,0.200000003,Mizoram,01-01-2008,Loser,-2155
+A,Assembly,Serlui,Vanlalhmuaka, Male,37, ST,IND, Independent,Unknown,1370,0.109999999,Mizoram,01-01-2008,Loser,-3166
+A,Assembly,Serlui,Laldawmliana, Male,39, ST,LB, Lok Bharati,Unknown,169,0.01,Mizoram,01-01-2008,Loser,-4367
+A,Assembly,Serlui,David Lalrosanga, Male,30, ST,LJP, Lok Jan Shakti Party,Unknown,76,0.01,Mizoram,01-01-2008,Loser,-4460
+A,Assembly,Siaha,Dr K Beichhua, Male,52, ST,MNF, Mizo National Front, star,8109,0.5,Mizoram,01-01-2018,Winner,2468
+A,Assembly,Siaha,S Hiato, Male,76, ST,INC, Indian National Congress, hand,5641,0.349999994,Mizoram,01-01-2018,Loser,-2468
+A,Assembly,Siaha,S Vadyu, Male,77, ST,BJP, Bharatiya Janata Party, lotus,2315,0.140000001,Mizoram,01-01-2018,Loser,-5794
+A,Assembly,Siaha,F Thangchhuaha, Male,69, ST,IND, Independent, hat,171,0.01,Mizoram,01-01-2018,Loser,-7938
+A,Assembly,Siaha,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,41,NULL,Mizoram,01-01-2018,Loser,-8068
+A,Assembly,Southtuipui,Dr R Lalthangliana, Male,62, ST,MNF, Mizo National Front, star,6126,0.5,Mizoram,01-01-2018,Winner,1469
+A,Assembly,Southtuipui,John Siamkunga, Male,57, ST,INC, Indian National Congress, hand,4657,0.379999995,Mizoram,01-01-2018,Loser,-1469
+A,Assembly,Southtuipui,Phairothanga, Male,45, ST,IND, Independent, hat,1359,0.109999999,Mizoram,01-01-2018,Loser,-4767
+A,Assembly,Southtuipui,Lalnunpuia, Male,41, ST,BJP, Bharatiya Janata Party, lotus,151,0.01,Mizoram,01-01-2018,Loser,-5975
+A,Assembly,Southtuipui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,35,NULL,Mizoram,01-01-2018,Loser,-6091
+A,Assembly,Southtuipui,John Siamkunga, Male,52, ST,INC, Indian National Congress, hand,4912,0.419999987,Mizoram,01-01-2013,Winner,1568
+A,Assembly,Southtuipui,J Lalchhuana, Male,59, ST,ZNP, Zoram Nationalist Party, sun (without rays),3344,0.289999992,Mizoram,01-01-2013,Loser,-1568
+A,Assembly,Southtuipui,Z H Ropuia, Male,54, ST,MNF, Mizo National Front, star,3217,0.280000001,Mizoram,01-01-2013,Loser,-1695
+A,Assembly,Southtuipui,Pc Remthanga, Male,56, ST,BJP, Bharatiya Janata Party, lotus,53,NULL,Mizoram,01-01-2013,Loser,-4859
+A,Assembly,Southtuipui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,49,NULL,Mizoram,01-01-2013,Loser,-4863
+A,Assembly,Southtuipui,Lalthanhawla, Male,68, ST,INC, Indian National Congress,Unknown,3772,0.349999994,Mizoram,01-01-2008,Winner,96
+A,Assembly,Southtuipui,J Lalchhuana, Male,54, ST,ZNP, Zoram Nationalist Party,Unknown,3676,0.349999994,Mizoram,01-01-2008,Loser,-96
+A,Assembly,Southtuipui,F Lalthanzuala, Male,60, ST,MNF, Mizo National Front,Unknown,2760,0.25999999,Mizoram,01-01-2008,Loser,-1012
+A,Assembly,Southtuipui,L Remlala Fanai, Male,42, ST,IND, Independent,Unknown,387,0.039999999,Mizoram,01-01-2008,Loser,-3385
+A,Assembly,Southtuipui,Lalramliana Ralte, Male,56, ST,LJP, Lok Jan Shakti Party,Unknown,44,NULL,Mizoram,01-01-2008,Loser,-3728
+A,Assembly,Tawi,R Lalzirliana, Male,69, ST,MNF, Mizo National Front, star,4940,0.370000005,Mizoram,01-01-2018,Winner,184
+A,Assembly,Tawi,R Lalthatluanga, Male,52, ST,IND, Independent, hat,4756,0.360000014,Mizoram,01-01-2018,Loser,-184
+A,Assembly,Tawi,Rosiamngheta, Male,54, ST,INC, Indian National Congress, hand,2630,0.200000003,Mizoram,01-01-2018,Loser,-2310
+A,Assembly,Tawi,Prof J V Hluna, Male,66, ST,BJP, Bharatiya Janata Party, lotus,714,0.050000001,Mizoram,01-01-2018,Loser,-4226
+A,Assembly,Tawi,H Lalremsiama, Male,34, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,97,0.01,Mizoram,01-01-2018,Loser,-4843
+A,Assembly,Tawi,Lalzenghaki, Female,45, ST,IND, Independent, ring,49,NULL,Mizoram,01-01-2018,Loser,-4891
+A,Assembly,Tawi,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,39,NULL,Mizoram,01-01-2018,Loser,-4901
+A,Assembly,Tawi,R Lalzirliana, Male,64, ST,INC, Indian National Congress, hand,5757,0.449999988,Mizoram,01-01-2013,Winner,947
+A,Assembly,Tawi,Lalmalsawmi, Female,43, ST,MNF, Mizo National Front, star,4810,0.379999995,Mizoram,01-01-2013,Loser,-947
+A,Assembly,Tawi,R Lalthatluanga, Male,49, ST,ZNP, Zoram Nationalist Party, sun (without rays),2023,0.159999996,Mizoram,01-01-2013,Loser,-3734
+A,Assembly,Tawi,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,84,0.01,Mizoram,01-01-2013,Loser,-5673
+A,Assembly,Tawi,R Lalzirliana, Male,56, ST,INC, Indian National Congress,Unknown,4710,0.409999996,Mizoram,01-01-2008,Winner,1211
+A,Assembly,Tawi,Lalchhandama Ralte, Male,37, ST,MNF, Mizo National Front,Unknown,3499,0.310000002,Mizoram,01-01-2008,Loser,-1211
+A,Assembly,Tawi,Dr Kenneth Chawngliana, Male,62, ST,MPC, Mizoram People's Conference,Unknown,3127,0.270000011,Mizoram,01-01-2008,Loser,-1583
+A,Assembly,Tawi,Biakngheta, Male,43, ST,LJP, Lok Jan Shakti Party,Unknown,71,0.01,Mizoram,01-01-2008,Loser,-4639
+A,Assembly,Thorang,Zodintluanga Ralte, Male,56, ST,INC, Indian National Congress, hand,4549,0.400000006,Mizoram,01-01-2018,Winner,1273
+A,Assembly,Thorang,R Rohmingliana, Male,46, ST,MNF, Mizo National Front, star,3276,0.289999992,Mizoram,01-01-2018,Loser,-1273
+A,Assembly,Thorang,Joseph Lalzawmliana, Male,45, ST,BJP, Bharatiya Janata Party, lotus,1753,0.150000006,Mizoram,01-01-2018,Loser,-2796
+A,Assembly,Thorang,Lalrinzuala, Male,66, ST,IND, Independent, hat,1102,0.100000001,Mizoram,01-01-2018,Loser,-3447
+A,Assembly,Thorang,Lalhuliana, Male,53, ST,NPEP, National People's Party, book,671,0.059999999,Mizoram,01-01-2018,Loser,-3878
+A,Assembly,Thorang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,81,0.01,Mizoram,01-01-2018,Loser,-4468
+A,Assembly,Thorang,Zodintluanga, Male,51, ST,INC, Indian National Congress, hand,6423,0.589999974,Mizoram,01-01-2013,Winner,2504
+A,Assembly,Thorang,Joseph Lalzawmliana, Male,40, ST,MNF, Mizo National Front, star,3919,0.360000014,Mizoram,01-01-2013,Loser,-2504
+A,Assembly,Thorang,Elis Lungtiawia, Male,36, ST,ZNP, Zoram Nationalist Party, sun (without rays),347,0.029999999,Mizoram,01-01-2013,Loser,-6076
+A,Assembly,Thorang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,169,0.02,Mizoram,01-01-2013,Loser,-6254
+A,Assembly,Thorang,Zodintluanga, Male,46, ST,INC, Indian National Congress,Unknown,4442,0.460000008,Mizoram,01-01-2008,Winner,1829
+A,Assembly,Thorang,Lalnuntluanga Sailo, Male,42, ST,MNF, Mizo National Front,Unknown,2613,0.270000011,Mizoram,01-01-2008,Loser,-1829
+A,Assembly,Thorang,Zothanpuia Sailo, Male,33, ST,IND, Independent,Unknown,1629,0.170000002,Mizoram,01-01-2008,Loser,-2813
+A,Assembly,Thorang,Paritosh Chakma, Male,26, ST,IND, Independent,Unknown,841,0.090000004,Mizoram,01-01-2008,Loser,-3601
+A,Assembly,Thorang,B N Lalit Chakma, Male,40, ST,LJP, Lok Jan Shakti Party,Unknown,67,0.01,Mizoram,01-01-2008,Loser,-4375
+A,Assembly,Tuichang,Tawnluia, Male,75, ST,MNF, Mizo National Front, star,5146,0.400000006,Mizoram,01-01-2018,Winner,739
+A,Assembly,Tuichang,W Chhuanawma, Male,58, ST,IND, Independent, hat,4407,0.340000004,Mizoram,01-01-2018,Loser,-739
+A,Assembly,Tuichang,James Thanghmingmawia, Male,43, ST,INC, Indian National Congress, hand,3171,0.239999995,Mizoram,01-01-2018,Loser,-1975
+A,Assembly,Tuichang,Lalduhpuii, Female,50, ST,BJP, Bharatiya Janata Party, lotus,174,0.01,Mizoram,01-01-2018,Loser,-4972
+A,Assembly,Tuichang,Lalremsanga, Male,63, ST,IND, Independent, ring,97,0.01,Mizoram,01-01-2018,Loser,-5049
+A,Assembly,Tuichang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,26,NULL,Mizoram,01-01-2018,Loser,-5120
+A,Assembly,Tuichang,Lalrinliana Sailo, Male,54, ST,INC, Indian National Congress, hand,6258,0.49000001,Mizoram,01-01-2013,Winner,2985
+A,Assembly,Tuichang,Dr H Lallungmuana, Male,64, ST,MNF, Mizo National Front, star,3273,0.25,Mizoram,01-01-2013,Loser,-2985
+A,Assembly,Tuichang,Lalbiakzama, Male,48, ST,ZNP, Zoram Nationalist Party, sun (without rays),3229,0.25,Mizoram,01-01-2013,Loser,-3029
+A,Assembly,Tuichang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,100,0.01,Mizoram,01-01-2013,Loser,-6158
+A,Assembly,Tuichang,Lalrinliana Sailo, Male,50, ST,INC, Indian National Congress,Unknown,4428,0.389999986,Mizoram,01-01-2008,Winner,881
+A,Assembly,Tuichang,Rualkhuma Hmar, Male,55, ST,ZNP, Zoram Nationalist Party,Unknown,3547,0.310000002,Mizoram,01-01-2008,Loser,-881
+A,Assembly,Tuichang,R Lalawia, Male,56, ST,MNF, Mizo National Front,Unknown,3288,0.289999992,Mizoram,01-01-2008,Loser,-1140
+A,Assembly,Tuichang,C Lawmthanga, Male,45, ST,LJP, Lok Jan Shakti Party,Unknown,86,0.01,Mizoram,01-01-2008,Loser,-4342
+A,Assembly,Tuichawng,Buddha Dhan Chakma, Male,40, ST,INC, Indian National Congress, hand,14626,0.689999998,Mizoram,01-01-2013,Winner,8726
+A,Assembly,Tuichawng,Rasik Mohan Chakma, Male,49, ST,MNF, Mizo National Front, star,5900,0.280000001,Mizoram,01-01-2013,Loser,-8726
+A,Assembly,Tuichawng,Victor Talukdar, Male,29, ST,BJP, Bharatiya Janata Party, lotus,374,0.02,Mizoram,01-01-2013,Loser,-14252
+A,Assembly,Tuichawng,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,167,0.01,Mizoram,01-01-2013,Loser,-14459
+A,Assembly,Tuichawng,Buddha Dhan Chakma, Male,45, ST,BJP, Bharatiya Janata Party, lotus,11419,0.439999998,Mizoram,01-01-2018,Winner,1594
+A,Assembly,Tuichawng,Rasik Mohan Chakma, Male,54, ST,MNF, Mizo National Front, star,9825,0.379999995,Mizoram,01-01-2018,Loser,-1594
+A,Assembly,Tuichawng,Kali Kumar Tongchangya, Male,46, ST,INC, Indian National Congress, hand,4353,0.170000002,Mizoram,01-01-2018,Loser,-7066
+A,Assembly,Tuichawng,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,293,0.01,Mizoram,01-01-2018,Loser,-11126
+A,Assembly,Tuichawng,Doymoy Daveng Chakma, Male,30, ST,NPEP, National People's Party, book,250,0.01,Mizoram,01-01-2018,Loser,-11169
+A,Assembly,Tuichawng,Nirupam Chakma, Male,47, ST,INC, Indian National Congress,Unknown,10421,0.560000002,Mizoram,01-01-2008,Winner,3112
+A,Assembly,Tuichawng,Rasik Mohan Chakma, Male,38, ST,MNF, Mizo National Front,Unknown,7309,0.400000006,Mizoram,01-01-2008,Loser,-3112
+A,Assembly,Tuichawng,Laxmi Bikash Chakma, Male,40, ST,BJP, Bharatiya Janata Party,Unknown,435,0.02,Mizoram,01-01-2008,Loser,-9986
+A,Assembly,Tuichawng,D K Thanga, Male,26, ST,LJP, Lok Jan Shakti Party,Unknown,298,0.02,Mizoram,01-01-2008,Loser,-10123
+A,Assembly,Tuikum,Er Lalrinawma, Male,45, ST,MNF, Mizo National Front, star,5439,0.400000006,Mizoram,01-01-2018,Winner,1397
+A,Assembly,Tuikum,Sangzela Tlau, Male,55, ST,INC, Indian National Congress, hand,4042,0.300000012,Mizoram,01-01-2018,Loser,-1397
+A,Assembly,Tuikum,P C Vanlalruata, Male,45, ST,IND, Independent, hat,3810,0.280000001,Mizoram,01-01-2018,Loser,-1629
+A,Assembly,Tuikum,Lalnunmawia Chhakchhuak, Male,40, ST,BJP, Bharatiya Janata Party, lotus,140,0.01,Mizoram,01-01-2018,Loser,-5299
+A,Assembly,Tuikum,Lalruatfeli Hlawndo, Female,26, ST,IND, Independent, ring,135,0.01,Mizoram,01-01-2018,Loser,-5304
+A,Assembly,Tuikum,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,59,NULL,Mizoram,01-01-2018,Loser,-5380
+A,Assembly,Tuikum,Rc Rohmingthanga, Male,65, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,22,NULL,Mizoram,01-01-2018,Loser,-5417
+A,Assembly,Tuikum,Er Lalrinawma, Male,40, ST,MNF, Mizo National Front, star,4467,0.360000014,Mizoram,01-01-2013,Winner,14
+A,Assembly,Tuikum,K Lianzuala, Male,58, ST,INC, Indian National Congress, hand,4453,0.349999994,Mizoram,01-01-2013,Loser,-14
+A,Assembly,Tuikum,Pc Vanlalruata, Male,40, ST,ZNP, Zoram Nationalist Party, sun (without rays),3575,0.280000001,Mizoram,01-01-2013,Loser,-892
+A,Assembly,Tuikum,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,78,0.01,Mizoram,01-01-2013,Loser,-4389
+A,Assembly,Tuikum,K Lianzuala, Male,50, ST,INC, Indian National Congress,Unknown,4265,0.370000005,Mizoram,01-01-2008,Winner,402
+A,Assembly,Tuikum,Vanlalhlana, Male,48, ST,MPC, Mizoram People's Conference,Unknown,3863,0.330000013,Mizoram,01-01-2008,Loser,-402
+A,Assembly,Tuikum,T C Pachhunga, Male,51, ST,MNF, Mizo National Front,Unknown,2341,0.200000003,Mizoram,01-01-2008,Loser,-1924
+A,Assembly,Tuikum,T Lalhmingthanga, Male,39, ST,IND, Independent,Unknown,605,0.050000001,Mizoram,01-01-2008,Loser,-3660
+A,Assembly,Tuikum,C Chawimawia, Male,58, ST,IND, Independent,Unknown,453,0.039999999,Mizoram,01-01-2008,Loser,-3812
+A,Assembly,Tuikum,H Lalthangmawia, Male,32, ST,LJP, Lok Jan Shakti Party,Unknown,60,0.01,Mizoram,01-01-2008,Loser,-4205
+A,Assembly,Tuirial,Andrew H Thangliana, Male,41, ST,IND, Independent, hat,4387,0.310000002,Mizoram,01-01-2018,Winner,204
+A,Assembly,Tuirial,Sailothanga Sailo, Male,70, ST,MNF, Mizo National Front, star,4183,0.289999992,Mizoram,01-01-2018,Loser,-204
+A,Assembly,Tuirial,Joseph L Ralte, Male,50, ST,INC, Indian National Congress, hand,3748,0.25999999,Mizoram,01-01-2018,Loser,-639
+A,Assembly,Tuirial,Hmingdailova Khiangte, Male,74, ST,NPEP, National People's Party, book,1209,0.079999998,Mizoram,01-01-2018,Loser,-3178
+A,Assembly,Tuirial,Jacob T Vanlawma, Male,34, ST,BJP, Bharatiya Janata Party, lotus,487,0.029999999,Mizoram,01-01-2018,Loser,-3900
+A,Assembly,Tuirial,B Vanlalhruaia, Male,50, ST,NPEP, National People's Party, diamond,104,0.01,Mizoram,01-01-2018,Loser,-4283
+A,Assembly,Tuirial,V Lalennawma, Male,67, ST,IND, Independent, ring,66,NULL,Mizoram,01-01-2018,Loser,-4321
+A,Assembly,Tuirial,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,61,NULL,Mizoram,01-01-2018,Loser,-4326
+A,Assembly,Tuirial,Hmingdailova Khiangte, Male,68, ST,INC, Indian National Congress, hand,5119,0.389999986,Mizoram,01-01-2013,Winner,239
+A,Assembly,Tuirial,Joseph L Ralte, Male,45, ST,ZNP, Zoram Nationalist Party, sun (without rays),4880,0.370000005,Mizoram,01-01-2013,Loser,-239
+A,Assembly,Tuirial,Dr Kenneth Chawngliana, Male,67, ST,MPC, Mizoram People's Conference, electric bulb,2982,0.230000004,Mizoram,01-01-2013,Loser,-2137
+A,Assembly,Tuirial,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,103,0.01,Mizoram,01-01-2013,Loser,-5016
+A,Assembly,Tuirial,Hmingdailova Khiangte, Male,64, ST,INC, Indian National Congress,Unknown,4717,0.400000006,Mizoram,01-01-2008,Winner,1022
+A,Assembly,Tuirial,Sailothanga Sailo, Male,63, ST,MPC, Mizoram People's Conference,Unknown,3695,0.310000002,Mizoram,01-01-2008,Loser,-1022
+A,Assembly,Tuirial,Lalliankima, Male,49, ST,MNF, Mizo National Front,Unknown,3204,0.270000011,Mizoram,01-01-2008,Loser,-1513
+A,Assembly,Tuirial,Lalhluna, Male,49, ST,IND, Independent,Unknown,188,0.02,Mizoram,01-01-2008,Loser,-4529
+A,Assembly,Tuirial,Moses Malsawmtluanga, Male,31, ST,IND, Independent,Unknown,78,0.01,Mizoram,01-01-2008,Loser,-4639
+A,Assembly,Tuirial,Zoramsangzela, Male,50, ST,LJP, Lok Jan Shakti Party,Unknown,35,NULL,Mizoram,01-01-2008,Loser,-4682
+A,Assembly,Tuivawl,Lalchhandama Ralte, Male,46, ST,MNF, Mizo National Front, star,5207,0.389999986,Mizoram,01-01-2018,Winner,3
+A,Assembly,Tuivawl,R L Pianmawia, Male,59, ST,INC, Indian National Congress, hand,5204,0.389999986,Mizoram,01-01-2018,Loser,-3
+A,Assembly,Tuivawl,Judy Zohmingliani, Female,62, ST,BJP, Bharatiya Janata Party, lotus,1607,0.119999997,Mizoram,01-01-2018,Loser,-3600
+A,Assembly,Tuivawl,K Romawia, Male,60, ST,IND, Independent, hat,1083,0.079999998,Mizoram,01-01-2018,Loser,-4124
+A,Assembly,Tuivawl,H K Hlimpawlthanga, Male,44, ST,IND, Independent, ring,58,NULL,Mizoram,01-01-2018,Loser,-5149
+A,Assembly,Tuivawl,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,52,NULL,Mizoram,01-01-2018,Loser,-5155
+A,Assembly,Tuivawl,R L Pianmawia, Male,56, ST,INC, Indian National Congress, hand,5668,0.449999988,Mizoram,01-01-2013,Winner,1371
+A,Assembly,Tuivawl,Gogo Lalremtluanga, Male,37, ST,MNF, Mizo National Front, star,4297,0.340000004,Mizoram,01-01-2013,Loser,-1371
+A,Assembly,Tuivawl,Lalmuanpuia Punte, Male,46, ST,ZNP, Zoram Nationalist Party, sun (without rays),2412,0.189999998,Mizoram,01-01-2013,Loser,-3256
+A,Assembly,Tuivawl,C Ramkinlova, Male,58, ST,BJP, Bharatiya Janata Party, lotus,63,0.01,Mizoram,01-01-2013,Loser,-5605
+A,Assembly,Tuivawl,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,43,NULL,Mizoram,01-01-2013,Loser,-5625
+A,Assembly,Tuivawl,R L Pianmawia, Male,52, ST,INC, Indian National Congress,Unknown,4276,0.370000005,Mizoram,01-01-2008,Winner,473
+A,Assembly,Tuivawl,Gogo Lalremtluanga, Male,31, ST,MNF, Mizo National Front,Unknown,3803,0.330000013,Mizoram,01-01-2008,Loser,-473
+A,Assembly,Tuivawl,Lalduhawma, Male,59, ST,ZNP, Zoram Nationalist Party,Unknown,3222,0.280000001,Mizoram,01-01-2008,Loser,-1054
+A,Assembly,Tuivawl,Lalhualthanga, Male,48, ST,BJP, Bharatiya Janata Party,Unknown,233,0.02,Mizoram,01-01-2008,Loser,-4043
+A,Assembly,Tuivawl,Lalrinawma, Male,55, ST,LJP, Lok Jan Shakti Party,Unknown,67,0.01,Mizoram,01-01-2008,Loser,-4209
+A,Assembly,Tuivawl,Lalrosema, Male,38, ST,LB, Lok Bharati,Unknown,52,NULL,Mizoram,01-01-2008,Loser,-4224
+A,Assembly,Westtuipui,Nihar Kanti Chakma, Male,49, ST,INC, Indian National Congress, hand,5943,0.460000008,Mizoram,01-01-2018,Winner,2385
+A,Assembly,Westtuipui,Kina Ranjan Chakma, Male,39, ST,BJP, Bharatiya Janata Party, lotus,3558,0.270000011,Mizoram,01-01-2018,Loser,-2385
+A,Assembly,Westtuipui,F Robert Hmingthansanga, Male,38, ST,MNF, Mizo National Front, star,3243,0.25,Mizoram,01-01-2018,Loser,-2700
+A,Assembly,Westtuipui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,121,0.01,Mizoram,01-01-2018,Loser,-5822
+A,Assembly,Westtuipui,B Vanlalauva, Male,30, ST,IND, Independent, hat,103,0.01,Mizoram,01-01-2018,Loser,-5840
+A,Assembly,Westtuipui,Nihar Kanti Chakma, Male,44, ST,INC, Indian National Congress, hand,6914,0.639999986,Mizoram,01-01-2013,Winner,3334
+A,Assembly,Westtuipui,Priti Ranjan Chakma, Male,36, ST,MNF, Mizo National Front, star,3580,0.330000013,Mizoram,01-01-2013,Loser,-3334
+A,Assembly,Westtuipui,Lalrinpuia, Male,49, ST,ZNP, Zoram Nationalist Party, sun (without rays),180,0.02,Mizoram,01-01-2013,Loser,-6734
+A,Assembly,Westtuipui,Zoremsiama, Male,33, ST,BJP, Bharatiya Janata Party, lotus,101,0.01,Mizoram,01-01-2013,Loser,-6813
+A,Assembly,Westtuipui,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,55,0.01,Mizoram,01-01-2013,Loser,-6859
+A,Assembly,Westtuipui,Nihar Kanti, Male,37, ST,INC, Indian National Congress,Unknown,5052,0.569999993,Mizoram,01-01-2008,Winner,1540
+A,Assembly,Westtuipui,Alak Bikash Chakma, Male,41, ST,MNF, Mizo National Front,Unknown,3512,0.389999986,Mizoram,01-01-2008,Loser,-1540
+A,Assembly,Westtuipui,Surath Kumar Chakma, Male,60, ST,BJP, Bharatiya Janata Party,Unknown,192,0.02,Mizoram,01-01-2008,Loser,-4860
+A,Assembly,Westtuipui,Rupen Chakma, Male,37, ST,LJP, Lok Jan Shakti Party,Unknown,150,0.02,Mizoram,01-01-2008,Loser,-4902
+L,Loksabha,Mizoram,C Lalrosanga, Male,62, ST,MNF, Mizo National Front, star,224286,0.448300004,Mizoram,01-01-2019,Winner,8140
+L,Loksabha,Mizoram,Lalnghinglova Hmar, Male,41, ST,IND, Independent, triangle,216146,0.432000011,Mizoram,01-01-2019,Loser,-8140
+L,Loksabha,Mizoram,Nirupam Chakma, Male,59, ST,BJP, Bharatiya Janata Party, lotus,28707,0.057399999,Mizoram,01-01-2019,Loser,-195579
+L,Loksabha,Mizoram,Tbc Lalvenchhunga, Male,36, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram (prism) Party, diamond,13323,0.0266,Mizoram,01-01-2019,Loser,-210963
+L,Loksabha,Mizoram,Lal Hriatrenga Chhangte, Male,54, ST,IND, Independent, tyres,12675,0.0253,Mizoram,01-01-2019,Loser,-211611
+L,Loksabha,Mizoram,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above,Unknown,2509,0.005,Mizoram,01-01-2019,Loser,-221777
+L,Loksabha,Mizoram,Lalthlamuani, Female,63, ST,IND, Independent, binoculars,1975,0.0039,Mizoram,01-01-2019,Loser,-222311
+L,Loksabha,Mizoram,R Rothuama, Male,Unknown,Unknown,IND, Independents,Unknown,74430,0.579999983,Mizoram,01-01-1980,Winner,20539
+L,Loksabha,Mizoram,C Venkunga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,53891,0.419999987,Mizoram,01-01-1980,Loser,-20539
+L,Loksabha,Mizoram,R Rothuama, Male,Unknown,Unknown,IND, Independents,Unknown,53350,0.529699981,Mizoram,01-01-1977,Winner,16008
+L,Loksabha,Mizoram,C L Ruala, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,37342,0.370700002,Mizoram,01-01-1977,Loser,-16008
+L,Loksabha,Mizoram,H K Bawichhuaka, Male,Unknown,Unknown,IND, Independents,Unknown,8534,0.084700003,Mizoram,01-01-1977,Loser,-44816
+L,Loksabha,Mizoram,K Sanglianchhungi, Female,Unknown,Unknown,IND, Independents,Unknown,1499,0.0149,Mizoram,01-01-1977,Loser,-51851
+L,Loksabha,Mizoram,C L Ruala, Male,78, ST,INC, Indian National Congress, hand,210485,0.299800009,Mizoram,01-01-2014,Winner,6154
+L,Loksabha,Mizoram,Robert Romawia Royte, Male,47, ST,IND, Independent, gas cylinder,204331,0.291000009,Mizoram,01-01-2014,Loser,-6154
+L,Loksabha,Mizoram,M Lalmanzuala, Male,72, ST,AAAP, Aam Aadmi Party, broom,11890,0.016899999,Mizoram,01-01-2014,Loser,-198595
+L,Loksabha,Mizoram,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,6495,0.0092,Mizoram,01-01-2014,Loser,-203990
+L,Loksabha,Mizoram,C L Ruala, Male,72, ST,INC, Indian National Congress,Unknown,213779,0.339700013,Mizoram,01-01-2009,Winner,108955
+L,Loksabha,Mizoram,Dr H Lallungmuana, Male,65, ST,IND, Independent,Unknown,104824,0.166600004,Mizoram,01-01-2009,Loser,-108955
+L,Loksabha,Mizoram,Rualpawla, Male,54, ST,IND, Independent,Unknown,4089,0.0065,Mizoram,01-01-2009,Loser,-209690
+L,Loksabha,Mizoram,Lalawmpuia Chhangte, Male,42, ST,NCP, Nationalist Congress Party,Unknown,3299,0.0052,Mizoram,01-01-2009,Loser,-210480
+L,Loksabha,Mizoram,Vanlalzawma, Male,48, ST,MNF, Mizo National Front,Unknown,182864,NULL,Mizoram,01-01-2004,Winner,23694
+L,Loksabha,Mizoram,Dr Laltluangliana Khiangte, Male,43, ST,IND, Independent,Unknown,159170,NULL,Mizoram,01-01-2004,Loser,-23694
+L,Loksabha,Mizoram,Tlangdingliana, Male,63, ST,EU, Ephraim Union,Unknown,6512,NULL,Mizoram,01-01-2004,Loser,-176352
+L,Loksabha,Mizoram,Vanlalzawma, Male,Unknown,Unknown,IND, Independent,Unknown,171557,0.588,Mizoram,01-01-1999,Winner,68659
+L,Loksabha,Mizoram,Rokamlova, Male,Unknown,Unknown,IND, Independent,Unknown,102898,0.352600008,Mizoram,01-01-1999,Loser,-68659
+L,Loksabha,Mizoram,Mylai Hlychho, Male,Unknown,Unknown,MDF, Maraland Democratic Front,Unknown,8444,0.028899999,Mizoram,01-01-1999,Loser,-163113
+L,Loksabha,Mizoram,Rualpawla, Male,Unknown,Unknown,IND, Independent,Unknown,4508,0.0154,Mizoram,01-01-1999,Loser,-167049
+L,Loksabha,Mizoram,Lallianzuala, Male,Unknown,Unknown,RJD, Rashtriya Janata Dal,Unknown,2132,0.0073,Mizoram,01-01-1999,Loser,-169425
+L,Loksabha,Mizoram,P Saidinga, Male,Unknown,Unknown,EU, Ephraim Union,Unknown,1578,0.0054,Mizoram,01-01-1999,Loser,-169979
+L,Loksabha,Mizoram,Lallawmsanga, Male,Unknown,Unknown,LS, Lok Shakti,Unknown,669,0.0023,Mizoram,01-01-1999,Loser,-170888
+L,Loksabha,Mizoram,Dr H Lallungmuana, Male,Unknown,Unknown,IND, Independent,Unknown,106552,0.348699987,Mizoram,01-01-1998,Winner,41
+L,Loksabha,Mizoram,J Lalsangzuala, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,106511,0.3486,Mizoram,01-01-1998,Loser,-41
+L,Loksabha,Mizoram,Dr R Lalthangliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,82047,0.2685,Mizoram,01-01-1998,Loser,-24505
+L,Loksabha,Mizoram,P L Chhuma, Male,Unknown,Unknown,BJP, Bharatiya Janata Party,Unknown,8998,0.0294,Mizoram,01-01-1998,Loser,-97554
+L,Loksabha,Mizoram,Lalianzuala, Male,Unknown,Unknown,RJD, Rashtriya Janata Dal,Unknown,974,0.0032,Mizoram,01-01-1998,Loser,-105578
+L,Loksabha,Mizoram,Zailiana, Male,Unknown,Unknown,IND, Independent,Unknown,494,0.0016,Mizoram,01-01-1998,Loser,-106058
+L,Loksabha,Mizoram,Silvera C, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,126191,0.425000012,Mizoram,01-01-1996,Winner,14481
+L,Loksabha,Mizoram,Lalremsiama F, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,111710,0.376300007,Mizoram,01-01-1996,Loser,-14481
+L,Loksabha,Mizoram,Lalhmingthanga, Male,Unknown,Unknown,IND, Independent,Unknown,57690,0.194299996,Mizoram,01-01-1996,Loser,-68501
+L,Loksabha,Mizoram,Lalthlamuana, Male,Unknown,Unknown,IND, Independent,Unknown,1295,0.0044,Mizoram,01-01-1996,Loser,-124896
+L,Loksabha,Mizoram,C Silvera, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,91612,0.380800009,Mizoram,01-01-1991,Winner,9593
+L,Loksabha,Mizoram,Lalduhoma, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,82019,0.340900004,Mizoram,01-01-1991,Loser,-9593
+L,Loksabha,Mizoram,T Sailo, Male,Unknown,Unknown,JD, Janata Dal,Unknown,56491,0.234799996,Mizoram,01-01-1991,Loser,-35121
+L,Loksabha,Mizoram,Chawngzika, Male,Unknown,Unknown,IND, Independent,Unknown,4455,0.0185,Mizoram,01-01-1991,Loser,-87157
+L,Loksabha,Mizoram,Paul T K Dawnga, Male,Unknown,Unknown,IND, Independent,Unknown,4159,0.0173,Mizoram,01-01-1991,Loser,-87453
+L,Loksabha,Mizoram,C Thangmura, Male,Unknown,Unknown,IND, Independent,Unknown,1511,0.0063,Mizoram,01-01-1991,Loser,-90101
+L,Loksabha,Mizoram,Zohanmania Ralte, Male,Unknown,Unknown,IND, Independent,Unknown,348,0.0014,Mizoram,01-01-1991,Loser,-91264
+L,Loksabha,Mizoram,C Silvera, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,109571,0.484499991,Mizoram,01-01-1989,Winner,38822
+L,Loksabha,Mizoram,Zoramthanga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,70749,0.31279999,Mizoram,01-01-1989,Loser,-38822
+L,Loksabha,Mizoram,Malswma Colney, Male,Unknown,Unknown,DP, Democratic Party,Unknown,43667,0.193100005,Mizoram,01-01-1989,Loser,-65904
+L,Loksabha,Mizoram,Binde Basu Chakma, Male,Unknown,Unknown,IND, Independent,Unknown,2159,0.0095,Mizoram,01-01-1989,Loser,-107412
+A,Assembly,aizawleast-i,Zoramthanga, Male,74, ST,MNF, Mizo National Front, star,8358,0.430000007,Mizoram,01-01-2018,Winner,2504
+A,Assembly,aizawleast-i,K Sapdanga, Male,59, ST,IND, Independent, hat,5854,0.300000012,Mizoram,01-01-2018,Loser,-2504
+A,Assembly,aizawleast-i,K Vanlalrawna, Male,56, ST,INC, Indian National Congress, hand,4768,0.239999995,Mizoram,01-01-2018,Loser,-3590
+A,Assembly,aizawleast-i,Laldinliana Sailo, Male,44, ST,BJP, Bharatiya Janata Party, lotus,260,0.01,Mizoram,01-01-2018,Loser,-8098
+A,Assembly,aizawleast-i,Zosangliana, Male,60, ST,IND, Independent, ring,146,0.01,Mizoram,01-01-2018,Loser,-8212
+A,Assembly,aizawleast-i,K Lalrinpuii, Female,41, ST,NCP, Nationalist Congress Party, clock,102,0.01,Mizoram,01-01-2018,Loser,-8256
+A,Assembly,aizawleast-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,63,NULL,Mizoram,01-01-2018,Loser,-8295
+A,Assembly,aizawleast-i,R Lalrinawma, Male,51, ST,INC, Indian National Congress, hand,6221,0.379999995,Mizoram,01-01-2013,Winner,422
+A,Assembly,aizawleast-i,Lalhmangaiha Sailo, Male,63, ST,MPC, Mizoram People's Conference, electric bulb,5799,0.349999994,Mizoram,01-01-2013,Loser,-422
+A,Assembly,aizawleast-i,Zarzoliana, Male,60, ST,ZNP, Zoram Nationalist Party, sun (without rays),4291,0.25999999,Mizoram,01-01-2013,Loser,-1930
+A,Assembly,aizawleast-i,Thangchungnunga, Male,38, ST,BJP, Bharatiya Janata Party, lotus,98,0.01,Mizoram,01-01-2013,Loser,-6123
+A,Assembly,aizawleast-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,85,0.01,Mizoram,01-01-2013,Loser,-6136
+A,Assembly,aizawleast-i,R Lalrinawma, Male,46, ST,INC, Indian National Congress,Unknown,5084,0.379999995,Mizoram,01-01-2008,Winner,1089
+A,Assembly,aizawleast-i,F Malsawma, Male,56, ST,MNF, Mizo National Front,Unknown,3995,0.300000012,Mizoram,01-01-2008,Loser,-1089
+A,Assembly,aizawleast-i,Zarzoliana, Male,53, ST,ZNP, Zoram Nationalist Party,Unknown,3664,0.270000011,Mizoram,01-01-2008,Loser,-1420
+A,Assembly,aizawleast-i,Lalthazuala Rawite, Male,45, ST,IND, Independent,Unknown,337,0.02,Mizoram,01-01-2008,Loser,-4747
+A,Assembly,aizawleast-i,J F Rothangliana, Male,45, ST,LJP, Lok Jan Shakti Party,Unknown,269,0.02,Mizoram,01-01-2008,Loser,-4815
+A,Assembly,aizawleast-i,Rualpawla, Male,54, ST,IND, Independent,Unknown,97,0.01,Mizoram,01-01-2008,Loser,-4987
+A,Assembly,aizawleast-i,Suakdailova, Male,62, ST,NCP, Nationalist Congress Party,Unknown,73,0.01,Mizoram,01-01-2008,Loser,-5011
+A,Assembly,aizawleast-i,K Sangthuama, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4034,0.340000004,Mizoram,01-01-2003,Winner,56
+A,Assembly,aizawleast-i,Zairemthanga, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,3978,0.340000004,Mizoram,01-01-2003,Loser,-56
+A,Assembly,aizawleast-i,F Lalremsiama, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3731,0.319999993,Mizoram,01-01-2003,Loser,-303
+A,Assembly,aizawleast-i,Lalfakawma, Male,Unknown,Unknown,JD(U), Janata Dal (united),Unknown,41,NULL,Mizoram,01-01-2003,Loser,-3993
+A,Assembly,aizawleast-i,Lalhmingthanga, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,5011,0.529999971,Mizoram,01-01-1998,Winner,2678
+A,Assembly,aizawleast-i,Rochhunga Ralte, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2333,0.25,Mizoram,01-01-1998,Loser,-2678
+A,Assembly,aizawleast-i,R D Sangkhuma, Male,Unknown,Unknown,IND, Independent,Unknown,2066,0.219999999,Mizoram,01-01-1998,Loser,-2945
+A,Assembly,aizawleast-i,Lalhmingmawii Varte, Female,Unknown,Unknown,BJP, Bharatiya Janata Party,Unknown,36,NULL,Mizoram,01-01-1998,Loser,-4975
+A,Assembly,aizawleast-i,J Lalsangzuala, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,4651,0.50999999,Mizoram,01-01-1993,Winner,269
+A,Assembly,aizawleast-i,Lalkhawliana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4382,0.49000001,Mizoram,01-01-1993,Loser,-269
+A,Assembly,aizawleast-i,John Lalsangzuala, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2357,0.370000005,Mizoram,01-01-1989,Winner,496
+A,Assembly,aizawleast-i,Lalkhawlina, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1861,0.289999992,Mizoram,01-01-1989,Loser,-496
+A,Assembly,aizawleast-i,Aichhinga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,1844,0.289999992,Mizoram,01-01-1989,Loser,-513
+A,Assembly,aizawleast-i,Rochhunga Rolate, Male,Unknown,Unknown,IND, Independents,Unknown,389,0.059999999,Mizoram,01-01-1989,Loser,-1968
+A,Assembly,aizawleast-i,Saingura Sailo, Male,Unknown,Unknown,IND, Independent,Unknown,2263,0.360000014,Mizoram,01-01-1987,Winner,351
+A,Assembly,aizawleast-i,H Thansanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1912,0.300000012,Mizoram,01-01-1987,Loser,-351
+A,Assembly,aizawleast-i,Lalkhawliana, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1787,0.280000001,Mizoram,01-01-1987,Loser,-476
+A,Assembly,aizawleast-i,Zosiamliana, Male,Unknown,Unknown,IND, Independent,Unknown,402,0.059999999,Mizoram,01-01-1987,Loser,-1861
+A,Assembly,aizawleast-ii,Robert Romawia Royte, Male,51, ST,MNF, Mizo National Front, star,5869,0.409999996,Mizoram,01-01-2018,Winner,1492
+A,Assembly,aizawleast-ii,B Lalchhanzova, Male,42, ST,IND, Independent, hat,4377,0.310000002,Mizoram,01-01-2018,Loser,-1492
+A,Assembly,aizawleast-ii,Lalsawta, Male,72, ST,INC, Indian National Congress, hand,3818,0.270000011,Mizoram,01-01-2018,Loser,-2051
+A,Assembly,aizawleast-ii,T Lalmalsawmi, Female,52, ST,BJP, Bharatiya Janata Party, lotus,112,0.01,Mizoram,01-01-2018,Loser,-5757
+A,Assembly,aizawleast-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,47,NULL,Mizoram,01-01-2018,Loser,-5822
+A,Assembly,aizawleast-ii,Lalsawta, Male,67, ST,INC, Indian National Congress, hand,4992,0.379999995,Mizoram,01-01-2013,Winner,177
+A,Assembly,aizawleast-ii,Sailothanga Sailo, Male,65, ST,MNF, Mizo National Front, star,4815,0.370000005,Mizoram,01-01-2013,Loser,-177
+A,Assembly,aizawleast-ii,K Laltuvela, Male,61, ST,ZNP, Zoram Nationalist Party, sun (without rays),3131,0.239999995,Mizoram,01-01-2013,Loser,-1861
+A,Assembly,aizawleast-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,93,0.01,Mizoram,01-01-2013,Loser,-4899
+A,Assembly,aizawlnorth-i,Vanlalhlana, Male,59, ST,IND, Independent, hat,7094,0.400000006,Mizoram,01-01-2018,Winner,1165
+A,Assembly,aizawlnorth-i,Lalringliana, Male,63, ST,MNF, Mizo National Front, star,5929,0.340000004,Mizoram,01-01-2018,Loser,-1165
+A,Assembly,aizawlnorth-i,C Lalhlimpuia, Male,43, ST,INC, Indian National Congress, hand,3595,0.200000003,Mizoram,01-01-2018,Loser,-3499
+A,Assembly,aizawlnorth-i,Lalruatfeli Hlawndo, Female,26, ST,IND, Independent, ring,700,0.039999999,Mizoram,01-01-2018,Loser,-6394
+A,Assembly,aizawlnorth-i,David Lalfakzuala, Male,42, ST,BJP, Bharatiya Janata Party, lotus,225,0.01,Mizoram,01-01-2018,Loser,-6869
+A,Assembly,aizawlnorth-i,Vanlalruata, Male,43, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,77,NULL,Mizoram,01-01-2018,Loser,-7017
+A,Assembly,aizawlnorth-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,74,NULL,Mizoram,01-01-2018,Loser,-7020
+A,Assembly,aizawlnorth-i,R Romawia, Male,66, ST,INC, Indian National Congress, hand,5970,0.370000005,Mizoram,01-01-2013,Winner,657
+A,Assembly,aizawlnorth-i,Vanlalhlana, Male,54, ST,MPC, Mizoram People's Conference, electric bulb,5313,0.330000013,Mizoram,01-01-2013,Loser,-657
+A,Assembly,aizawlnorth-i,C Lalmalsawma, Male,41, ST,ZNP, Zoram Nationalist Party, sun (without rays),4564,0.280000001,Mizoram,01-01-2013,Loser,-1406
+A,Assembly,aizawlnorth-i,David Lalfakzuala, Male,32, ST,BJP, Bharatiya Janata Party, lotus,137,0.01,Mizoram,01-01-2013,Loser,-5833
+A,Assembly,aizawlnorth-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,115,0.01,Mizoram,01-01-2013,Loser,-5855
+A,Assembly,aizawlnorth-i,R Romawia, Male,64, ST,INC, Indian National Congress,Unknown,4948,0.370000005,Mizoram,01-01-2008,Winner,1037
+A,Assembly,aizawlnorth-i,Dr Lalzama, Male,59, ST,MNF, Mizo National Front,Unknown,3911,0.289999992,Mizoram,01-01-2008,Loser,-1037
+A,Assembly,aizawlnorth-i,Vanlalhruaia, Male,71, ST,ZNP, Zoram Nationalist Party,Unknown,3158,0.239999995,Mizoram,01-01-2008,Loser,-1790
+A,Assembly,aizawlnorth-i,M Lalmanzuala, Male,65, ST,IND, Independent,Unknown,1158,0.090000004,Mizoram,01-01-2008,Loser,-3790
+A,Assembly,aizawlnorth-i,Chawngroliana, Male,44, ST,NCP, Nationalist Congress Party,Unknown,155,0.01,Mizoram,01-01-2008,Loser,-4793
+A,Assembly,aizawlnorth-i,Lalsailova Sailo, Male,32, ST,LJP, Lok Jan Shakti Party,Unknown,84,0.01,Mizoram,01-01-2008,Loser,-4864
+A,Assembly,aizawlnorth-i,Dr Lalzama, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4853,0.349999994,Mizoram,01-01-2003,Winner,344
+A,Assembly,aizawlnorth-i,V Laichhinga, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,4509,0.330000013,Mizoram,01-01-2003,Loser,-344
+A,Assembly,aizawlnorth-i,C Lalruata, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,4214,0.310000002,Mizoram,01-01-2003,Loser,-639
+A,Assembly,aizawlnorth-i,Rualpawla, Male,Unknown,Unknown,IND, Independent,Unknown,124,0.01,Mizoram,01-01-2003,Loser,-4729
+A,Assembly,aizawlnorth-i,A Siama, Male,Unknown,Unknown,CPI, Communist Party Of India,Unknown,61,NULL,Mizoram,01-01-2003,Loser,-4792
+A,Assembly,aizawlnorth-i,Lallawmsanga, Male,Unknown,Unknown,JD(U), Janata Dal (united),Unknown,20,NULL,Mizoram,01-01-2003,Loser,-4833
+A,Assembly,aizawlnorth-i,Lalhmingthanga, Male,Unknown,Unknown,IND, Independents,Unknown,4719,0.529999971,Mizoram,01-01-1993,Winner,544
+A,Assembly,aizawlnorth-i,Lalhlimpuii, Female,Unknown,Unknown,MNF, Mizo National Front,Unknown,4175,0.469999999,Mizoram,01-01-1993,Loser,-544
+A,Assembly,aizawlnorth-i,Dr Lalzama, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3594,0.340000004,Mizoram,01-01-1998,Winner,753
+A,Assembly,aizawlnorth-i,C L Ruala, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2841,0.270000011,Mizoram,01-01-1998,Loser,-753
+A,Assembly,aizawlnorth-i,C B Thangluta, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,2740,0.25999999,Mizoram,01-01-1998,Loser,-854
+A,Assembly,aizawlnorth-i,Vanlalhruaia, Male,Unknown,Unknown,MNF(N), Mizo National Front (nationalist),Unknown,984,0.090000004,Mizoram,01-01-1998,Loser,-2610
+A,Assembly,aizawlnorth-i,Lalrinmawii, Female,Unknown,Unknown,BJP, Bharatiya Janata Party,Unknown,189,0.02,Mizoram,01-01-1998,Loser,-3405
+A,Assembly,aizawlnorth-i,K Thansiami, Female,Unknown,Unknown,JD, Janata Dal,Unknown,53,0.01,Mizoram,01-01-1998,Loser,-3541
+A,Assembly,aizawlnorth-i,Rualpawla, Male,Unknown,Unknown,IND, Independent,Unknown,33,NULL,Mizoram,01-01-1998,Loser,-3561
+A,Assembly,aizawlnorth-i,Lallura, Male,Unknown,Unknown,RJD, Rashtriya Janata Dal,Unknown,30,NULL,Mizoram,01-01-1998,Loser,-3564
+A,Assembly,aizawlnorth-i,R C Tluanga, Male,Unknown,Unknown,LS, Lok Shakti,Unknown,19,NULL,Mizoram,01-01-1998,Loser,-3575
+A,Assembly,aizawlnorth-i,Rosangliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2769,0.400000006,Mizoram,01-01-1989,Winner,622
+A,Assembly,aizawlnorth-i,Lalhlimpuli, Female,Unknown,Unknown,MNF, Mizo National Front,Unknown,2147,0.310000002,Mizoram,01-01-1989,Loser,-622
+A,Assembly,aizawlnorth-i,K Thansiami, Female,Unknown,Unknown,PPC, Peoples Conference,Unknown,1890,0.280000001,Mizoram,01-01-1989,Loser,-879
+A,Assembly,aizawlnorth-i,Lalengliana, Male,Unknown,Unknown,IND, Independents,Unknown,33,NULL,Mizoram,01-01-1989,Loser,-2736
+A,Assembly,aizawlnorth-i,Lalhlimpuii, Female,Unknown,Unknown,IND, Independent,Unknown,2326,0.379999995,Mizoram,01-01-1987,Winner,306
+A,Assembly,aizawlnorth-i,Rasangliana, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2020,0.330000013,Mizoram,01-01-1987,Loser,-306
+A,Assembly,aizawlnorth-i,J Lianchungnunga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1766,0.289999992,Mizoram,01-01-1987,Loser,-560
+A,Assembly,aizawlnorth-ii,Vanlalthlana, Male,40, ST,IND, Independent, hat,7775,0.430000007,Mizoram,01-01-2018,Winner,1801
+A,Assembly,aizawlnorth-ii,Laltlanzova Khiangte, Male,40, ST,MNF, Mizo National Front, star,5974,0.330000013,Mizoram,01-01-2018,Loser,-1801
+A,Assembly,aizawlnorth-ii,H Liansailova, Male,76, ST,INC, Indian National Congress, hand,4106,0.230000004,Mizoram,01-01-2018,Loser,-3669
+A,Assembly,aizawlnorth-ii,Lalhrilzeli Hlawndo, Female,28, ST,IND, Independent, ring,98,0.01,Mizoram,01-01-2018,Loser,-7677
+A,Assembly,aizawlnorth-ii,C Lalnunziri, Female,56, ST,BJP, Bharatiya Janata Party, lotus,69,NULL,Mizoram,01-01-2018,Loser,-7706
+A,Assembly,aizawlnorth-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,51,NULL,Mizoram,01-01-2018,Loser,-7724
+A,Assembly,aizawlnorth-ii,Rochungnunga, Male,41, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,39,NULL,Mizoram,01-01-2018,Loser,-7736
+A,Assembly,aizawlnorth-ii,Lalthanliana, Male,54, ST,MPC, Mizoram People's Conference, electric bulb,6875,0.419999987,Mizoram,01-01-2013,Winner,311
+A,Assembly,aizawlnorth-ii,H Liansailova, Male,70, ST,INC, Indian National Congress, hand,6564,0.400000006,Mizoram,01-01-2013,Loser,-311
+A,Assembly,aizawlnorth-ii,Lalchhanhima Pautu, Male,55, ST,ZNP, Zoram Nationalist Party, sun (without rays),2931,0.180000007,Mizoram,01-01-2013,Loser,-3944
+A,Assembly,aizawlnorth-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,123,0.01,Mizoram,01-01-2013,Loser,-6752
+A,Assembly,aizawlnorth-ii,C Lalnunziri, Female,51, ST,BJP, Bharatiya Janata Party, lotus,60,NULL,Mizoram,01-01-2013,Loser,-6815
+A,Assembly,aizawlnorth-ii,H Liansailova, Male,63, ST,INC, Indian National Congress,Unknown,5207,0.370000005,Mizoram,01-01-2008,Winner,266
+A,Assembly,aizawlnorth-ii,Lalthanliana, Male,49, ST,MPC, Mizoram People's Conference,Unknown,4941,0.349999994,Mizoram,01-01-2008,Loser,-266
+A,Assembly,aizawlnorth-ii,Lalchamliana, Male,56, ST,MNF, Mizo National Front,Unknown,3944,0.280000001,Mizoram,01-01-2008,Loser,-1263
+A,Assembly,aizawlnorth-ii,C Lalnunziri, Female,47, ST,BJP, Bharatiya Janata Party,Unknown,87,0.01,Mizoram,01-01-2008,Loser,-5120
+A,Assembly,aizawlnorth-ii,Gabriel Lalruathlua, Male,28, ST,LJP, Lok Jan Shakti Party,Unknown,80,0.01,Mizoram,01-01-2008,Loser,-5127
+A,Assembly,aizawlnorth-iii,C Lalmuanpuia, Male,45, ST,MNF, Mizo National Front, star,5166,0.349999994,Mizoram,01-01-2018,Winner,434
+A,Assembly,aizawlnorth-iii,Lal Thanzara, Male,69, ST,INC, Indian National Congress, hand,4732,0.319999993,Mizoram,01-01-2018,Loser,-434
+A,Assembly,aizawlnorth-iii,Lalhmingthanga, Male,64, ST,IND, Independent, hat,4510,0.310000002,Mizoram,01-01-2018,Loser,-656
+A,Assembly,aizawlnorth-iii,Lalremsiama Ralte, Male,54, ST,IND, Independent, ring,139,0.01,Mizoram,01-01-2018,Loser,-5027
+A,Assembly,aizawlnorth-iii,Vl Awia, Male,64, ST,BJP, Bharatiya Janata Party, lotus,77,0.01,Mizoram,01-01-2018,Loser,-5089
+A,Assembly,aizawlnorth-iii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,49,NULL,Mizoram,01-01-2018,Loser,-5117
+A,Assembly,aizawlnorth-iii,Lal Thanzara, Male,64, ST,INC, Indian National Congress, hand,6262,0.449999988,Mizoram,01-01-2013,Winner,750
+A,Assembly,aizawlnorth-iii,Lalchhandama Ralte, Male,39, ST,MNF, Mizo National Front, star,5512,0.400000006,Mizoram,01-01-2013,Loser,-750
+A,Assembly,aizawlnorth-iii,R K Daniela, Male,61, ST,ZNP, Zoram Nationalist Party, sun (without rays),1878,0.140000001,Mizoram,01-01-2013,Loser,-4384
+A,Assembly,aizawlnorth-iii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,82,0.01,Mizoram,01-01-2013,Loser,-6180
+A,Assembly,aizawlnorth-iii,Biakmawia, Male,45, ST,BJP, Bharatiya Janata Party, lotus,36,NULL,Mizoram,01-01-2013,Loser,-6226
+A,Assembly,aizawlnorth-iii,Lal Thanzara, Male,57, ST,INC, Indian National Congress,Unknown,4109,0.360000014,Mizoram,01-01-2008,Winner,506
+A,Assembly,aizawlnorth-iii,K Sangthuama, Male,66, ST,MNF, Mizo National Front,Unknown,3603,0.319999993,Mizoram,01-01-2008,Loser,-506
+A,Assembly,aizawlnorth-iii,Rosiamngheta, Male,44, ST,MPC, Mizoram People's Conference,Unknown,3472,0.310000002,Mizoram,01-01-2008,Loser,-637
+A,Assembly,aizawlnorth-iii,C Laltanpuia, Male,47, ST,IND, Independent,Unknown,120,0.01,Mizoram,01-01-2008,Loser,-3989
+A,Assembly,aizawlnorth-iii,P C Lalsangliana, Male,38, ST,LJP, Lok Jan Shakti Party,Unknown,47,NULL,Mizoram,01-01-2008,Loser,-4062
+A,Assembly,aizawlsouth-i,C Lalsawivunga, Male,56, ST,IND, Independent, hat,6808,0.400000006,Mizoram,01-01-2018,Winner,1049
+A,Assembly,aizawlsouth-i,K Liantlinga, Male,65, ST,MNF, Mizo National Front, star,5759,0.330000013,Mizoram,01-01-2018,Loser,-1049
+A,Assembly,aizawlsouth-i,R Vanlalvena, Male,53, ST,INC, Indian National Congress, hand,4208,0.239999995,Mizoram,01-01-2018,Loser,-2600
+A,Assembly,aizawlsouth-i,Dr Zonuntluanga, Male,38, ST,BJP, Bharatiya Janata Party, lotus,177,0.01,Mizoram,01-01-2018,Loser,-6631
+A,Assembly,aizawlsouth-i,Hk Liansawta, Male,65, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,111,0.01,Mizoram,01-01-2018,Loser,-6697
+A,Assembly,aizawlsouth-i,Lalthlamuani, Female,63, ST,IND, Independent, ring,69,NULL,Mizoram,01-01-2018,Loser,-6739
+A,Assembly,aizawlsouth-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,64,NULL,Mizoram,01-01-2018,Loser,-6744
+A,Assembly,aizawlsouth-i,R Vanlalvena, Male,48, ST,INC, Indian National Congress, hand,6463,0.400000006,Mizoram,01-01-2013,Winner,1296
+A,Assembly,aizawlsouth-i,R K Lianzuala, Male,47, ST,MNF, Mizo National Front, star,5167,0.319999993,Mizoram,01-01-2013,Loser,-1296
+A,Assembly,aizawlsouth-i,K Liantlinga, Male,60, ST,ZNP, Zoram Nationalist Party, sun (without rays),4616,0.280000001,Mizoram,01-01-2013,Loser,-1847
+A,Assembly,aizawlsouth-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,80,NULL,Mizoram,01-01-2013,Loser,-6383
+A,Assembly,aizawlsouth-ii,Lalchhuanthanga, Male,61, ST,IND, Independent, hat,7294,0.370000005,Mizoram,01-01-2018,Winner,179
+A,Assembly,aizawlsouth-ii,Denghmingthanga, Male,50, ST,MNF, Mizo National Front, star,7115,0.370000005,Mizoram,01-01-2018,Loser,-179
+A,Assembly,aizawlsouth-ii,Lt Col Zosangzuala, Male,75, ST,INC, Indian National Congress, hand,4836,0.25,Mizoram,01-01-2018,Loser,-2458
+A,Assembly,aizawlsouth-ii,R Lalchhuanawmi, Female,55, ST,IND, Independent, ring,173,0.01,Mizoram,01-01-2018,Loser,-7121
+A,Assembly,aizawlsouth-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,63,NULL,Mizoram,01-01-2018,Loser,-7231
+A,Assembly,aizawlsouth-ii,Lt Col Zosangzuala, Male,66, ST,INC, Indian National Congress, hand,6878,0.400000006,Mizoram,01-01-2013,Winner,1043
+A,Assembly,aizawlsouth-ii,R Tlanghmingthanga, Male,70, ST,MNF, Mizo National Front, star,5835,0.340000004,Mizoram,01-01-2013,Loser,-1043
+A,Assembly,aizawlsouth-ii,Rinzawna, Male,63, ST,ZNP, Zoram Nationalist Party, sun (without rays),4451,0.25999999,Mizoram,01-01-2013,Loser,-2427
+A,Assembly,aizawlsouth-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,120,0.01,Mizoram,01-01-2013,Loser,-6758
+A,Assembly,aizawlsouth-iii,F Lalnunmawia, Male,45, ST,MNF, Mizo National Front, star,7558,0.430000007,Mizoram,01-01-2018,Winner,2088
+A,Assembly,aizawlsouth-iii,K S Thanga, Male,58, ST,INC, Indian National Congress, hand,5470,0.310000002,Mizoram,01-01-2018,Loser,-2088
+A,Assembly,aizawlsouth-iii,Rd Lalrammawia, Male,47, ST,IND, Independent, hat,3175,0.180000007,Mizoram,01-01-2018,Loser,-4383
+A,Assembly,aizawlsouth-iii,F Lalremsangi, Female,40, ST,BJP, Bharatiya Janata Party, lotus,1046,0.059999999,Mizoram,01-01-2018,Loser,-6512
+A,Assembly,aizawlsouth-iii,Tlangngaihthanga, Male,51, ST,IND, Independent, ring,86,NULL,Mizoram,01-01-2018,Loser,-7472
+A,Assembly,aizawlsouth-iii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,52,NULL,Mizoram,01-01-2018,Loser,-7506
+A,Assembly,aizawlsouth-iii,K S Thanga, Male,53, ST,INC, Indian National Congress, hand,6594,0.419999987,Mizoram,01-01-2013,Winner,667
+A,Assembly,aizawlsouth-iii,Tawnluia, Male,70, ST,MNF, Mizo National Front, star,5927,0.370000005,Mizoram,01-01-2013,Loser,-667
+A,Assembly,aizawlsouth-iii,R Vanlaltluanga, Male,39, ST,ZNP, Zoram Nationalist Party, sun (without rays),3292,0.209999993,Mizoram,01-01-2013,Loser,-3302
+A,Assembly,aizawlsouth-iii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,78,NULL,Mizoram,01-01-2013,Loser,-6516
+A,Assembly,aizawlsouth-iii,K S Thanga, Male,47, ST,INC, Indian National Congress,Unknown,5284,0.379999995,Mizoram,01-01-2008,Winner,350
+A,Assembly,aizawlsouth-iii,Tawnluia, Male,65, ST,MNF, Mizo National Front,Unknown,4934,0.349999994,Mizoram,01-01-2008,Loser,-350
+A,Assembly,aizawlsouth-iii,Dr F Lalnunmawia, Male,35, ST,IND, Independent,Unknown,3721,0.270000011,Mizoram,01-01-2008,Loser,-1563
+A,Assembly,aizawlsouth-iii,R C Laldingluaia, Male,37, ST,LJP, Lok Jan Shakti Party,Unknown,62,NULL,Mizoram,01-01-2008,Loser,-5222
+A,Assembly,aizawlwest-i,Lalduhoma, Male,69, ST,IND, Independent, hat,7889,0.389999986,Mizoram,01-01-2018,Winner,1060
+A,Assembly,aizawlwest-i,K Sangthuama, Male,78, ST,MNF, Mizo National Front, star,6829,0.340000004,Mizoram,01-01-2018,Loser,-1060
+A,Assembly,aizawlwest-i,P C Laltlansanga, Male,45, ST,INC, Indian National Congress, hand,5039,0.25,Mizoram,01-01-2018,Loser,-2850
+A,Assembly,aizawlwest-i,Lalrodinga Colney, Male,55, ST,BJP, Bharatiya Janata Party, lotus,287,0.01,Mizoram,01-01-2018,Loser,-7602
+A,Assembly,aizawlwest-i,Zaichhawna Hlawndo, Male,55, ST,IND, Independent, ring,228,0.01,Mizoram,01-01-2018,Loser,-7661
+A,Assembly,aizawlwest-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,60,NULL,Mizoram,01-01-2018,Loser,-7829
+A,Assembly,aizawlwest-i,Lalhruaia, Male,48, ST,NCP, Nationalist Congress Party, clock,46,NULL,Mizoram,01-01-2018,Loser,-7843
+A,Assembly,aizawlwest-i,K Sangthuama, Male,68, ST,MNF, Mizo National Front, star,6387,0.370000005,Mizoram,01-01-2013,Winner,462
+A,Assembly,aizawlwest-i,Tlangthanmawii, Female,64, ST,INC, Indian National Congress, hand,5925,0.340000004,Mizoram,01-01-2013,Loser,-462
+A,Assembly,aizawlwest-i,Lalduhoma, Male,64, ST,ZNP, Zoram Nationalist Party, sun (without rays),4894,0.280000001,Mizoram,01-01-2013,Loser,-1493
+A,Assembly,aizawlwest-i,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,136,0.01,Mizoram,01-01-2013,Loser,-6251
+A,Assembly,aizawlwest-i,Kapmawia Ralte, Male,33, ST,BJP, Bharatiya Janata Party, lotus,105,0.01,Mizoram,01-01-2013,Loser,-6282
+A,Assembly,aizawlwest-i,Aichhinga, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,4608,0.280000001,Mizoram,01-01-2003,Winner,241
+A,Assembly,aizawlwest-i,Col Lalchungnunga Sailo, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,4367,0.270000011,Mizoram,01-01-2003,Loser,-241
+A,Assembly,aizawlwest-i,Lalsawta, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3964,0.239999995,Mizoram,01-01-2003,Loser,-644
+A,Assembly,aizawlwest-i,Dr C T Tluanga, Male,Unknown,Unknown,ZNP, Zoram Nationalist Party,Unknown,3235,0.200000003,Mizoram,01-01-2003,Loser,-1373
+A,Assembly,aizawlwest-i,Lalawmpuia Khiangte, Male,Unknown,Unknown,JD(U), Janata Dal (united),Unknown,171,0.01,Mizoram,01-01-2003,Loser,-4437
+A,Assembly,aizawlwest-i,Col Lalchungnunga Sailo, Male,Unknown,Unknown,MZPC, Mizoram People's Conference,Unknown,5399,0.439999998,Mizoram,01-01-1998,Winner,1918
+A,Assembly,aizawlwest-i,Zodintluanga, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,3481,0.280000001,Mizoram,01-01-1998,Loser,-1918
+A,Assembly,aizawlwest-i,Lalsawta, Male,Unknown,Unknown,IND, Independent,Unknown,3079,0.25,Mizoram,01-01-1998,Loser,-2320
+A,Assembly,aizawlwest-i,Lalawmpuia Khiangte, Male,Unknown,Unknown,JD, Janata Dal,Unknown,204,0.02,Mizoram,01-01-1998,Loser,-5195
+A,Assembly,aizawlwest-i,J F Rothangliana, Male,Unknown,Unknown,LS, Lok Shakti,Unknown,103,0.01,Mizoram,01-01-1998,Loser,-5296
+A,Assembly,aizawlwest-i,Lalkhana, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,6306,0.550000012,Mizoram,01-01-1993,Winner,1122
+A,Assembly,aizawlwest-i,K L Lianchia, Male,Unknown,Unknown,IND, Independents,Unknown,5184,0.449999988,Mizoram,01-01-1993,Loser,-1122
+A,Assembly,aizawlwest-i,J Tahnghuama, Male,Unknown,Unknown,MNF, Mizo National Front,Unknown,3151,0.389999986,Mizoram,01-01-1989,Winner,422
+A,Assembly,aizawlwest-i,H Hrangdawala, Male,Unknown,Unknown,IND, Independents,Unknown,2729,0.340000004,Mizoram,01-01-1989,Loser,-422
+A,Assembly,aizawlwest-i,J Lalthangliana, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1926,0.239999995,Mizoram,01-01-1989,Loser,-1225
+A,Assembly,aizawlwest-i,John H Thanglina, Male,Unknown,Unknown,IND, Independents,Unknown,219,0.029999999,Mizoram,01-01-1989,Loser,-2932
+A,Assembly,aizawlwest-i,H Hrangdawla, Male,Unknown,Unknown,IND, Independent,Unknown,3311,0.460000008,Mizoram,01-01-1987,Winner,1299
+A,Assembly,aizawlwest-i,S T Rualyapa, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2012,0.280000001,Mizoram,01-01-1987,Loser,-1299
+A,Assembly,aizawlwest-i,Biakchhunga, Male,Unknown,Unknown,PPC, Peoples Conference,Unknown,1869,0.25999999,Mizoram,01-01-1987,Loser,-1442
+A,Assembly,aizawlwest-ii,Lalruatkima, Male,46, ST,MNF, Mizo National Front, star,7626,0.449999988,Mizoram,01-01-2018,Winner,2720
+A,Assembly,aizawlwest-ii,Dr Lalmalsawma Nghaka, Male,36, ST,INC, Indian National Congress, hand,4906,0.289999992,Mizoram,01-01-2018,Loser,-2720
+A,Assembly,aizawlwest-ii,Lalhmangaiha Sailo, Male,68, ST,IND, Independent, hat,4070,0.239999995,Mizoram,01-01-2018,Loser,-3556
+A,Assembly,aizawlwest-ii,C Lalchawimawia, Male,71, ST,BJP, Bharatiya Janata Party, lotus,106,0.01,Mizoram,01-01-2018,Loser,-7520
+A,Assembly,aizawlwest-ii,Dr Lalmuana, Male,47, ST,IND, Independent, ring,80,NULL,Mizoram,01-01-2018,Loser,-7546
+A,Assembly,aizawlwest-ii,C Laltanpuia, Male,33, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,48,NULL,Mizoram,01-01-2018,Loser,-7578
+A,Assembly,aizawlwest-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,35,NULL,Mizoram,01-01-2018,Loser,-7591
+A,Assembly,aizawlwest-ii,Lalruatkima, Male,41, ST,MNF, Mizo National Front, star,6575,0.430000007,Mizoram,01-01-2013,Winner,630
+A,Assembly,aizawlwest-ii,Dr Lalmalsawma Nghaka, Male,31, ST,INC, Indian National Congress, hand,5945,0.389999986,Mizoram,01-01-2013,Loser,-630
+A,Assembly,aizawlwest-ii,C Ropianga, Male,64, ST,ZNP, Zoram Nationalist Party, sun (without rays),2530,0.170000002,Mizoram,01-01-2013,Loser,-4045
+A,Assembly,aizawlwest-ii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,74,NULL,Mizoram,01-01-2013,Loser,-6501
+A,Assembly,aizawlwest-iii,V L Zaithanzama, Male,60, ST,IND, Independent, hat,6934,0.409999996,Mizoram,01-01-2018,Winner,1026
+A,Assembly,aizawlwest-iii,Vanlalzawma, Male,62, ST,MNF, Mizo National Front, star,5908,0.349999994,Mizoram,01-01-2018,Loser,-1026
+A,Assembly,aizawlwest-iii,Dr C T Tluanga, Male,69, ST,INC, Indian National Congress, hand,3521,0.209999993,Mizoram,01-01-2018,Loser,-3413
+A,Assembly,aizawlwest-iii,R Lalzamliana, Male,56, ST,BJP, Bharatiya Janata Party, lotus,400,0.02,Mizoram,01-01-2018,Loser,-6534
+A,Assembly,aizawlwest-iii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,57,NULL,Mizoram,01-01-2018,Loser,-6877
+A,Assembly,aizawlwest-iii,Vanlalzawma, Male,58, ST,MNF, Mizo National Front, star,5765,0.379999995,Mizoram,01-01-2013,Winner,978
+A,Assembly,aizawlwest-iii,R Selthuama, Male,69, ST,INC, Indian National Congress, hand,4787,0.319999993,Mizoram,01-01-2013,Loser,-978
+A,Assembly,aizawlwest-iii,Dr C T Tluanga, Male,65, ST,ZNP, Zoram Nationalist Party, sun (without rays),4534,0.300000012,Mizoram,01-01-2013,Loser,-1231
+A,Assembly,aizawlwest-iii,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,91,0.01,Mizoram,01-01-2013,Loser,-5674
+A,Assembly,Chalfilh,Lalrinliana Sailo, Male,59, ST,MNF, Mizo National Front, star,5541,0.370000005,Mizoram,01-01-2018,Winner,1007
+A,Assembly,Chalfilh,F Rualhleia, Male,62, ST,IND, Independent, hat,4534,0.300000012,Mizoram,01-01-2018,Loser,-1007
+A,Assembly,Chalfilh,L T Hrangchal, Male,61, ST,INC, Indian National Congress, hand,4144,0.280000001,Mizoram,01-01-2018,Loser,-1397
+A,Assembly,Chalfilh,P Sanghmingthanga, Male,57, ST,BJP, Bharatiya Janata Party, lotus,678,0.050000001,Mizoram,01-01-2018,Loser,-4863
+A,Assembly,Chalfilh,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,81,0.01,Mizoram,01-01-2018,Loser,-5460
+A,Assembly,Chalfilh,Dr Ngurdingliana, Male,47, ST,INC, Indian National Congress, hand,7174,0.50999999,Mizoram,01-01-2013,Winner,3728
+A,Assembly,Chalfilh,L T Kima Fanai, Male,53, ST,MPC, Mizoram People's Conference, electric bulb,3446,0.239999995,Mizoram,01-01-2013,Loser,-3728
+A,Assembly,Chalfilh,J Lalchhanhima, Male,51, ST,ZNP, Zoram Nationalist Party, sun (without rays),3368,0.239999995,Mizoram,01-01-2013,Loser,-3806
+A,Assembly,Chalfilh,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,123,0.01,Mizoram,01-01-2013,Loser,-7051
+A,Assembly,Chalfilh,Chawngtinthanga, Male,64, ST,INC, Indian National Congress,Unknown,4924,0.370000005,Mizoram,01-01-2008,Winner,543
+A,Assembly,Chalfilh,Lalvenhima Hmar, Male,42, ST,MPC, Mizoram People's Conference,Unknown,4381,0.330000013,Mizoram,01-01-2008,Loser,-543
+A,Assembly,Chalfilh,J C Chhuanliana, Male,54, ST,MNF, Mizo National Front,Unknown,3374,0.25999999,Mizoram,01-01-2008,Loser,-1550
+A,Assembly,Chalfilh,C Ramkinlova, Male,49, ST,BJP, Bharatiya Janata Party,Unknown,374,0.029999999,Mizoram,01-01-2008,Loser,-4550
+A,Assembly,Chalfilh,Vanlalhmingchhuangi, Female,29, ST,LB, Lok Bharati,Unknown,60,NULL,Mizoram,01-01-2008,Loser,-4864
+A,Assembly,Chalfilh,J Neihkhuma, Male,65, ST,IND, Independent,Unknown,46,NULL,Mizoram,01-01-2008,Loser,-4878
+A,Assembly,Chalfilh,K Zothansanga, Male,41, ST,LJP, Lok Jan Shakti Party,Unknown,39,NULL,Mizoram,01-01-2008,Loser,-4885
+A,Assembly,champhainorth,Dr Zr Thiamsanga, Male,60, ST,MNF, Mizo National Front, star,6057,0.409999996,Mizoram,01-01-2018,Winner,1093
+A,Assembly,champhainorth,T T Zothansanga, Male,54, ST,INC, Indian National Congress, hand,4964,0.340000004,Mizoram,01-01-2018,Loser,-1093
+A,Assembly,champhainorth,C Lalchhawnthanga, Male,67, ST,IND, Independent, hat,2278,0.150000006,Mizoram,01-01-2018,Loser,-3779
+A,Assembly,champhainorth,C Hrangsatkima, Male,59, ST,BJP, Bharatiya Janata Party, lotus,980,0.07,Mizoram,01-01-2018,Loser,-5077
+A,Assembly,champhainorth,B Suanzalang, Male,63, ST,NPEP, National People's Party, book,273,0.02,Mizoram,01-01-2018,Loser,-5784
+A,Assembly,champhainorth,Tbc Lalvenchhunga, Male,35, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,161,0.01,Mizoram,01-01-2018,Loser,-5896
+A,Assembly,champhainorth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,30,NULL,Mizoram,01-01-2018,Loser,-6027
+A,Assembly,champhainorth,T T Zothansanga, Male,49, ST,INC, Indian National Congress, hand,5934,0.419999987,Mizoram,01-01-2013,Winner,1470
+A,Assembly,champhainorth,T C Kaphmingthanga, Male,34, ST,MNF, Mizo National Front, star,4464,0.319999993,Mizoram,01-01-2013,Loser,-1470
+A,Assembly,champhainorth,C Lalremliana, Male,53, ST,ZNP, Zoram Nationalist Party, sun (without rays),3373,0.239999995,Mizoram,01-01-2013,Loser,-2561
+A,Assembly,champhainorth,C Roliana, Male,61, ST,BJP, Bharatiya Janata Party, lotus,106,0.01,Mizoram,01-01-2013,Loser,-5828
+A,Assembly,champhainorth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,105,0.01,Mizoram,01-01-2013,Loser,-5829
+A,Assembly,champhainorth,T T Zothansanga, Male,41, ST,INC, Indian National Congress,Unknown,5699,0.449999988,Mizoram,01-01-2008,Winner,1256
+A,Assembly,champhainorth,Zoramthanga, Male,62, ST,MNF, Mizo National Front,Unknown,4443,0.349999994,Mizoram,01-01-2008,Loser,-1256
+A,Assembly,champhainorth,Zosiama Pachuau, Male,62, ST,MPC, Mizoram People's Conference,Unknown,2022,0.159999996,Mizoram,01-01-2008,Loser,-3677
+A,Assembly,champhainorth,P C Zairemthanga, Male,55, ST,IND, Independent,Unknown,378,0.029999999,Mizoram,01-01-2008,Loser,-5321
+A,Assembly,champhainorth,Nangsianmung, Male,35, ST,IND, Independent,Unknown,144,0.01,Mizoram,01-01-2008,Loser,-5555
+A,Assembly,champhainorth,Lalthuama Sailo, Male,36, ST,LJP, Lok Jan Shakti Party,Unknown,48,NULL,Mizoram,01-01-2008,Loser,-5651
+A,Assembly,Champhaisouth,T J Lalnuntluanga, Male,39, ST,MNF, Mizo National Front, star,5212,0.360000014,Mizoram,01-01-2018,Winner,1049
+A,Assembly,Champhaisouth,Lal Thanhawla, Male,80, ST,INC, Indian National Congress, hand,4163,0.289999992,Mizoram,01-01-2018,Loser,-1049
+A,Assembly,Champhaisouth,C Lalremliana, Male,59, ST,IND, Independent, hat,3957,0.280000001,Mizoram,01-01-2018,Loser,-1255
+A,Assembly,Champhaisouth,Ronghaka, Male,61, ST,BJP, Bharatiya Janata Party, lotus,847,0.059999999,Mizoram,01-01-2018,Loser,-4365
+A,Assembly,Champhaisouth,Tlangngaihthanga, Male,55, ST,IND, Independent, ring,72,0.01,Mizoram,01-01-2018,Loser,-5140
+A,Assembly,Champhaisouth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,50,NULL,Mizoram,01-01-2018,Loser,-5162
+A,Assembly,Champhaisouth,Jh Rothuama, Male,74, ST,INC, Indian National Congress, hand,5203,0.409999996,Mizoram,01-01-2013,Winner,1650
+A,Assembly,Champhaisouth,Rosiamngheta, Male,49, ST,MPC, Mizoram People's Conference, electric bulb,3553,0.280000001,Mizoram,01-01-2013,Loser,-1650
+A,Assembly,Champhaisouth,Vanlalneiha Ralte, Male,39, ST,ZNP, Zoram Nationalist Party, sun (without rays),2471,0.189999998,Mizoram,01-01-2013,Loser,-2732
+A,Assembly,Champhaisouth,B Sangkhumi, Female,65, ST,IND, Independent, grapes,1397,0.109999999,Mizoram,01-01-2013,Loser,-3806
+A,Assembly,Champhaisouth,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,68,0.01,Mizoram,01-01-2013,Loser,-5135
+A,Assembly,Champhaisouth,J H Rothuama, Male,67, ST,INC, Indian National Congress,Unknown,5345,0.449999988,Mizoram,01-01-2008,Winner,1058
+A,Assembly,Champhaisouth,Zoramthanga, Male,62, ST,MNF, Mizo National Front,Unknown,4287,0.360000014,Mizoram,01-01-2008,Loser,-1058
+A,Assembly,Champhaisouth,Lalhmingthangi Hmar, Female,29, ST,ZNP, Zoram Nationalist Party,Unknown,2085,0.180000007,Mizoram,01-01-2008,Loser,-3260
+A,Assembly,Champhaisouth,Lalchhanhima, Male,36, ST,IND, Independent,Unknown,124,0.01,Mizoram,01-01-2008,Loser,-5221
+A,Assembly,Champhaisouth,Tawnliana, Male,47, ST,LJP, Lok Jan Shakti Party,Unknown,47,NULL,Mizoram,01-01-2008,Loser,-5298
+A,Assembly,Dampa,Lalrintluanga Sailo, Male,58, ST,MNF, Mizo National Front, star,5840,0.379999995,Mizoram,01-01-2018,Winner,1657
+A,Assembly,Dampa,Lalrobiaka, Male,54, ST,INC, Indian National Congress, hand,4183,0.270000011,Mizoram,01-01-2018,Loser,-1657
+A,Assembly,Dampa,Er K Lalrimawia, Male,41, ST,BJP, Bharatiya Janata Party, lotus,3051,0.200000003,Mizoram,01-01-2018,Loser,-2789
+A,Assembly,Dampa,F Lalrintluangi, Female,62, ST,IND, Independent, hat,1920,0.119999997,Mizoram,01-01-2018,Loser,-3920
+A,Assembly,Dampa,Lalrinzuala Chawngthu, Male,41, ST,PRISMP, Peoples Representation For Identity And Status Of Mizoram Party, diamond,133,0.01,Mizoram,01-01-2018,Loser,-5707
+A,Assembly,Dampa,Lianzuala, Male,68, ST,NPEP, National People's Party, book,106,0.01,Mizoram,01-01-2018,Loser,-5734
+A,Assembly,Dampa,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,77,0.01,Mizoram,01-01-2018,Loser,-5763
+A,Assembly,Dampa,Lalchuhvela, Male,59, ST,IND, Independent, ring,33,NULL,Mizoram,01-01-2018,Loser,-5807
+A,Assembly,Dampa,Lalawmpuia Chhangte, Male,41, ST,NCP, Nationalist Congress Party, clock,28,NULL,Mizoram,01-01-2018,Loser,-5812

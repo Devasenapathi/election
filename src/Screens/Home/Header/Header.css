@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  color: black;
+}
+
+.header-main {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  width: 40px; /* Adjust the size as needed */
+  margin-right: 10px;
+}
+
+.header h3 {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.header-select {
+  padding: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .header-main {
+    margin-bottom: 10px;
+  }
+  .header-select{
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+  }
+}
