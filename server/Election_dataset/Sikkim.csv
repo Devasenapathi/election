@@ -1,0 +1,703 @@
+﻿Election_Id,Election_Type,Constituency,Candidate_Name,Gender,Age,Caste,Party,Party_Name,Symbol,Total_Votes,Percentage_Votes,State,Year,Result,Margin
+A,Assembly,Arithang,Arun Kumar Upreti, Male,51, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3150,0.400000006,sikkim,01-01-2019,Winner,474
+A,Assembly,Arithang,Ashis Rai, Male,41, GEN,IND, Independent, battery torch,2676,0.340000004,sikkim,01-01-2019,Loser,-474
+A,Assembly,Arithang,Shyam Pradhan, Male,47, GEN,SDF, Sikkim Democratic Front, umbrella,1545,0.200000003,sikkim,01-01-2019,Loser,-1605
+A,Assembly,Arithang,Dal Bahadur Chettri, Male,45, GEN,BJP, Bharatiya Janata Party, lotus,393,0.050000001,sikkim,01-01-2019,Loser,-2757
+A,Assembly,Arithang,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,66,0.01,sikkim,01-01-2019,Loser,-3084
+A,Assembly,Arithang,Sumitra Rai, Female,51, GEN,INC, Indian National Congress, hand,42,0.01,sikkim,01-01-2019,Loser,-3108
+A,Assembly,Arithang,Shyam Pradhan, Male,42, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4026,0.579999983,sikkim,01-01-2014,Winner,1606
+A,Assembly,Arithang,Udai Lama, Male,60, ST,SDF, Sikkim Democratic Front, umbrella,2420,0.349999994,sikkim,01-01-2014,Loser,-1606
+A,Assembly,Arithang,Sherap Dorjee Bhutia, Male,32, ST,IND, Independent, candles,253,0.039999999,sikkim,01-01-2014,Loser,-3773
+A,Assembly,Arithang,Gyalpo Tamang, Male,39, ST,INC, Indian National Congress, hand,105,0.02,sikkim,01-01-2014,Loser,-3921
+A,Assembly,Arithang,Rajeney Gurung, Female,42, GEN,IND, Independent, gas cylinder,76,0.01,sikkim,01-01-2014,Loser,-3950
+A,Assembly,Arithang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,71,0.01,sikkim,01-01-2014,Loser,-3955
+A,Assembly,Arithang,Narendra Kr Pradhan, Male,58, GEN,SDF, Sikkim Democratic Front,Unknown,3320,0.610000014,sikkim,01-01-2009,Winner,1455
+A,Assembly,Arithang,Bharat Basnett, Male,50, GEN,INC, Indian National Congress,Unknown,1865,0.340000004,sikkim,01-01-2009,Loser,-1455
+A,Assembly,Arithang,Ashok Kr Subba, Male,59, GEN,NCP, Nationalist Congress Party,Unknown,141,0.029999999,sikkim,01-01-2009,Loser,-3179
+A,Assembly,Arithang,Atal Bahadur Tamang, Male,57, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,48,0.01,sikkim,01-01-2009,Loser,-3272
+A,Assembly,Arithang,Amit Kumar Pradhan, Male,27, GEN,IND, Independent,Unknown,46,0.01,sikkim,01-01-2009,Loser,-3274
+A,Assembly,Arithang,Kharga Bahadur Rai, Male,40, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,27,0.01,sikkim,01-01-2009,Loser,-3293
+A,Assembly,Barfung,Tashi Thendup Bhutia, Male,56, ST,SDF, Sikkim Democratic Front, umbrella,5936,0.49000001,sikkim,01-01-2019,Winner,97
+A,Assembly,Barfung,Lobzang Bhutia, Male,54, ST,SKM, Sikkim Krantikari Morcha, table lamp,5839,0.479999989,sikkim,01-01-2019,Loser,-97
+A,Assembly,Barfung,Mingma Tshring Sherpa, Male,60, ST,SKPP, Sikkim Republican Party, flute,169,0.01,sikkim,01-01-2019,Loser,-5767
+A,Assembly,Barfung,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,139,0.01,sikkim,01-01-2019,Loser,-5797
+A,Assembly,Barfung,Dorjee Dazom Bhutia, Male,63, ST,SDF, Sikkim Democratic Front, umbrella,6639,0.639999986,sikkim,01-01-2014,Winner,3179
+A,Assembly,Barfung,Pema Wangyal Bhutia, Male,55, ST,SKM, Sikkim Krantikari Morcha, table lamp,3460,0.330000013,sikkim,01-01-2014,Loser,-3179
+A,Assembly,Barfung,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,197,0.02,sikkim,01-01-2014,Loser,-6442
+A,Assembly,Barfung,Dadul Lepcha, Male,30, ST,INC, Indian National Congress, hand,112,0.01,sikkim,01-01-2014,Loser,-6527
+A,Assembly,Barfung,Sonam Gyatso Bhutia, Male,51, ST,SDF, Sikkim Democratic Front,Unknown,6049,0.699999988,sikkim,01-01-2009,Winner,3852
+A,Assembly,Barfung,Lobzang Bhutia, Male,43, ST,INC, Indian National Congress,Unknown,2197,0.25999999,sikkim,01-01-2009,Loser,-3852
+A,Assembly,Barfung,Sonam Pintso Bhutia, Male,35, ST,IND, Independent,Unknown,352,0.039999999,sikkim,01-01-2009,Loser,-5697
+A,Assembly,Chujachen,Krishna Bahadur Rai, Male,70, GEN,SDF, Sikkim Democratic Front, umbrella,7266,0.50999999,sikkim,01-01-2019,Winner,1327
+A,Assembly,Chujachen,Damber Kumar Pradhan, Male,33, GEN,SKM, Sikkim Krantikari Morcha, table lamp,5939,0.419999987,sikkim,01-01-2019,Loser,-1327
+A,Assembly,Chujachen,Mohan Gurung, Male,76, GEN,BJP, Bharatiya Janata Party, lotus,514,0.039999999,sikkim,01-01-2019,Loser,-6752
+A,Assembly,Chujachen,Gopal Chettri, Male,39, GEN,INC, Indian National Congress, hand,177,0.01,sikkim,01-01-2019,Loser,-7089
+A,Assembly,Chujachen,Anil Kr Rai, Male,40, GEN,SKPP, Sikkim Republican Party, flute,107,0.01,sikkim,01-01-2019,Loser,-7159
+A,Assembly,Chujachen,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,97,0.01,sikkim,01-01-2019,Loser,-7169
+A,Assembly,Chujachen,Rudra Khatiwara, Male,46, GEN,HMSKP, Hamro Sikkim Party, whistle,57,NULL,sikkim,01-01-2019,Loser,-7209
+A,Assembly,Chujachen,Rudra Narsing Sakya, Male,47, GEN,IND, Independent, binoculars,56,NULL,sikkim,01-01-2019,Loser,-7210
+A,Assembly,Chujachen,Bikram Pradhan, Male,34, GEN,SDF, Sikkim Democratic Front, umbrella,7836,0.610000014,sikkim,01-01-2014,Winner,3411
+A,Assembly,Chujachen,Kharga Bahadur Gurung, Male,54, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4425,0.340000004,sikkim,01-01-2014,Loser,-3411
+A,Assembly,Chujachen,Gajendra Rizal, Male,33, GEN,BJP, Bharatiya Janata Party, lotus,248,0.02,sikkim,01-01-2014,Loser,-7588
+A,Assembly,Chujachen,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,179,0.01,sikkim,01-01-2014,Loser,-7657
+A,Assembly,Chujachen,Rudra Narsing Sakya, Male,42, GEN,INC, Indian National Congress, hand,162,0.01,sikkim,01-01-2014,Loser,-7674
+A,Assembly,Chujachen,Puran Kr Gurung, Male,44, GEN,SDF, Sikkim Democratic Front,Unknown,8077,0.74000001,sikkim,01-01-2009,Winner,5963
+A,Assembly,Chujachen,Harka Raj Gurung, Male,46, GEN,INC, Indian National Congress,Unknown,2114,0.189999998,sikkim,01-01-2009,Loser,-5963
+A,Assembly,Chujachen,Gajen Rizal, Male,28, GEN,BJP, Bharatiya Janata Party,Unknown,220,0.02,sikkim,01-01-2009,Loser,-7857
+A,Assembly,Chujachen,Mohan Gurung, Male,66, GEN,IND, Independent,Unknown,155,0.01,sikkim,01-01-2009,Loser,-7922
+A,Assembly,Chujachen,Dhiraj Kumar Rai, Male,27, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,76,0.01,sikkim,01-01-2009,Loser,-8001
+A,Assembly,Chujachen,Gopal Chettri, Male,33, GEN,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,76,0.01,sikkim,01-01-2009,Loser,-8001
+A,Assembly,Chujachen,Shiva Kr Pradhan, Male,43, GEN,NCP, Nationalist Congress Party,Unknown,73,0.01,sikkim,01-01-2009,Loser,-8004
+A,Assembly,Chujachen,Biraj Adhikari, Male,47, GEN,IND, Independent,Unknown,72,0.01,sikkim,01-01-2009,Loser,-8005
+A,Assembly,Daramdin,Mingma Norbu Sherpa, Male,49, ST,SKM, Sikkim Krantikari Morcha, table lamp,6219,0.49000001,sikkim,01-01-2019,Winner,336
+A,Assembly,Daramdin,Pem Norbu Sherpa, Male,40, ST,SDF, Sikkim Democratic Front, umbrella,5883,0.460000008,sikkim,01-01-2019,Loser,-336
+A,Assembly,Daramdin,Rozer Tasho Lepcha, Male,60, ST,BJP, Bharatiya Janata Party, lotus,317,0.029999999,sikkim,01-01-2019,Loser,-5902
+A,Assembly,Daramdin,Passang Gyalchen Sherpa, Male,36, ST,INC, Indian National Congress, hand,102,0.01,sikkim,01-01-2019,Loser,-6117
+A,Assembly,Daramdin,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,78,0.01,sikkim,01-01-2019,Loser,-6141
+A,Assembly,Daramdin,Datempa Sherpa, Male,58, ST,SRMP, Sikkim Rajya Manch Party, walking stick,43,NULL,sikkim,01-01-2019,Loser,-6176
+A,Assembly,Daramdin,Sonam Gyatso Sherpa, Male,35, ST,HMSKP, Hamro Sikkim Party, whistle,30,NULL,sikkim,01-01-2019,Loser,-6189
+A,Assembly,Daramdin,Danorbu Sherpa, Male,51, ST,SDF, Sikkim Democratic Front, umbrella,6250,0.550000012,sikkim,01-01-2014,Winner,1604
+A,Assembly,Daramdin,Mingma Norbu Sherpa, Male,43, ST,SKM, Sikkim Krantikari Morcha, table lamp,4646,0.409999996,sikkim,01-01-2014,Loser,-1604
+A,Assembly,Daramdin,Laden Lepcha, Female,41, ST,INC, Indian National Congress, hand,306,0.029999999,sikkim,01-01-2014,Loser,-5944
+A,Assembly,Daramdin,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,185,0.02,sikkim,01-01-2014,Loser,-6065
+A,Assembly,Daramdin,Tenzi Sherpa, Male,37, ST,SDF, Sikkim Democratic Front,Unknown,6507,0.689999998,sikkim,01-01-2009,Winner,4700
+A,Assembly,Daramdin,Pem Nuri Sherpa, Male,54, ST,INC, Indian National Congress,Unknown,1807,0.189999998,sikkim,01-01-2009,Loser,-4700
+A,Assembly,Daramdin,Laden Lepcha, Female,37, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,834,0.090000004,sikkim,01-01-2009,Loser,-5673
+A,Assembly,Daramdin,Sonam Sherpa, Male,35, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,173,0.02,sikkim,01-01-2009,Loser,-6334
+A,Assembly,Daramdin,Steny Lepcha, Male,27, ST,NCP, Nationalist Congress Party,Unknown,114,0.01,sikkim,01-01-2009,Loser,-6393
+A,Assembly,Daramdin,Ran Bahadur Subba, Male,52, ST,SDF, Sikkim Democratic Front,Unknown,6380,NULL,sikkim,01-01-2004,Winner,5561
+A,Assembly,Daramdin,Amar Subba, Male,28, ST,INC, Indian National Congress,Unknown,819,NULL,sikkim,01-01-2004,Loser,-5561
+A,Assembly,Daramdin,Pushker Limbu, Male,34, ST,IND, Independent,Unknown,123,NULL,sikkim,01-01-2004,Loser,-6257
+A,Assembly,Daramdin,Ran Bahadur Subba, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,4194,0.620000005,sikkim,01-01-1999,Winner,1662
+A,Assembly,Daramdin,Akar Dhoj Subba, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2532,0.370000005,sikkim,01-01-1999,Loser,-1662
+A,Assembly,Daramdin,Pushker Limbu, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,51,0.01,sikkim,01-01-1999,Loser,-4143
+A,Assembly,Daramdin,Ran Bahadur Subba, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,3832,0.620000005,sikkim,01-01-1994,Winner,1810
+A,Assembly,Daramdin,Padam Bahadur Gurung, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2022,0.330000013,sikkim,01-01-1994,Loser,-1810
+A,Assembly,Daramdin,Sunita Pradhan, Female,Unknown,Unknown,IND, Independent,Unknown,167,0.029999999,sikkim,01-01-1994,Loser,-3665
+A,Assembly,Daramdin,Satish Mohan Pradhan, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,124,0.02,sikkim,01-01-1994,Loser,-3708
+A,Assembly,Daramdin,Chatra Man Limbu, Male,Unknown,Unknown,IND, Independent,Unknown,6,NULL,sikkim,01-01-1994,Loser,-3826
+A,Assembly,Daramdin,Padam Bahadur Gurung, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,3745,0.779999971,sikkim,01-01-1989,Winner,2788
+A,Assembly,Daramdin,Ram Bahadur Limbu, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,957,0.200000003,sikkim,01-01-1989,Loser,-2788
+A,Assembly,Daramdin,Passang Sherpa, Male,Unknown,Unknown,IND, Independents,Unknown,75,0.02,sikkim,01-01-1989,Loser,-3670
+A,Assembly,Daramdin,Bom Prasad Subba, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,28,0.01,sikkim,01-01-1989,Loser,-3717
+A,Assembly,Daramdin,Padam Bahadur Gurung, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2131,0.639999986,sikkim,01-01-1985,Winner,1080
+A,Assembly,Daramdin,Ram Bahadur Subba, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1051,0.310000002,sikkim,01-01-1985,Loser,-1080
+A,Assembly,Daramdin,Birkha Singh Subba, Male,Unknown,Unknown,IND, Independent,Unknown,124,0.039999999,sikkim,01-01-1985,Loser,-2007
+A,Assembly,Daramdin,Ratan Bahadur Rai, Male,Unknown,Unknown,IND, Independent,Unknown,30,0.01,sikkim,01-01-1985,Loser,-2101
+A,Assembly,Daramdin,Bahadur Subba, Male,Unknown,Unknown,JNP, Janta Party,Unknown,9,NULL,sikkim,01-01-1985,Loser,-2122
+A,Assembly,Daramdin,Padam Bahadur Gurung, Male,Unknown,Unknown,SJP, Sikkim Janta Parishad,Unknown,1770,0.680000007,sikkim,01-01-1979,Winner,1447
+A,Assembly,Daramdin,Phurba Sangey Sherpa, Male,Unknown,Unknown,JNP, Janta Party,Unknown,323,0.119999997,sikkim,01-01-1979,Loser,-1447
+A,Assembly,Daramdin,Ram Chandra Sharma, Male,Unknown,Unknown,SCR, Sikkim Congress (r),Unknown,241,0.090000004,sikkim,01-01-1979,Loser,-1529
+A,Assembly,Daramdin,Purna Bahadur Subba, Male,Unknown,Unknown,IND, Independents,Unknown,226,0.090000004,sikkim,01-01-1979,Loser,-1544
+A,Assembly,Daramdin,Dirga Bahadur Subba, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,31,0.01,sikkim,01-01-1979,Loser,-1739
+A,Assembly,Djongu,Pintso Namgyal Lepcha, Male,44, ST,SDF, Sikkim Democratic Front, umbrella,5613,0.660000026,sikkim,01-01-2019,Winner,3001
+A,Assembly,Djongu,Chungkipu Lepcha, Female,59, ST,SKM, Sikkim Krantikari Morcha, table lamp,2612,0.310000002,sikkim,01-01-2019,Loser,-3001
+A,Assembly,Djongu,Penzong Lepcha, Male,34, ST,INC, Indian National Congress, hand,119,0.01,sikkim,01-01-2019,Loser,-5494
+A,Assembly,Djongu,Athup Lepcha, Male,74, ST,HMSKP, Hamro Sikkim Party, whistle,88,0.01,sikkim,01-01-2019,Loser,-5525
+A,Assembly,Djongu,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,51,0.01,sikkim,01-01-2019,Loser,-5562
+A,Assembly,Djongu,Sonam Gyatso Lepcha, Male,52, ST,SDF, Sikkim Democratic Front, umbrella,4618,0.639999986,sikkim,01-01-2014,Winner,2175
+A,Assembly,Djongu,Dawa Tshering Lepcha, Male,40, ST,SKM, Sikkim Krantikari Morcha, table lamp,2443,0.340000004,sikkim,01-01-2014,Loser,-2175
+A,Assembly,Djongu,Penzong Lepcha, Male,29, ST,INC, Indian National Congress, hand,105,0.01,sikkim,01-01-2014,Loser,-4513
+A,Assembly,Djongu,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,87,0.01,sikkim,01-01-2014,Loser,-4531
+A,Assembly,Djongu,Sonam Gyatso Lepcha, Male,47, ST,SDF, Sikkim Democratic Front,Unknown,4756,0.800000012,sikkim,01-01-2009,Winner,3937
+A,Assembly,Djongu,Norden Tshering Lepcha, Male,36, ST,INC, Indian National Congress,Unknown,819,0.140000001,sikkim,01-01-2009,Loser,-3937
+A,Assembly,Djongu,Tseten Dorjee Lepcha, Male,48, ST,IND, Independent,Unknown,372,0.059999999,sikkim,01-01-2009,Loser,-4384
+A,Assembly,Djongu,Sonam Gyatso Lepcha, Male,39, BL,SDF, Sikkim Democratic Front,Unknown,3344,NULL,sikkim,01-01-2004,Winner,1570
+A,Assembly,Djongu,Sonam Chyoda Lepcha, Male,46, BL,INC, Indian National Congress,Unknown,1774,NULL,sikkim,01-01-2004,Loser,-1570
+A,Assembly,Djongu,Sonam Gyatso Lepcha, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2399,0.519999981,sikkim,01-01-1999,Winner,171
+A,Assembly,Djongu,Sonam Chyoda Lepcha, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,2228,0.479999989,sikkim,01-01-1999,Loser,-171
+A,Assembly,Djongu,Norden Tshering Lepcha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,17,NULL,sikkim,01-01-1999,Loser,-2382
+A,Assembly,Djongu,Sonam Ghyoda Lepcha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1550,0.400000006,sikkim,01-01-1994,Winner,47
+A,Assembly,Djongu,Sonam Dorjee Lepcha, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,1503,0.389999986,sikkim,01-01-1994,Loser,-47
+A,Assembly,Djongu,Chophel Lepcha, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,782,0.200000003,sikkim,01-01-1994,Loser,-768
+A,Assembly,Djongu,Athup Lepcha, Male,Unknown,Unknown,IND, Independent,Unknown,9,NULL,sikkim,01-01-1994,Loser,-1541
+A,Assembly,Djongu,Sonam Chhyoda Lepcha, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2322,0.730000019,sikkim,01-01-1989,Winner,1512
+A,Assembly,Djongu,Athup Lepcha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,810,0.25,sikkim,01-01-1989,Loser,-1512
+A,Assembly,Djongu,Chuden Lepcha, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,48,0.02,sikkim,01-01-1989,Loser,-2274
+A,Assembly,Djongu,Sonam Choda Lepcha, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,1469,0.629999995,sikkim,01-01-1985,Winner,704
+A,Assembly,Djongu,Athup Lepcha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,765,0.330000013,sikkim,01-01-1985,Loser,-704
+A,Assembly,Djongu,Ongden Lepcha, Male,Unknown,Unknown,JNP, Janta Party,Unknown,46,0.02,sikkim,01-01-1985,Loser,-1423
+A,Assembly,Djongu,Nima Thomas Lepcha, Male,Unknown,Unknown,IND, Independent,Unknown,38,0.02,sikkim,01-01-1985,Loser,-1431
+A,Assembly,Djongu,Chhuden Lepcha, Male,Unknown,Unknown,IND, Independent,Unknown,20,0.01,sikkim,01-01-1985,Loser,-1449
+A,Assembly,Djongu,Athup Lepcha, Male,Unknown,Unknown,SJP, Sikkim Janta Parishad,Unknown,865,0.460000008,sikkim,01-01-1979,Winner,362
+A,Assembly,Djongu,Kazi Lhendup Dorjee Kangsarpa, Male,Unknown,Unknown,JNP, Janta Party,Unknown,503,0.270000011,sikkim,01-01-1979,Loser,-362
+A,Assembly,Djongu,Pintook Lepcha, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,343,0.180000007,sikkim,01-01-1979,Loser,-522
+A,Assembly,Djongu,Sonam Chhyoda, Male,Unknown,Unknown,IND, Independents,Unknown,178,0.090000004,sikkim,01-01-1979,Loser,-687
+A,Assembly,Gangtok,Kunga Nima Lepcha, Male,71, ST,SKM, Sikkim Krantikari Morcha, table lamp,3838,0.519999981,sikkim,01-01-2019,Winner,888
+A,Assembly,Gangtok,Pintso Chopel, Male,50, ST,SDF, Sikkim Democratic Front, umbrella,2950,0.400000006,sikkim,01-01-2019,Loser,-888
+A,Assembly,Gangtok,Yong Tshering Lepcha, Male,51, ST,BJP, Bharatiya Janata Party, lotus,392,0.050000001,sikkim,01-01-2019,Loser,-3446
+A,Assembly,Gangtok,Delay Namgyal Barfungpa, Male,54, ST,IND, Independent, pen nib with seven rays,97,0.01,sikkim,01-01-2019,Loser,-3741
+A,Assembly,Gangtok,Bhaichung Bhutia, Male,42, ST,HMSKP, Hamro Sikkim Party, whistle,70,0.01,sikkim,01-01-2019,Loser,-3768
+A,Assembly,Gangtok,Phurba Sherpa, Male,45, ST,IND, Independent, football player,42,0.01,sikkim,01-01-2019,Loser,-3796
+A,Assembly,Gangtok,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,38,0.01,sikkim,01-01-2019,Loser,-3800
+A,Assembly,Gangtok,Pintso Chopel, Male,45, ST,SKM, Sikkim Krantikari Morcha, table lamp,4208,0.610000014,sikkim,01-01-2014,Winner,1891
+A,Assembly,Gangtok,Hishey Lachungpa, Male,47, ST,SDF, Sikkim Democratic Front, umbrella,2317,0.340000004,sikkim,01-01-2014,Loser,-1891
+A,Assembly,Gangtok,Norden Gyalpo Dorji, Male,63, ST,BJP, Bharatiya Janata Party, lotus,171,0.02,sikkim,01-01-2014,Loser,-4037
+A,Assembly,Gangtok,Tshering Gyatso Kaleon, Male,68, ST,INC, Indian National Congress, hand,72,0.01,sikkim,01-01-2014,Loser,-4136
+A,Assembly,Gangtok,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,62,0.01,sikkim,01-01-2014,Loser,-4146
+A,Assembly,Gangtok,Tshering Wangchuk Lepcha, Male,35, ST,AITC, All India Trinamool Congress, flowers and grass,37,0.01,sikkim,01-01-2014,Loser,-4171
+A,Assembly,Gangtok,Dorjee Namgyal Bhutia, Male,49, ST,SDF, Sikkim Democratic Front,Unknown,3506,0.610000014,sikkim,01-01-2009,Winner,1578
+A,Assembly,Gangtok,Tshering Gyatso Kaleon, Male,63, ST,INC, Indian National Congress,Unknown,1928,0.340000004,sikkim,01-01-2009,Loser,-1578
+A,Assembly,Gangtok,Delay Namgyal Barfungpa, Male,44, ST,IND, Independent,Unknown,150,0.029999999,sikkim,01-01-2009,Loser,-3356
+A,Assembly,Gangtok,Uttam Lepcha, Male,38, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,123,0.02,sikkim,01-01-2009,Loser,-3383
+A,Assembly,Gangtok,Mingma Topden Sherpa, Male,33, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,24,NULL,sikkim,01-01-2009,Loser,-3482
+A,Assembly,Gangtok,Narendra Kr Pradhan, Male,53, GEN,SDF, Sikkim Democratic Front,Unknown,5952,NULL,sikkim,01-01-2004,Winner,3123
+A,Assembly,Gangtok,Nar Bahadur Bhandari, Male,63, GEN,INC, Indian National Congress,Unknown,2829,NULL,sikkim,01-01-2004,Loser,-3123
+A,Assembly,Gangtok,Devi Pd Dahal, Male,30, GEN,SSP, Sikkim Sangram Parishad,Unknown,90,NULL,sikkim,01-01-2004,Loser,-5862
+A,Assembly,Gangtok,Bhim Chettri, Male,42, GEN,SHRP, Sikkim Himali Rajya Parishad,Unknown,54,NULL,sikkim,01-01-2004,Loser,-5898
+A,Assembly,Gangtok,Narendra Kr Pradhan, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,4308,0.49000001,sikkim,01-01-1999,Winner,473
+A,Assembly,Gangtok,K B Gurung, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,3835,0.439999998,sikkim,01-01-1999,Loser,-473
+A,Assembly,Gangtok,Anand Lama, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,548,0.059999999,sikkim,01-01-1999,Loser,-3760
+A,Assembly,Gangtok,Bhumerlall Sirohia, Male,Unknown,Unknown,CPM, Communist Party Of India (marxist),Unknown,86,0.01,sikkim,01-01-1999,Loser,-4222
+A,Assembly,Gangtok,Thendup Dorjee Bhutia, Male,Unknown,Unknown,IND, Independent,Unknown,35,NULL,sikkim,01-01-1999,Loser,-4273
+A,Assembly,Gangtok,Narendra Kr Pradhan, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2798,0.400000006,sikkim,01-01-1994,Winner,728
+A,Assembly,Gangtok,Dilli Pd Dhungel, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2070,0.289999992,sikkim,01-01-1994,Loser,-728
+A,Assembly,Gangtok,Sher Bdr Subedi, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,1253,0.180000007,sikkim,01-01-1994,Loser,-1545
+A,Assembly,Gangtok,Balchand, Male,Unknown,Unknown,IND, Independent,Unknown,617,0.090000004,sikkim,01-01-1994,Loser,-2181
+A,Assembly,Gangtok,Penzo D Namgyal, Male,Unknown,Unknown,IND, Independent,Unknown,60,0.01,sikkim,01-01-1994,Loser,-2738
+A,Assembly,Gangtok,Krishna S Basneti, Male,Unknown,Unknown,IND, Independent,Unknown,55,0.01,sikkim,01-01-1994,Loser,-2743
+A,Assembly,Gangtok,Gokul Singh Cintury, Male,Unknown,Unknown,IND, Independent,Unknown,52,0.01,sikkim,01-01-1994,Loser,-2746
+A,Assembly,Gangtok,Kiran Chhetri, Male,Unknown,Unknown,BJP, Bharatiya Janata Party,Unknown,46,0.01,sikkim,01-01-1994,Loser,-2752
+A,Assembly,Gangtok,Pren Prakash Goyal, Male,Unknown,Unknown,IND, Independent,Unknown,42,0.01,sikkim,01-01-1994,Loser,-2756
+A,Assembly,Gangtok,L B Pradhan, Male,Unknown,Unknown,IND, Independent,Unknown,33,NULL,sikkim,01-01-1994,Loser,-2765
+A,Assembly,Gangtok,Norden Gyalpo Kali, Male,Unknown,Unknown,IND, Independent,Unknown,33,NULL,sikkim,01-01-1994,Loser,-2765
+A,Assembly,Gangtok,Dhan Maya Giri, Female,Unknown,Unknown,IND, Independent,Unknown,15,NULL,sikkim,01-01-1994,Loser,-2783
+A,Assembly,Gangtok,Manita Pradhan, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,3415,0.560000002,sikkim,01-01-1989,Winner,921
+A,Assembly,Gangtok,Dilli Prasad Dhungel, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,2494,0.409999996,sikkim,01-01-1989,Loser,-921
+A,Assembly,Gangtok,Lall Bahadur Basnett, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,129,0.02,sikkim,01-01-1989,Loser,-3286
+A,Assembly,Gangtok,Nima Tshering Bhutia, Male,Unknown,Unknown,IND, Independents,Unknown,17,NULL,sikkim,01-01-1989,Loser,-3398
+A,Assembly,Gangtok,Balchand Sarda, Male,Unknown,Unknown,IND, Independent,Unknown,2010,0.430000007,sikkim,01-01-1985,Winner,261
+A,Assembly,Gangtok,Dil Kumari Bhandari, Female,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,1749,0.379999995,sikkim,01-01-1985,Loser,-261
+A,Assembly,Gangtok,M K Chetri, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,469,0.100000001,sikkim,01-01-1985,Loser,-1541
+A,Assembly,Gangtok,Sonam Gyatso Trateng, Male,Unknown,Unknown,IND, Independent,Unknown,208,0.039999999,sikkim,01-01-1985,Loser,-1802
+A,Assembly,Gangtok,Passang Obed Pazo, Male,Unknown,Unknown,IND, Independent,Unknown,72,0.02,sikkim,01-01-1985,Loser,-1938
+A,Assembly,Gangtok,James Basnet, Male,Unknown,Unknown,IND, Independent,Unknown,39,0.01,sikkim,01-01-1985,Loser,-1971
+A,Assembly,Gangtok,Kiran Chetri, Male,Unknown,Unknown,IND, Independent,Unknown,38,0.01,sikkim,01-01-1985,Loser,-1972
+A,Assembly,Gangtok,Kalawati Subba, Female,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,27,0.01,sikkim,01-01-1985,Loser,-1983
+A,Assembly,Gangtok,Chyangha Tamang, Male,Unknown,Unknown,JNP, Janta Party,Unknown,25,0.01,sikkim,01-01-1985,Loser,-1985
+A,Assembly,Gangtok,Anand Prakash Basnet, Male,Unknown,Unknown,IND, Independent,Unknown,9,NULL,sikkim,01-01-1985,Loser,-2001
+A,Assembly,Gangtok,Dhan Maya Chettri, Female,Unknown,Unknown,IND, Independent,Unknown,8,NULL,sikkim,01-01-1985,Loser,-2002
+A,Assembly,Gangtok,Damber Kumari Pradhan, Female,Unknown,Unknown,IND, Independent,Unknown,2,NULL,sikkim,01-01-1985,Loser,-2008
+A,Assembly,Gangtok,Lall Bahadur Basnet, Male,Unknown,Unknown,SJP, Sikkim Janta Parishad,Unknown,1707,0.389999986,sikkim,01-01-1979,Winner,533
+A,Assembly,Gangtok,Dorjee Dadul, Male,Unknown,Unknown,JNP, Janta Party,Unknown,1174,0.270000011,sikkim,01-01-1979,Loser,-533
+A,Assembly,Gangtok,D P Bhawanipuri, Male,Unknown,Unknown,IND, Independents,Unknown,420,0.100000001,sikkim,01-01-1979,Loser,-1287
+A,Assembly,Gangtok,Kharka Bahadur Chhetri, Male,Unknown,Unknown,IND, Independents,Unknown,321,0.07,sikkim,01-01-1979,Loser,-1386
+A,Assembly,Gangtok,Kaiser Bahadur Thapa, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,284,0.059999999,sikkim,01-01-1979,Loser,-1423
+A,Assembly,Gangtok,Ganesan, Male,Unknown,Unknown,IND, Independents,Unknown,107,0.02,sikkim,01-01-1979,Loser,-1600
+A,Assembly,Gangtok,Jagat Bandhu Pradhan, Male,Unknown,Unknown,SCR, Sikkim Congress (r),Unknown,89,0.02,sikkim,01-01-1979,Loser,-1618
+A,Assembly,Gangtok,Ram Chandra Verma, Male,Unknown,Unknown,IND, Independents,Unknown,77,0.02,sikkim,01-01-1979,Loser,-1630
+A,Assembly,Gangtok,Bimal Kumar Rasaily, Male,Unknown,Unknown,IND, Independents,Unknown,59,0.01,sikkim,01-01-1979,Loser,-1648
+A,Assembly,Gangtok,K B Pradhan, Male,Unknown,Unknown,IND, Independents,Unknown,46,0.01,sikkim,01-01-1979,Loser,-1661
+A,Assembly,Gangtok,Gauri Shanker Bansal, Male,Unknown,Unknown,IND, Independents,Unknown,24,0.01,sikkim,01-01-1979,Loser,-1683
+A,Assembly,Gangtok,R P Nehru, Male,Unknown,Unknown,IND, Independents,Unknown,21,NULL,sikkim,01-01-1979,Loser,-1686
+A,Assembly,Gangtok,Malchand Agarwala, Male,Unknown,Unknown,IND, Independents,Unknown,15,NULL,sikkim,01-01-1979,Loser,-1692
+A,Assembly,Gangtok,Hari Bhakta Pradhan, Male,Unknown,Unknown,IND, Independents,Unknown,15,NULL,sikkim,01-01-1979,Loser,-1692
+A,Assembly,Gangtok,Santosh Nirash, Female,Unknown,Unknown,IND, Independents,Unknown,14,NULL,sikkim,01-01-1979,Loser,-1693
+A,Assembly,Gangtok,Ratna Kamal Dewan, Male,Unknown,Unknown,IND, Independents,Unknown,10,NULL,sikkim,01-01-1979,Loser,-1697
+A,Assembly,Gangtok,Anad Singhal, Male,Unknown,Unknown,IND, Independents,Unknown,6,NULL,sikkim,01-01-1979,Loser,-1701
+A,Assembly,Gnathang-machong,Dorjee Tshering Lepcha, Male,62, ST,SDF, Sikkim Democratic Front, umbrella,6380,0.629999995,sikkim,01-01-2019,Winner,2920
+A,Assembly,Gnathang-machong,Tshering Bhutia, Male,69, ST,SKM, Sikkim Krantikari Morcha, table lamp,3460,0.340000004,sikkim,01-01-2019,Loser,-2920
+A,Assembly,Gnathang-machong,Dorjee Ongden Bhutia, Male,76, ST,INC, Indian National Congress, hand,127,0.01,sikkim,01-01-2019,Loser,-6253
+A,Assembly,Gnathang-machong,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,86,0.01,sikkim,01-01-2019,Loser,-6294
+A,Assembly,Gnathang-machong,Sangay Chopel Bhutia, Male,40, ST,HMSKP, Hamro Sikkim Party, whistle,79,0.01,sikkim,01-01-2019,Loser,-6301
+A,Assembly,Gnathang-machong,Dorjee Tsh Lepcha, Male,56, ST,SDF, Sikkim Democratic Front, umbrella,5017,0.579999983,sikkim,01-01-2014,Winner,1916
+A,Assembly,Gnathang-machong,Sonam Dorjee, Male,59, ST,SKM, Sikkim Krantikari Morcha, table lamp,3101,0.360000014,sikkim,01-01-2014,Loser,-1916
+A,Assembly,Gnathang-machong,Pempa Tshering Bhutia, Male,39, ST,IND, Independent, pen nib with seven rays,325,0.039999999,sikkim,01-01-2014,Loser,-4692
+A,Assembly,Gnathang-machong,Dorjee Ongden Bhutia, Male,71, ST,INC, Indian National Congress, hand,107,0.01,sikkim,01-01-2014,Loser,-4910
+A,Assembly,Gnathang-machong,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,69,0.01,sikkim,01-01-2014,Loser,-4948
+A,Assembly,Gnathang-machong,L M Lepcha, Male,60, ST,SDF, Sikkim Democratic Front,Unknown,4077,0.589999974,sikkim,01-01-2009,Winner,2400
+A,Assembly,Gnathang-machong,Chhopel Dzongpo Bhutia, Male,43, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,1677,0.239999995,sikkim,01-01-2009,Loser,-2400
+A,Assembly,Gnathang-machong,Nima Wangchuk Bhutia, Male,34, ST,INC, Indian National Congress,Unknown,994,0.140000001,sikkim,01-01-2009,Loser,-3083
+A,Assembly,Gnathang-machong,Phurba Tsh Sherpa, Male,30, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,90,0.01,sikkim,01-01-2009,Loser,-3987
+A,Assembly,Gnathang-machong,Chewang Dorjee Bhutia, Male,34, ST,IND, Independent,Unknown,63,0.01,sikkim,01-01-2009,Loser,-4014
+A,Assembly,Gnathang-machong,Namgay Tsh Bhutia, Male,37, ST,NCP, Nationalist Congress Party,Unknown,58,0.01,sikkim,01-01-2009,Loser,-4019
+A,Assembly,Gyalshing-barnyak,Lok Nath Sharma, Male,46, GEN,SKM, Sikkim Krantikari Morcha, table lamp,5862,0.569999993,sikkim,01-01-2019,Winner,1814
+A,Assembly,Gyalshing-barnyak,Laxuman Sharma, Male,53, GEN,SDF, Sikkim Democratic Front, umbrella,4048,0.389999986,sikkim,01-01-2019,Loser,-1814
+A,Assembly,Gyalshing-barnyak,Bhanu Bhakta Dahal, Male,64, GEN,BJP, Bharatiya Janata Party, lotus,217,0.02,sikkim,01-01-2019,Loser,-5645
+A,Assembly,Gyalshing-barnyak,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,73,0.01,sikkim,01-01-2019,Loser,-5789
+A,Assembly,Gyalshing-barnyak,Sukuhang Subba, Male,33, ST,HMSKP, Hamro Sikkim Party, whistle,73,0.01,sikkim,01-01-2019,Loser,-5789
+A,Assembly,Gyalshing-barnyak,Sher Bahadur Subedi, Male,56, GEN,SDF, Sikkim Democratic Front, umbrella,4529,0.50999999,sikkim,01-01-2014,Winner,639
+A,Assembly,Gyalshing-barnyak,Lok Nath Sharma, Male,41, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3890,0.439999998,sikkim,01-01-2014,Loser,-639
+A,Assembly,Gyalshing-barnyak,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,148,0.02,sikkim,01-01-2014,Loser,-4381
+A,Assembly,Gyalshing-barnyak,Mandhoj Thapa, Male,35, GEN,BJP, Bharatiya Janata Party, lotus,135,0.02,sikkim,01-01-2014,Loser,-4394
+A,Assembly,Gyalshing-barnyak,Dal Bahadur Karki, Male,50, GEN,INC, Indian National Congress, hand,107,0.01,sikkim,01-01-2014,Loser,-4422
+A,Assembly,Gyalshing-barnyak,Hari Chandra Sharma, Male,37, GEN,AITC, All India Trinamool Congress, flowers and grass,96,0.01,sikkim,01-01-2014,Loser,-4433
+A,Assembly,Gyalshing-barnyak,Man Bahadur Dahal, Male,50, GEN,SDF, Sikkim Democratic Front,Unknown,4967,0.680000007,sikkim,01-01-2009,Winner,3410
+A,Assembly,Gyalshing-barnyak,Youa Raj Rai, Male,33, GEN,INC, Indian National Congress,Unknown,1557,0.209999993,sikkim,01-01-2009,Loser,-3410
+A,Assembly,Gyalshing-barnyak,Laxmi Pd Tiwari, Male,66, GEN,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,361,0.050000001,sikkim,01-01-2009,Loser,-4606
+A,Assembly,Gyalshing-barnyak,Man Dhoj Thapa, Male,28, GEN,BJP, Bharatiya Janata Party,Unknown,258,0.039999999,sikkim,01-01-2009,Loser,-4709
+A,Assembly,Gyalshing-barnyak,Yam Lall Dangal, Male,26, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,148,0.02,sikkim,01-01-2009,Loser,-4819
+A,Assembly,Kabi Lungchuk,Karma Loday Bhutia, Male,54, ST,SKM, Sikkim Krantikari Morcha, table lamp,5705,0.550000012,sikkim,01-01-2019,Winner,1437
+A,Assembly,Kabi Lungchuk,Ugen Nedup Bhutia, Male,51, ST,SDF, Sikkim Democratic Front, umbrella,4268,0.409999996,sikkim,01-01-2019,Loser,-1437
+A,Assembly,Kabi Lungchuk,Phurden Tshering Lepcha, Male,31, ST,IND, Independent, pressure cooker,152,0.01,sikkim,01-01-2019,Loser,-5553
+A,Assembly,Kabi Lungchuk,Gyurmik Yauseel Bhutia, Male,46, ST,INC, Indian National Congress, hand,138,0.01,sikkim,01-01-2019,Loser,-5567
+A,Assembly,Kabi Lungchuk,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,97,0.01,sikkim,01-01-2019,Loser,-5608
+A,Assembly,Kabi Lungchuk,Ugen Nedup Bhutia, Male,46, ST,SKM, Sikkim Krantikari Morcha, table lamp,4615,0.49000001,sikkim,01-01-2014,Winner,126
+A,Assembly,Kabi Lungchuk,Thenlay Tshering Bhutia, Male,60, ST,SDF, Sikkim Democratic Front, umbrella,4489,0.479999989,sikkim,01-01-2014,Loser,-126
+A,Assembly,Kabi Lungchuk,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,152,0.02,sikkim,01-01-2014,Loser,-4463
+A,Assembly,Kabi Lungchuk,Karma Tashi Bhutia, Male,36, ST,INC, Indian National Congress, hand,127,0.01,sikkim,01-01-2014,Loser,-4488
+A,Assembly,Kabi Lungchuk,Thenlay Tshering Bhutia, Male,55, ST,SDF, Sikkim Democratic Front,Unknown,4823,0.639999986,sikkim,01-01-2009,Winner,2164
+A,Assembly,Kabi Lungchuk,Ugen Nedup Bhutia, Male,40, ST,INC, Indian National Congress,Unknown,2659,0.360000014,sikkim,01-01-2009,Loser,-2164
+A,Assembly,Khamdong-singtam,Mani Kumar Sharma, Male,48, GEN,SKM, Sikkim Krantikari Morcha, table lamp,5347,0.5,sikkim,01-01-2019,Winner,873
+A,Assembly,Khamdong-singtam,Garjaman Gurung, Male,48, GEN,SDF, Sikkim Democratic Front, umbrella,4474,0.419999987,sikkim,01-01-2019,Loser,-873
+A,Assembly,Khamdong-singtam,Sher Bahadur Karki, Male,45, GEN,BJP, Bharatiya Janata Party, lotus,558,0.050000001,sikkim,01-01-2019,Loser,-4789
+A,Assembly,Khamdong-singtam,Tula Ram Guragai, Male,33, GEN,INC, Indian National Congress, hand,72,0.01,sikkim,01-01-2019,Loser,-5275
+A,Assembly,Khamdong-singtam,Neeraj Adhikari, Male,31, GEN,HMSKP, Hamro Sikkim Party, whistle,67,0.01,sikkim,01-01-2019,Loser,-5280
+A,Assembly,Khamdong-singtam,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,62,0.01,sikkim,01-01-2019,Loser,-5285
+A,Assembly,Khamdong-singtam,Gopal Khatiwara, Male,42, GEN,IND, Independent, pen nib with seven rays,31,NULL,sikkim,01-01-2019,Loser,-5316
+A,Assembly,Khamdong-singtam,Som Nath Poudyal, Male,50, GEN,SDF, Sikkim Democratic Front, umbrella,4718,0.49000001,sikkim,01-01-2014,Winner,270
+A,Assembly,Khamdong-singtam,Mani Kumar Sharma, Male,43, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4448,0.460000008,sikkim,01-01-2014,Loser,-270
+A,Assembly,Khamdong-singtam,Madan Kumar Sharma, Male,39, GEN,BJP, Bharatiya Janata Party, lotus,191,0.02,sikkim,01-01-2014,Loser,-4527
+A,Assembly,Khamdong-singtam,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,160,0.02,sikkim,01-01-2014,Loser,-4558
+A,Assembly,Khamdong-singtam,Punya Prasad Koirala, Male,44, GEN,INC, Indian National Congress, hand,87,0.01,sikkim,01-01-2014,Loser,-4631
+A,Assembly,Khamdong-singtam,Am Prasad Sharma, Male,36, GEN,SDF, Sikkim Democratic Front,Unknown,4298,0.560000002,sikkim,01-01-2009,Winner,1266
+A,Assembly,Khamdong-singtam,Nar Bahadur Bhandari, Male,68, GEN,INC, Indian National Congress,Unknown,3032,0.400000006,sikkim,01-01-2009,Loser,-1266
+A,Assembly,Khamdong-singtam,Arun Kr Pradhan, Male,39, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,295,0.039999999,sikkim,01-01-2009,Loser,-4003
+A,Assembly,Lachen Mangan,Samdup Lepcha, Male,55, ST,SKM, Sikkim Krantikari Morcha, table lamp,3615,0.540000021,sikkim,01-01-2019,Winner,584
+A,Assembly,Lachen Mangan,Tshering Wangdi Lepcha, Male,52, ST,SDF, Sikkim Democratic Front, umbrella,3031,0.449999988,sikkim,01-01-2019,Loser,-584
+A,Assembly,Lachen Mangan,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,73,0.01,sikkim,01-01-2019,Loser,-3542
+A,Assembly,Lachen Mangan,Tshering Wangdi Lepcha, Male,47, ST,SDF, Sikkim Democratic Front, umbrella,3127,0.529999971,sikkim,01-01-2014,Winner,557
+A,Assembly,Lachen Mangan,Samdup Lepcha, Male,48, ST,SKM, Sikkim Krantikari Morcha, table lamp,2570,0.439999998,sikkim,01-01-2014,Loser,-557
+A,Assembly,Lachen Mangan,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,79,0.01,sikkim,01-01-2014,Loser,-3048
+A,Assembly,Lachen Mangan,Topden Lepcha, Male,47, ST,INC, Indian National Congress, hand,76,0.01,sikkim,01-01-2014,Loser,-3051
+A,Assembly,Lachen Mangan,Tshering Wangdi Lepcha, Male,38, ST,SDF, Sikkim Democratic Front,Unknown,2719,0.529999971,sikkim,01-01-2009,Winner,779
+A,Assembly,Lachen Mangan,Anil Lachenpa, Male,46, ST,INC, Indian National Congress,Unknown,1940,0.379999995,sikkim,01-01-2009,Loser,-779
+A,Assembly,Lachen Mangan,Chewang Jigme Lepcha, Male,28, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,442,0.090000004,sikkim,01-01-2009,Loser,-2277
+A,Assembly,Maneybung-dentam,Narendra Kumar Subba, Male,51, ST,SDF, Sikkim Democratic Front, umbrella,7134,0.550000012,sikkim,01-01-2019,Winner,1504
+A,Assembly,Maneybung-dentam,Purna Hang Subba, Male,37, ST,SKM, Sikkim Krantikari Morcha, table lamp,5630,0.439999998,sikkim,01-01-2019,Loser,-1504
+A,Assembly,Maneybung-dentam,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,172,0.01,sikkim,01-01-2019,Loser,-6962
+A,Assembly,Maneybung-dentam,Narendra Kumar Subba, Male,46, ST,SDF, Sikkim Democratic Front, umbrella,7737,0.720000029,sikkim,01-01-2014,Winner,5218
+A,Assembly,Maneybung-dentam,Birbal Tamling, Male,65, ST,SKM, Sikkim Krantikari Morcha, table lamp,2519,0.239999995,sikkim,01-01-2014,Loser,-5218
+A,Assembly,Maneybung-dentam,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,156,0.01,sikkim,01-01-2014,Loser,-7581
+A,Assembly,Maneybung-dentam,Keshar Man Gurung, Male,32, GEN,BJP, Bharatiya Janata Party, lotus,140,0.01,sikkim,01-01-2014,Loser,-7597
+A,Assembly,Maneybung-dentam,Man Maya Limbu, Female,50, ST,INC, Indian National Congress, hand,130,0.01,sikkim,01-01-2014,Loser,-7607
+A,Assembly,Maneybung-dentam,Chandra Maya Subba, Female,34, ST,SDF, Sikkim Democratic Front,Unknown,6252,0.720000029,sikkim,01-01-2009,Winner,4353
+A,Assembly,Maneybung-dentam,Laxuman Gurung, Male,30, GEN,INC, Indian National Congress,Unknown,1899,0.219999999,sikkim,01-01-2009,Loser,-4353
+A,Assembly,Maneybung-dentam,Dilip Kumar Gurung, Male,29, GEN,BJP, Bharatiya Janata Party,Unknown,153,0.02,sikkim,01-01-2009,Loser,-6099
+A,Assembly,Maneybung-dentam,Tek Man Subba, Male,40, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,131,0.02,sikkim,01-01-2009,Loser,-6121
+A,Assembly,Maneybung-dentam,Santa Bir Gurung, Male,56, GEN,IND, Independent,Unknown,113,0.01,sikkim,01-01-2009,Loser,-6139
+A,Assembly,Maneybung-dentam,Krishna Lall Basnett, Male,30, GEN,NCP, Nationalist Congress Party,Unknown,80,0.01,sikkim,01-01-2009,Loser,-6172
+A,Assembly,Maneybung-dentam,Nil Bikram Subba, Male,68, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,57,0.01,sikkim,01-01-2009,Loser,-6195
+A,Assembly,Martam-rumtek,Dorjee Tshering Lepcha, Male,61, ST,SDF, Sikkim Democratic Front, umbrella,6244,0.449999988,sikkim,01-01-2019,Winner,73
+A,Assembly,Martam-rumtek,Sonam Tshering Venchungpa, Male,47, ST,SKM, Sikkim Krantikari Morcha, table lamp,6171,0.449999988,sikkim,01-01-2019,Loser,-73
+A,Assembly,Martam-rumtek,Jigdal Chewang Bhutia, Male,37, ST,BJP, Bharatiya Janata Party, lotus,804,0.059999999,sikkim,01-01-2019,Loser,-5440
+A,Assembly,Martam-rumtek,Nima Lepcha, Male,55, ST,HMSKP, Hamro Sikkim Party, whistle,183,0.01,sikkim,01-01-2019,Loser,-6061
+A,Assembly,Martam-rumtek,Gyaltsen Bhutia, Male,46, ST,IND, Independent, bat,121,0.01,sikkim,01-01-2019,Loser,-6123
+A,Assembly,Martam-rumtek,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,118,0.01,sikkim,01-01-2019,Loser,-6126
+A,Assembly,Martam-rumtek,Sonam Tshering Bhutia, Male,44, ST,INC, Indian National Congress, hand,112,0.01,sikkim,01-01-2019,Loser,-6132
+A,Assembly,Martam-rumtek,Mechung Bhutia, Male,36, ST,SKM, Sikkim Krantikari Morcha, table lamp,6055,0.5,sikkim,01-01-2014,Winner,479
+A,Assembly,Martam-rumtek,Menlom Lepcha, Male,46, ST,SDF, Sikkim Democratic Front, umbrella,5576,0.460000008,sikkim,01-01-2014,Loser,-479
+A,Assembly,Martam-rumtek,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,239,0.02,sikkim,01-01-2014,Loser,-5816
+A,Assembly,Martam-rumtek,Sonam Tshering Bhutia, Male,47, ST,INC, Indian National Congress, hand,183,0.02,sikkim,01-01-2014,Loser,-5872
+A,Assembly,Martam-rumtek,Menlom Lepcha, Male,41, ST,SDF, Sikkim Democratic Front,Unknown,6392,0.639999986,sikkim,01-01-2009,Winner,3365
+A,Assembly,Martam-rumtek,Rinzing Namgyal, Male,50, ST,INC, Indian National Congress,Unknown,3027,0.300000012,sikkim,01-01-2009,Loser,-3365
+A,Assembly,Martam-rumtek,Nima Lepcha, Male,45, ST,BJP, Bharatiya Janata Party,Unknown,336,0.029999999,sikkim,01-01-2009,Loser,-6056
+A,Assembly,Martam-rumtek,Sonam Tashi Bhutia, Male,39, ST,IND, Independent,Unknown,117,0.01,sikkim,01-01-2009,Loser,-6275
+A,Assembly,Martam-rumtek,Bindu Lepcha, Female,45, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,68,0.01,sikkim,01-01-2009,Loser,-6324
+A,Assembly,Martam-rumtek,Tempo Tshering Bhutia, Male,58, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,41,NULL,sikkim,01-01-2009,Loser,-6351
+A,Assembly,Melli,Farwanti Tamang, Female,45, GEN,SDF, Sikkim Democratic Front, umbrella,6354,0.5,sikkim,01-01-2019,Winner,865
+A,Assembly,Melli,Tilak Basnet, Male,44, GEN,SKM, Sikkim Krantikari Morcha, table lamp,5489,0.430000007,sikkim,01-01-2019,Loser,-865
+A,Assembly,Melli,Bhola Chawhan, Male,43, GEN,BJP, Bharatiya Janata Party, lotus,382,0.029999999,sikkim,01-01-2019,Loser,-5972
+A,Assembly,Melli,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,166,0.01,sikkim,01-01-2019,Loser,-6188
+A,Assembly,Melli,Hari Basnett, Male,50, GEN,INC, Indian National Congress, hand,121,0.01,sikkim,01-01-2019,Loser,-6233
+A,Assembly,Melli,Bal Bir Tamang, Male,51, GEN,SKPP, Sikkim Republican Party, flute,70,0.01,sikkim,01-01-2019,Loser,-6284
+A,Assembly,Melli,Lall Bahadur Chettri, Male,59, GEN,HMSKP, Hamro Sikkim Party, whistle,63,0.01,sikkim,01-01-2019,Loser,-6291
+A,Assembly,Melli,Tulshi Devi Rai, Female,39, GEN,SDF, Sikkim Democratic Front, umbrella,7655,0.670000017,sikkim,01-01-2014,Winner,4249
+A,Assembly,Melli,Prem Bahadur Karki, Male,40, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3406,0.300000012,sikkim,01-01-2014,Loser,-4249
+A,Assembly,Melli,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,178,0.02,sikkim,01-01-2014,Loser,-7477
+A,Assembly,Melli,Man Bahadur Rai, Male,56, GEN,INC, Indian National Congress, hand,132,0.01,sikkim,01-01-2014,Loser,-7523
+A,Assembly,Melli,Tulshi Devi Rai, Female,36, GEN,SDF, Sikkim Democratic Front,Unknown,6307,0.670000017,sikkim,01-01-2009,Winner,3853
+A,Assembly,Melli,Dil Kri Chhetri, Female,32, GEN,INC, Indian National Congress,Unknown,2454,0.25999999,sikkim,01-01-2009,Loser,-3853
+A,Assembly,Melli,Bhola Chawan, Male,32, GEN,BJP, Bharatiya Janata Party,Unknown,148,0.02,sikkim,01-01-2009,Loser,-6159
+A,Assembly,Melli,Bhagirath Bhandari, Male,25, GEN,CPM, Communist Party Of India (marxist),Unknown,130,0.01,sikkim,01-01-2009,Loser,-6177
+A,Assembly,Melli,Shiva Das Rai, Male,37, GEN,IND, Independent,Unknown,119,0.01,sikkim,01-01-2009,Loser,-6188
+A,Assembly,Melli,Phulchand Rai, Male,35, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,84,0.01,sikkim,01-01-2009,Loser,-6223
+A,Assembly,Melli,Jashram Rai, Male,53, GEN,NCP, Nationalist Congress Party,Unknown,68,0.01,sikkim,01-01-2009,Loser,-6239
+A,Assembly,Melli,Tilak Psd Rai, Male,46, GEN,SJEP, Sikkim Jan-ekta Party,Unknown,37,NULL,sikkim,01-01-2009,Loser,-6270
+A,Assembly,Melli,Girish Chandra Rai, Male,45, GEN,SDF, Sikkim Democratic Front,Unknown,0,NULL,sikkim,01-01-2004,Winner,NULL
+A,Assembly,Melli,Girish Chandra Rai, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,4059,0.589999974,sikkim,01-01-1999,Winner,1259
+A,Assembly,Melli,G S Lama, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2800,0.409999996,sikkim,01-01-1999,Loser,-1259
+A,Assembly,Melli,Hari Basnet, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,43,0.01,sikkim,01-01-1999,Loser,-4016
+A,Assembly,Melli,Girish Chandra Rai, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,3108,0.529999971,sikkim,01-01-1994,Winner,955
+A,Assembly,Melli,Manita Pradhan, Female,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2153,0.360000014,sikkim,01-01-1994,Loser,-955
+A,Assembly,Melli,Deo Narayan Pradhan, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,559,0.090000004,sikkim,01-01-1994,Loser,-2549
+A,Assembly,Melli,Chandra Basnet, Male,Unknown,Unknown,IND, Independent,Unknown,47,0.01,sikkim,01-01-1994,Loser,-3061
+A,Assembly,Melli,Lall Bir Subba, Male,Unknown,Unknown,IND, Independent,Unknown,28,NULL,sikkim,01-01-1994,Loser,-3080
+A,Assembly,Melli,Bishnu Kumar Rai, Male,Unknown,Unknown,IND, Independent,Unknown,10,NULL,sikkim,01-01-1994,Loser,-3098
+A,Assembly,Melli,Dilliram Basnet, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,3400,0.75999999,sikkim,01-01-1989,Winner,2773
+A,Assembly,Melli,Girish Chandra Rai, Male,Unknown,Unknown,IND, Independents,Unknown,627,0.140000001,sikkim,01-01-1989,Loser,-2773
+A,Assembly,Melli,Man Bahadur Tamang, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,287,0.059999999,sikkim,01-01-1989,Loser,-3113
+A,Assembly,Melli,Bishnu Kumar Rai, Male,Unknown,Unknown,IND, Independents,Unknown,178,0.039999999,sikkim,01-01-1989,Loser,-3222
+A,Assembly,Melli,Dilli Ram Basnet, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2460,0.709999979,sikkim,01-01-1985,Winner,1646
+A,Assembly,Melli,Grish Chandra Rai, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,814,0.230000004,sikkim,01-01-1985,Loser,-1646
+A,Assembly,Melli,Chandra Khaling, Male,Unknown,Unknown,IND, Independent,Unknown,189,0.050000001,sikkim,01-01-1985,Loser,-2271
+A,Assembly,Melli,Chabi Lal Rai, Male,Unknown,Unknown,JNP, Janta Party,Unknown,9,NULL,sikkim,01-01-1985,Loser,-2451
+A,Assembly,Melli,Mohan Prasad Sharma, Male,Unknown,Unknown,IND, Independent,Unknown,2,NULL,sikkim,01-01-1985,Loser,-2458
+A,Assembly,Melli,Mohan Prasad Sharma, Male,Unknown,Unknown,SJP, Sikkim Janta Parishad,Unknown,669,0.270000011,sikkim,01-01-1979,Winner,141
+A,Assembly,Melli,Sailesh Chandra Pradhan, Male,Unknown,Unknown,IND, Independents,Unknown,528,0.209999993,sikkim,01-01-1979,Loser,-141
+A,Assembly,Melli,Lal Das Rai, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,295,0.119999997,sikkim,01-01-1979,Loser,-374
+A,Assembly,Melli,D B Basnet, Male,Unknown,Unknown,JNP, Janta Party,Unknown,263,0.109999999,sikkim,01-01-1979,Loser,-406
+A,Assembly,Melli,Deo Narayan Pradhan, Male,Unknown,Unknown,IND, Independents,Unknown,221,0.090000004,sikkim,01-01-1979,Loser,-448
+A,Assembly,Melli,Bhim Bahadur Gurung, Male,Unknown,Unknown,IND, Independents,Unknown,201,0.079999998,sikkim,01-01-1979,Loser,-468
+A,Assembly,Melli,Nanda Bahadur Rai, Male,Unknown,Unknown,SCR, Sikkim Congress (r),Unknown,163,0.07,sikkim,01-01-1979,Loser,-506
+A,Assembly,Melli,Chabilall Rai, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,109,0.039999999,sikkim,01-01-1979,Loser,-560
+A,Assembly,Melli,Krishna Kumar Dulal, Male,Unknown,Unknown,IND, Independents,Unknown,21,0.01,sikkim,01-01-1979,Loser,-648
+A,Assembly,Melli,Kali Prasad Rai, Male,Unknown,Unknown,IND, Independents,Unknown,18,0.01,sikkim,01-01-1979,Loser,-651
+A,Assembly,Namcheybung,Em Prasad Sharma, Male,43, GEN,SDF, Sikkim Democratic Front, umbrella,6141,0.5,sikkim,01-01-2019,Winner,971
+A,Assembly,Namcheybung,Denis Rai, Male,51, GEN,SKM, Sikkim Krantikari Morcha, table lamp,5170,0.419999987,sikkim,01-01-2019,Loser,-971
+A,Assembly,Namcheybung,Devi Basnett, Female,56, GEN,BJP, Bharatiya Janata Party, lotus,574,0.050000001,sikkim,01-01-2019,Loser,-5567
+A,Assembly,Namcheybung,Kharga Bahadur Rai, Male,50, GEN,SKPP, Sikkim Republican Party, flute,162,0.01,sikkim,01-01-2019,Loser,-5979
+A,Assembly,Namcheybung,Phipra Hang Subba, Male,39, ST,SRMP, Sikkim Rajya Manch Party, walking stick,161,0.01,sikkim,01-01-2019,Loser,-5980
+A,Assembly,Namcheybung,Anush Rai, Male,38, GEN,HMSKP, Hamro Sikkim Party, whistle,102,0.01,sikkim,01-01-2019,Loser,-6039
+A,Assembly,Namcheybung,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,90,0.01,sikkim,01-01-2019,Loser,-6051
+A,Assembly,Namcheybung,Bek Bahadur Rai, Male,45, GEN,SDF, Sikkim Democratic Front, umbrella,5577,0.50999999,sikkim,01-01-2014,Winner,622
+A,Assembly,Namcheybung,Dilip Rai, Male,43, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4955,0.449999988,sikkim,01-01-2014,Loser,-622
+A,Assembly,Namcheybung,Tashi Rai, Female,33, GEN,BJP, Bharatiya Janata Party, lotus,167,0.02,sikkim,01-01-2014,Loser,-5410
+A,Assembly,Namcheybung,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,157,0.01,sikkim,01-01-2014,Loser,-5420
+A,Assembly,Namcheybung,Manoj Rai, Male,45, GEN,INC, Indian National Congress, hand,139,0.01,sikkim,01-01-2014,Loser,-5438
+A,Assembly,Namcheybung,Bek Bdr Rai, Male,41, GEN,SDF, Sikkim Democratic Front,Unknown,5877,0.629999995,sikkim,01-01-2009,Winner,2923
+A,Assembly,Namcheybung,Em Prasad Sharma, Male,33, GEN,INC, Indian National Congress,Unknown,2954,0.319999993,sikkim,01-01-2009,Loser,-2923
+A,Assembly,Namcheybung,Ashok Kr Subba, Male,59, GEN,NCP, Nationalist Congress Party,Unknown,132,0.01,sikkim,01-01-2009,Loser,-5745
+A,Assembly,Namcheybung,Ten Tshera Subba, Male,35, GEN,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,101,0.01,sikkim,01-01-2009,Loser,-5776
+A,Assembly,Namcheybung,Diwash Thapa, Male,32, GEN,IND, Independent,Unknown,96,0.01,sikkim,01-01-2009,Loser,-5781
+A,Assembly,Namcheybung,Sunder Rai, Male,34, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,73,0.01,sikkim,01-01-2009,Loser,-5804
+A,Assembly,Namcheybung,Punya Prasad Koirala, Male,39, GEN,CPM, Communist Party Of India (marxist),Unknown,41,NULL,sikkim,01-01-2009,Loser,-5836
+A,Assembly,Namchi-singhithang ,Pawan Chamling, Male,68, GEN,SDF, Sikkim Democratic Front, umbrella,5054,0.5,sikkim,01-01-2019,Winner,377
+A,Assembly,Namchi-singhithang ,Ganesh Rai, Male,45, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4677,0.469999999,sikkim,01-01-2019,Loser,-377
+A,Assembly,Namchi-singhithang ,Kamala Rai, Female,37, GEN,INC, Indian National Congress, hand,87,0.01,sikkim,01-01-2019,Loser,-4967
+A,Assembly,Namchi-singhithang ,Kharga Bahadur Rai, Male,50, GEN,SRPP, Sikkim Republican Party, flute,83,0.01,sikkim,01-01-2019,Loser,-4971
+A,Assembly,Namchi-singhithang ,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,75,0.01,sikkim,01-01-2019,Loser,-4979
+A,Assembly,Namchi-singhithang ,Hukum Chandra Rai, Male,45, GEN,HMSKP, Hamro Sikkim Party, whistle,70,0.01,sikkim,01-01-2019,Loser,-4984
+A,Assembly,Namchi-singhithang ,Pawan Chamling, Male,62, GEN,SDF, Sikkim Democratic Front, umbrella,4774,0.550000012,sikkim,01-01-2014,Winner,1084
+A,Assembly,Namchi-singhithang ,Milan Rai, Male,45, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3690,0.430000007,sikkim,01-01-2014,Loser,-1084
+A,Assembly,Namchi-singhithang ,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,112,0.01,sikkim,01-01-2014,Loser,-4662
+A,Assembly,Namchi-singhithang ,Khush Bdr Rai, Male,46, GEN,INC, Indian National Congress, hand,92,0.01,sikkim,01-01-2014,Loser,-4682
+A,Assembly,Namchi-singhithang ,Pawan Chamling, Male,58, GEN,SDF, Sikkim Democratic Front,Unknown,5653,0.810000002,sikkim,01-01-2009,Winner,4644
+A,Assembly,Namchi-singhithang ,Khush Bdr Rai, Male,42, GEN,INC, Indian National Congress,Unknown,1009,0.140000001,sikkim,01-01-2009,Loser,-4644
+A,Assembly,Namchi-singhithang ,Basant Kr Rai, Male,38, GEN,SJEP, Sikkim Jan-ekta Party,Unknown,127,0.02,sikkim,01-01-2009,Loser,-5526
+A,Assembly,Namchi-singhithang ,Anjana Tamang, Female,44, ST,NCP, Nationalist Congress Party,Unknown,81,0.01,sikkim,01-01-2009,Loser,-5572
+A,Assembly,Namchi-singhithang ,Sheela Rai, Female,31, GEN,IND, Independent,Unknown,62,0.01,sikkim,01-01-2009,Loser,-5591
+A,Assembly,Namchi-singhithang ,Arjun Kumar Rai, Male,37, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,50,0.01,sikkim,01-01-2009,Loser,-5603
+A,Assembly,Namthang-rateypani,Sanjeet Kharel, Male,42, GEN,SKM, Sikkim Krantikari Morcha, table lamp,6848,0.540000021,sikkim,01-01-2019,Winner,1305
+A,Assembly,Namthang-rateypani,Birjan Tamang, Male,37, ST,SDF, Sikkim Democratic Front, umbrella,5543,0.430000007,sikkim,01-01-2019,Loser,-1305
+A,Assembly,Namthang-rateypani,Sancha Man Chettri, Male,31, GEN,INC, Indian National Congress, hand,128,0.01,sikkim,01-01-2019,Loser,-6720
+A,Assembly,Namthang-rateypani,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,89,0.01,sikkim,01-01-2019,Loser,-6759
+A,Assembly,Namthang-rateypani,Ganga Ram Sharma, Male,48, GEN,SKPP, Sikkim Republican Party, flute,83,0.01,sikkim,01-01-2019,Loser,-6765
+A,Assembly,Namthang-rateypani,Madan Tamang, Male,43, ST,HMSKP, Hamro Sikkim Party, whistle,47,NULL,sikkim,01-01-2019,Loser,-6801
+A,Assembly,Namthang-rateypani,Usha Gurung, Female,35, GEN,JMBP, Jai Maha Bharath Party, helicopter,41,NULL,sikkim,01-01-2019,Loser,-6807
+A,Assembly,Namthang-rateypani,Tilu Gurung, Female,47, GEN,SDF, Sikkim Democratic Front, umbrella,5947,0.540000021,sikkim,01-01-2014,Winner,1155
+A,Assembly,Namthang-rateypani,Prem Singh Tamang, Male,44, ST,SKM, Sikkim Krantikari Morcha, table lamp,4792,0.430000007,sikkim,01-01-2014,Loser,-1155
+A,Assembly,Namthang-rateypani,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,109,0.01,sikkim,01-01-2014,Loser,-5838
+A,Assembly,Namthang-rateypani,Dik Maya Basnet, Female,28, GEN,INC, Indian National Congress, hand,107,0.01,sikkim,01-01-2014,Loser,-5840
+A,Assembly,Namthang-rateypani,Yasodha Barakoti, Female,39, GEN,AITC, All India Trinamool Congress, flowers and grass,91,0.01,sikkim,01-01-2014,Loser,-5856
+A,Assembly,Namthang-rateypani,Tilu Gurung, Female,41, GEN,SDF, Sikkim Democratic Front,Unknown,5988,0.660000026,sikkim,01-01-2009,Winner,3211
+A,Assembly,Namthang-rateypani,Suk Bdr Tamang, Male,42, ST,INC, Indian National Congress,Unknown,2777,0.310000002,sikkim,01-01-2009,Loser,-3211
+A,Assembly,Namthang-rateypani,Arun Kr Gurung, Male,38, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,132,0.01,sikkim,01-01-2009,Loser,-5856
+A,Assembly,Namthang-rateypani,Manoj Uprety, Male,30, GEN,IND, Independent,Unknown,101,0.01,sikkim,01-01-2009,Loser,-5887
+A,Assembly,Namthang-rateypani,Abir Singh Subba, Male,55, GEN,IND, Independent,Unknown,60,0.01,sikkim,01-01-2009,Loser,-5928
+A,Assembly,Namthang-rateypani,Sanjukta Rai, Female,26, GEN,SJEP, Sikkim Jan-ekta Party,Unknown,48,0.01,sikkim,01-01-2009,Loser,-5940
+A,Assembly,Poklok-kamrang,Pawan Chamling, Male,68, GEN,SDF, Sikkim Democratic Front, umbrella,7731,0.589999974,sikkim,01-01-2019,Winner,2899
+A,Assembly,Poklok-kamrang,Kharka Bahadur Rai, Male,44, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4832,0.370000005,sikkim,01-01-2019,Loser,-2899
+A,Assembly,Poklok-kamrang,Yadhu Kumar Rai, Male,35, GEN,SRPP, Sikkim Republican Party, flute,197,0.02,sikkim,01-01-2019,Loser,-7534
+A,Assembly,Poklok-kamrang,Ishwar Prasad Rai, Male,38, GEN,INC, Indian National Congress, hand,125,0.01,sikkim,01-01-2019,Loser,-7606
+A,Assembly,Poklok-kamrang,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,108,0.01,sikkim,01-01-2019,Loser,-7623
+A,Assembly,Poklok-kamrang,Birkha Bahadur Rai, Male,68, GEN,HMSKP, Hamro Sikkim Party, whistle,90,0.01,sikkim,01-01-2019,Loser,-7641
+A,Assembly,Poklok-kamrang,Kedar Nath Rai, Male,49, GEN,SDF, Sikkim Democratic Front, umbrella,7996,0.689999998,sikkim,01-01-2014,Winner,4671
+A,Assembly,Poklok-kamrang,Bhoj Raj Rai, Male,45, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3325,0.289999992,sikkim,01-01-2014,Loser,-4671
+A,Assembly,Poklok-kamrang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,178,0.02,sikkim,01-01-2014,Loser,-7818
+A,Assembly,Poklok-kamrang,Ishwar Prasad Rai, Male,36, GEN,INC, Indian National Congress, hand,115,0.01,sikkim,01-01-2014,Loser,-7881
+A,Assembly,Poklok-kamrang,Pawan Chamling, Male,58, GEN,SDF, Sikkim Democratic Front,Unknown,7379,0.810000002,sikkim,01-01-2009,Winner,5956
+A,Assembly,Poklok-kamrang,Purna Kumari Rai, Female,50, GEN,INC, Indian National Congress,Unknown,1423,0.159999996,sikkim,01-01-2009,Loser,-5956
+A,Assembly,Poklok-kamrang,Padam Pd Sharma, Male,33, GEN,BJP, Bharatiya Janata Party,Unknown,167,0.02,sikkim,01-01-2009,Loser,-7212
+A,Assembly,Poklok-kamrang,Bhim Shila Rai, Female,37, GEN,IND, Independent,Unknown,100,0.01,sikkim,01-01-2009,Loser,-7279
+A,Assembly,Poklok-kamrang,Dhanman Rai, Male,53, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,39,NULL,sikkim,01-01-2009,Loser,-7340
+A,Assembly,Poklok-kamrang,Jai Prakash Rai, Male,38, GEN,SJEP, Sikkim Jan-ekta Party,Unknown,38,NULL,sikkim,01-01-2009,Loser,-7341
+A,Assembly,Rangang-yangang,Raj Kumari Thapa, Female,39, GEN,SDF, Sikkim Democratic Front, umbrella,6146,0.529999971,sikkim,01-01-2019,Winner,1525
+A,Assembly,Rangang-yangang,Raj Kumar Basnet, Male,60, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4621,0.400000006,sikkim,01-01-2019,Loser,-1525
+A,Assembly,Rangang-yangang,Rup Narayan Chamling, Male,51, GEN,SRMP, Sikkim Rajya Manch Party, walking stick,443,0.039999999,sikkim,01-01-2019,Loser,-5703
+A,Assembly,Rangang-yangang,Tanka Nath Adhikari, Male,32, GEN,INC, Indian National Congress, hand,105,0.01,sikkim,01-01-2019,Loser,-6041
+A,Assembly,Rangang-yangang,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,70,0.01,sikkim,01-01-2019,Loser,-6076
+A,Assembly,Rangang-yangang,Kamala Rai, Female,37, GEN,HMSKP, Hamro Sikkim Party, whistle,69,0.01,sikkim,01-01-2019,Loser,-6077
+A,Assembly,Rangang-yangang,Mohan Gurung, Male,27, GEN,SRPP, Sikkim Republican Party, flute,41,NULL,sikkim,01-01-2019,Loser,-6105
+A,Assembly,Rangang-yangang,Pawan Chamling, Male,62, GEN,SDF, Sikkim Democratic Front, umbrella,6343,0.639999986,sikkim,01-01-2014,Winner,3142
+A,Assembly,Rangang-yangang,Bikash Basnet, Male,26, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3201,0.319999993,sikkim,01-01-2014,Loser,-3142
+A,Assembly,Rangang-yangang,Om Prakash Bista, Male,39, GEN,INC, Indian National Congress, hand,206,0.02,sikkim,01-01-2014,Loser,-6137
+A,Assembly,Rangang-yangang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,186,0.02,sikkim,01-01-2014,Loser,-6157
+A,Assembly,Rangang-yangang,Chandra Bdr Karki, Male,52, GEN,SDF, Sikkim Democratic Front,Unknown,5558,0.680000007,sikkim,01-01-2009,Winner,3197
+A,Assembly,Rangang-yangang,Avinash Yakha, Male,33, GEN,INC, Indian National Congress,Unknown,2361,0.289999992,sikkim,01-01-2009,Loser,-3197
+A,Assembly,Rangang-yangang,Tika Ram Chettri, Male,46, GEN,IND, Independent,Unknown,125,0.02,sikkim,01-01-2009,Loser,-5433
+A,Assembly,Rangang-yangang,Keshav Prasad Bhattarai, Male,38, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,101,0.01,sikkim,01-01-2009,Loser,-5457
+A,Assembly,Rhenock,Bishnu Kumar Sharma, Male,64, GEN,SKM, Sikkim Krantikari Morcha, table lamp,8039,0.560000002,sikkim,01-01-2019,Winner,3086
+A,Assembly,Rhenock,Hemendra Adhikari, Male,61, GEN,SDF, Sikkim Democratic Front, umbrella,4953,0.349999994,sikkim,01-01-2019,Loser,-3086
+A,Assembly,Rhenock,Bharat Kumar Sharma, Male,45, GEN,BJP, Bharatiya Janata Party, lotus,649,0.050000001,sikkim,01-01-2019,Loser,-7390
+A,Assembly,Rhenock,Deo Kr Pradhan, Male,40, GEN,INC, Indian National Congress, hand,192,0.01,sikkim,01-01-2019,Loser,-7847
+A,Assembly,Rhenock,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,142,0.01,sikkim,01-01-2019,Loser,-7897
+A,Assembly,Rhenock,Chakrapani Sharma, Male,55, GEN,SKPP, Sikkim Republican Party, flute,122,0.01,sikkim,01-01-2019,Loser,-7917
+A,Assembly,Rhenock,Biraj Adhikari, Male,57, GEN,HMSKP, Hamro Sikkim Party, whistle,85,0.01,sikkim,01-01-2019,Loser,-7954
+A,Assembly,Rhenock,Ramesh Sharma, Male,43, GEN,SUTF, Sikkim United Front, telephone,62,NULL,sikkim,01-01-2019,Loser,-7977
+A,Assembly,Rhenock,Hemendra Adhikari, Male,56, GEN,SKM, Sikkim Krantikari Morcha, table lamp,6415,0.5,sikkim,01-01-2014,Winner,954
+A,Assembly,Rhenock,Bhim Prasad Dhungel, Male,42, GEN,SDF, Sikkim Democratic Front, umbrella,5461,0.430000007,sikkim,01-01-2014,Loser,-954
+A,Assembly,Rhenock,Tilak Kumar Pradhan, Male,59, GEN,IND, Independent, candles,474,0.039999999,sikkim,01-01-2014,Loser,-5941
+A,Assembly,Rhenock,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,139,0.01,sikkim,01-01-2014,Loser,-6276
+A,Assembly,Rhenock,Padam Bdr Chettri, Male,38, GEN,INC, Indian National Congress, hand,138,0.01,sikkim,01-01-2014,Loser,-6277
+A,Assembly,Rhenock,Om Prakash Bhandari, Male,45, GEN,IND, Independent, battery torch,99,0.01,sikkim,01-01-2014,Loser,-6316
+A,Assembly,Rhenock,Nawraj Chettri, Male,36, GEN,AITC, All India Trinamool Congress, flowers and grass,92,0.01,sikkim,01-01-2014,Loser,-6323
+A,Assembly,Rhenock,Bhim Prasad Dhungel, Male,36, GEN,SDF, Sikkim Democratic Front,Unknown,5611,0.540000021,sikkim,01-01-2009,Winner,1443
+A,Assembly,Rhenock,Kedar Nath Sharma, Male,34, GEN,INC, Indian National Congress,Unknown,4168,0.400000006,sikkim,01-01-2009,Loser,-1443
+A,Assembly,Rhenock,Biraj Adhikari, Male,44, GEN,IND, Independent,Unknown,226,0.02,sikkim,01-01-2009,Loser,-5385
+A,Assembly,Rhenock,Rudra Khatiwara, Male,32, GEN,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,130,0.01,sikkim,01-01-2009,Loser,-5481
+A,Assembly,Rhenock,Bedan Kumar Chettri, Male,44, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,119,0.01,sikkim,01-01-2009,Loser,-5492
+A,Assembly,Rhenock,Udaya Chandra Ghimiray, Male,30, GEN,CPM, Communist Party Of India (marxist),Unknown,101,0.01,sikkim,01-01-2009,Loser,-5510
+A,Assembly,Rhenock,Atri Ram Chandra Poudyal, Male,64, GEN,IND, Independent,Unknown,90,0.01,sikkim,01-01-2009,Loser,-5521
+A,Assembly,Rhenock,Bhim Pd Dhungel, Male,31, GEN,SDF, Sikkim Democratic Front,Unknown,4647,NULL,sikkim,01-01-2004,Winner,3293
+A,Assembly,Rhenock,Kharananda Upreti, Male,52, GEN,INC, Indian National Congress,Unknown,1354,NULL,sikkim,01-01-2004,Loser,-3293
+A,Assembly,Rhenock,Shanti Chhetri, Female,53, GEN,BJP, Bharatiya Janata Party,Unknown,158,NULL,sikkim,01-01-2004,Loser,-4489
+A,Assembly,Rhenock,Nar Bdr Bhandari, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,3364,0.560000002,sikkim,01-01-1999,Winner,788
+A,Assembly,Rhenock,Bedu Singh Panth, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,2576,0.430000007,sikkim,01-01-1999,Loser,-788
+A,Assembly,Rhenock,Padam Dhakal, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,37,0.01,sikkim,01-01-1999,Loser,-3327
+A,Assembly,Rhenock,Santosh Kr Pradhan, Male,Unknown,Unknown,IND, Independent,Unknown,33,0.01,sikkim,01-01-1999,Loser,-3331
+A,Assembly,Rhenock,Khara Nanda Upreti, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2336,0.469999999,sikkim,01-01-1994,Winner,691
+A,Assembly,Rhenock,Biraj Adhikari, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,1645,0.330000013,sikkim,01-01-1994,Loser,-691
+A,Assembly,Rhenock,Bhawani Pd Dahal, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,710,0.140000001,sikkim,01-01-1994,Loser,-1626
+A,Assembly,Rhenock,Santosh Kr Pradhan, Male,Unknown,Unknown,RSP, Revolutionary Socialist Party,Unknown,297,0.059999999,sikkim,01-01-1994,Loser,-2039
+A,Assembly,Rhenock,Arjun Kr Chettri, Male,Unknown,Unknown,IND, Independent,Unknown,33,0.01,sikkim,01-01-1994,Loser,-2303
+A,Assembly,Rhenock,Kharananda Uprety, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2295,0.600000024,sikkim,01-01-1989,Winner,1024
+A,Assembly,Rhenock,Kiran Chettri, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1271,0.330000013,sikkim,01-01-1989,Loser,-1024
+A,Assembly,Rhenock,Bal Krishna Uprety, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,226,0.059999999,sikkim,01-01-1989,Loser,-2069
+A,Assembly,Rhenock,Tulsiram Sharma, Male,Unknown,Unknown,IND, Independents,Unknown,16,NULL,sikkim,01-01-1989,Loser,-2279
+A,Assembly,Rhenock,K N Upretti, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,1809,0.600000024,sikkim,01-01-1985,Winner,1100
+A,Assembly,Rhenock,B P Dahal, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,709,0.230000004,sikkim,01-01-1985,Loser,-1100
+A,Assembly,Rhenock,K N Adhikari, Male,Unknown,Unknown,IND, Independent,Unknown,231,0.079999998,sikkim,01-01-1985,Loser,-1578
+A,Assembly,Rhenock,Udai Chandra Vasistha, Male,Unknown,Unknown,IND, Independent,Unknown,163,0.050000001,sikkim,01-01-1985,Loser,-1646
+A,Assembly,Rhenock,Kamala Subba, Female,Unknown,Unknown,JNP, Janta Party,Unknown,90,0.029999999,sikkim,01-01-1985,Loser,-1719
+A,Assembly,Rhenock,B B Mishra, Male,Unknown,Unknown,CPI, Communist Party Of India,Unknown,19,0.01,sikkim,01-01-1985,Loser,-1790
+A,Assembly,Rhenock,Laxman Bhujel, Male,Unknown,Unknown,IND, Independent,Unknown,7,NULL,sikkim,01-01-1985,Loser,-1802
+A,Assembly,Rhenock,Kharananda Upreti, Male,Unknown,Unknown,SCR, Sikkim Congress (r),Unknown,504,0.230000004,sikkim,01-01-1979,Winner,146
+A,Assembly,Rhenock,Bhuwani Prasad Dahal, Male,Unknown,Unknown,JNP, Janta Party,Unknown,358,0.159999996,sikkim,01-01-1979,Loser,-146
+A,Assembly,Rhenock,Sunder Kumar Newar, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,352,0.159999996,sikkim,01-01-1979,Loser,-152
+A,Assembly,Rhenock,Krishna Bahadur, Male,Unknown,Unknown,SJP, Sikkim Janta Parishad,Unknown,313,0.140000001,sikkim,01-01-1979,Loser,-191
+A,Assembly,Rhenock,Kewal Prasad Sharma, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,303,0.140000001,sikkim,01-01-1979,Loser,-201
+A,Assembly,Rhenock,Prem Bahadur Chhetri, Male,Unknown,Unknown,IND, Independents,Unknown,212,0.100000001,sikkim,01-01-1979,Loser,-292
+A,Assembly,Rhenock,Ganga Ram Rai, Male,Unknown,Unknown,CPM, Communist Party Of India (marxist),Unknown,56,0.029999999,sikkim,01-01-1979,Loser,-448
+A,Assembly,Rhenock,Nanda Lall Dulal, Male,Unknown,Unknown,IND, Independents,Unknown,48,0.02,sikkim,01-01-1979,Loser,-456
+A,Assembly,Rhenock,Rudra Mani Basnet, Male,Unknown,Unknown,IND, Independents,Unknown,24,0.01,sikkim,01-01-1979,Loser,-480
+A,Assembly,Rhenock,Laxuman Bhujel, Male,Unknown,Unknown,IND, Independents,Unknown,16,0.01,sikkim,01-01-1979,Loser,-488
+A,Assembly,Rinchenpong,Karma Sonam Lepcha, Male,55, ST,SDF, Sikkim Democratic Front, umbrella,6582,0.519999981,sikkim,01-01-2019,Winner,1069
+A,Assembly,Rinchenpong,Phurba Tsh Bhutia, Male,42, ST,SKM, Sikkim Krantikari Morcha, table lamp,5513,0.439999998,sikkim,01-01-2019,Loser,-1069
+A,Assembly,Rinchenpong,Sancho Lepcha, Male,26, ST,BJP, Bharatiya Janata Party, lotus,303,0.02,sikkim,01-01-2019,Loser,-6279
+A,Assembly,Rinchenpong,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,109,0.01,sikkim,01-01-2019,Loser,-6473
+A,Assembly,Rinchenpong,Phurchung Lepcha, Male,44, ST,INC, Indian National Congress, hand,92,0.01,sikkim,01-01-2019,Loser,-6490
+A,Assembly,Rinchenpong,Karma Sonam Lepcha, Male,49, ST,SDF, Sikkim Democratic Front, umbrella,7347,0.680000007,sikkim,01-01-2014,Winner,4456
+A,Assembly,Rinchenpong,Pema Kinzang Bhutia, Male,41, ST,SKM, Sikkim Krantikari Morcha, table lamp,2891,0.270000011,sikkim,01-01-2014,Loser,-4456
+A,Assembly,Rinchenpong,Laten Tshering Sherpa, Male,28, ST,BJP, Bharatiya Janata Party, lotus,186,0.02,sikkim,01-01-2014,Loser,-7161
+A,Assembly,Rinchenpong,Karsang Sherpa, Male,41, ST,INC, Indian National Congress, hand,132,0.01,sikkim,01-01-2014,Loser,-7215
+A,Assembly,Rinchenpong,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,97,0.01,sikkim,01-01-2014,Loser,-7250
+A,Assembly,Rinchenpong,Phur Tshering Lepcha, Male,61, ST,AITC, All India Trinamool Congress, flowers and grass,93,0.01,sikkim,01-01-2014,Loser,-7254
+A,Assembly,Rinchenpong,Dawa Norbu Takarpa, Male,58, ST,SDF, Sikkim Democratic Front,Unknown,6438,0.730000019,sikkim,01-01-2009,Winner,4293
+A,Assembly,Rinchenpong,Pema Kinzang Bhutia, Male,37, ST,INC, Indian National Congress,Unknown,2145,0.239999995,sikkim,01-01-2009,Loser,-4293
+A,Assembly,Rinchenpong,Phurba Sherpa, Male,37, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,160,0.02,sikkim,01-01-2009,Loser,-6278
+A,Assembly,Rinchenpong,Karsang Sherpa, Male,31, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,114,0.01,sikkim,01-01-2009,Loser,-6324
+A,Assembly,Rinchenpong,Dawcho Lepcha, Male,33, BL,SDF, Sikkim Democratic Front,Unknown,5303,NULL,sikkim,01-01-2004,Winner,4242
+A,Assembly,Rinchenpong,Pema Kinzang Bhutia, Male,31, BL,INC, Indian National Congress,Unknown,1061,NULL,sikkim,01-01-2004,Loser,-4242
+A,Assembly,Rinchenpong,Nima Sherpa, Male,28, BL,IND, Independent,Unknown,79,NULL,sikkim,01-01-2004,Loser,-5224
+A,Assembly,Rinchenpong,Phur Tsh Lepcha, Male,50, BL,IND, Independent,Unknown,57,NULL,sikkim,01-01-2004,Loser,-5246
+A,Assembly,Rinchenpong,Ongden Tshering Lepcha, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,3640,0.610000014,sikkim,01-01-1999,Winner,1639
+A,Assembly,Rinchenpong,Pema Kinzang Bhutia, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2001,0.340000004,sikkim,01-01-1999,Loser,-1639
+A,Assembly,Rinchenpong,Phur Tsh Lepcha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,283,0.050000001,sikkim,01-01-1999,Loser,-3357
+A,Assembly,Rinchenpong,Phur Tsh Lepcha, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,3181,0.600000024,sikkim,01-01-1994,Winner,1725
+A,Assembly,Rinchenpong,Phurba Sherpa, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,1456,0.280000001,sikkim,01-01-1994,Loser,-1725
+A,Assembly,Rinchenpong,Kintup Bhutia, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,482,0.090000004,sikkim,01-01-1994,Loser,-2699
+A,Assembly,Rinchenpong,Dawagyatso Lepcha, Male,Unknown,Unknown,IND, Independent,Unknown,76,0.01,sikkim,01-01-1994,Loser,-3105
+A,Assembly,Rinchenpong,Deoman Lama, Male,Unknown,Unknown,IND, Independent,Unknown,72,0.01,sikkim,01-01-1994,Loser,-3109
+A,Assembly,Rinchenpong,Chong Lamu Bhutia, Female,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,2914,0.699999988,sikkim,01-01-1989,Winner,1903
+A,Assembly,Rinchenpong,Phur Tsering Lepcha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,1011,0.239999995,sikkim,01-01-1989,Loser,-1903
+A,Assembly,Rinchenpong,Ugen Palzor Gyalsten, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,127,0.029999999,sikkim,01-01-1989,Loser,-2787
+A,Assembly,Rinchenpong,Tashi Wongdi Funpo, Male,Unknown,Unknown,DPC, Denzong Peoples Chogpi,Unknown,89,0.02,sikkim,01-01-1989,Loser,-2825
+A,Assembly,Rinchenpong,Dawa Lepcha, Male,Unknown,Unknown,IND, Independents,Unknown,19,NULL,sikkim,01-01-1989,Loser,-2895
+A,Assembly,Rinchenpong,Ongdi Bhutia, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,1418,0.460000008,sikkim,01-01-1985,Winner,760
+A,Assembly,Rinchenpong,Degay Bhutia, Male,Unknown,Unknown,IND, Independent,Unknown,658,0.209999993,sikkim,01-01-1985,Loser,-760
+A,Assembly,Rinchenpong,Phur Tskering Lepvha, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,384,0.119999997,sikkim,01-01-1985,Loser,-1034
+A,Assembly,Rinchenpong,Karma Chuden, Male,Unknown,Unknown,IND, Independent,Unknown,330,0.109999999,sikkim,01-01-1985,Loser,-1088
+A,Assembly,Rinchenpong,Tashi Lhendup Bhutia, Male,Unknown,Unknown,IND, Independent,Unknown,266,0.090000004,sikkim,01-01-1985,Loser,-1152
+A,Assembly,Rinchenpong,Phur Tshering Lepcha, Male,Unknown,Unknown,IND, Independent,Unknown,31,0.01,sikkim,01-01-1985,Loser,-1387
+A,Assembly,Rinchenpong,Katuk Bhutia, Male,Unknown,Unknown,SJP, Sikkim Janta Parishad,Unknown,598,0.280000001,sikkim,01-01-1979,Winner,118
+A,Assembly,Rinchenpong,Degey Bhutia, Male,Unknown,Unknown,JNP, Janta Party,Unknown,480,0.219999999,sikkim,01-01-1979,Loser,-118
+A,Assembly,Rinchenpong,Loday Tshering Bhutia, Male,Unknown,Unknown,SCR, Sikkim Congress (r),Unknown,457,0.209999993,sikkim,01-01-1979,Loser,-141
+A,Assembly,Rinchenpong,Dawa Tshering Sherpa, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,415,0.189999998,sikkim,01-01-1979,Loser,-183
+A,Assembly,Rinchenpong,Gompoo Namgyal Lepcha, Male,Unknown,Unknown,IND, Independents,Unknown,138,0.059999999,sikkim,01-01-1979,Loser,-460
+A,Assembly,Rinchenpong,Lako Tshering Lepcha, Male,Unknown,Unknown,IND, Independents,Unknown,57,0.029999999,sikkim,01-01-1979,Loser,-541
+A,Assembly,Salghari-zoom,Sunita Gajmer, Female,41, SC,SKM Sikkim,Krantikari,Morcha table,4400,0.49000001,sikkim,01-01-2019,Winner,93
+A,Assembly,Salghari-zoom,Dhan Kumari Kami, Female,42, SC,SDF Sikkim,Democratic,Front umbrella,4307,0.479999989,sikkim,01-01-2019,Loser,-93
+A,Assembly,Salghari-zoom,Ganga Maya Cintury, Female,40, SC,INC ,National,Congress hand,119,0.01,sikkim,01-01-2019,Loser,-4281
+A,Assembly,Salghari-zoom,Nota,Unknown,Unknown,Unknown,NOTA , None Of The Above, nota,71,0.01,sikkim,01-01-2019,Loser,-4329
+A,Assembly,Salghari-zoom,Pahal Man Kami, Male,40, SC,HMSKP ,unknown, whistle,34,NULL,sikkim,01-01-2019,Loser,-4366
+A,Assembly,Salghari-zoom,Arjun Kumar Ghatani, Male,34, SC,SDF Sikkim,Democratic,Front umbrella,4250,0.529999971,sikkim,01-01-2014,Winner,779
+A,Assembly,Salghari-zoom,Bhanu Pratap Rasaily, Male,35, SC,SKM Sikkim,Krantikari,Morcha table,3471,0.430000007,sikkim,01-01-2014,Loser,-779
+A,Assembly,Salghari-zoom,Ranjit Kami, Male,41, SC,BJP ,Bharatiya Janata Party,Party lotus,162,0.02,sikkim,01-01-2014,Loser,-4088
+A,Assembly,Salghari-zoom,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,129,0.02,sikkim,01-01-2014,Loser,-4121
+A,Assembly,Salghari-zoom,Kharka Bahadur Thatal, Male,46, SC,INC,National,Congress hand,64,0.01,sikkim,01-01-2014,Loser,-4186
+A,Assembly,Salghari-zoom,Madan Cintury, Male,48, SC,SDF Sikkim,Democratic,Front,4437,0.649999976,sikkim,01-01-2009,Winner,2298
+A,Assembly,Salghari-zoom,Janga Bir Darnal, Male,42, SC,INC ,National,Congress,2139,0.310000002,sikkim,01-01-2009,Loser,-2298
+A,Assembly,Salghari-zoom,Nirmala Kami, Female,37, SC,SJEP Sikkim,Jan-ekta,Party,104,0.02,sikkim,01-01-2009,Loser,-4333
+A,Assembly,Salghari-zoom,Padam Bahadur Darnal, Male,51, SC,NCP ,Congress,Party,57,0.01,sikkim,01-01-2009,Loser,-4380
+A,Assembly,Salghari-zoom,Giri Kumar Pariyar, Male,56, SC,SHRP Sikkim,Himali,Rajya,41,0.01,sikkim,01-01-2009,Loser,-4396
+A,Assembly,Salghari-zoom,Basant Gajmer, Male,39, SC,SGPP Sikkim,Gorkha,Prajatantric,34,0.01,sikkim,01-01-2009,Loser,-4403
+A,Assembly,Sangha,Sonam Lama, Male,43, ST,SKM, Sikkim Krantikari Morcha, table lamp,1488,0.629999995,sikkim,01-01-2019,Winner,630
+A,Assembly,Sangha,Tshering Lama, Male,55, ST,SDF, Sikkim Democratic Front, umbrella,858,0.360000014,sikkim,01-01-2019,Loser,-630
+A,Assembly,Sangha,Karma Tashi Bhutia, Male,43, ST,INC, Indian National Congress, hand,17,0.01,sikkim,01-01-2019,Loser,-1471
+A,Assembly,Sangha,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,13,0.01,sikkim,01-01-2019,Loser,-1475
+A,Assembly,Sangha,Sonam Lama, Male,38, ST,SKM, Sikkim Krantikari Morcha, table lamp,1096,0.5,sikkim,01-01-2014,Winner,125
+A,Assembly,Sangha,Palden Lachungpa, Male,58, ST,SDF, Sikkim Democratic Front, umbrella,971,0.439999998,sikkim,01-01-2014,Loser,-125
+A,Assembly,Sangha,Tshering Lama, Male,47, ST,INC, Indian National Congress, hand,108,0.050000001,sikkim,01-01-2014,Loser,-988
+A,Assembly,Sangha,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,23,0.01,sikkim,01-01-2014,Loser,-1073
+A,Assembly,Sangha,Phetook Tsh Bhutia, Male,62, ST,SDF, Sikkim Democratic Front,Unknown,980,0.49000001,sikkim,01-01-2009,Winner,55
+A,Assembly,Sangha,Tshering Lama, Male,46, ST,INC, Indian National Congress,Unknown,925,0.469999999,sikkim,01-01-2009,Loser,-55
+A,Assembly,Sangha,Samdup Dorjee Lama, Male,30, ST,BJP, Bharatiya Janata Party,Unknown,75,0.039999999,sikkim,01-01-2009,Loser,-905
+A,Assembly,Sangha,Tshering Lama, Male,42, BL,INC, Indian National Congress,Unknown,675,NULL,sikkim,01-01-2004,Winner,88
+A,Assembly,Sangha,Palden Lama, Male,44, BL,IND, Independent,Unknown,587,NULL,sikkim,01-01-2004,Loser,-88
+A,Assembly,Sangha,Namkha Gyaltse Bhutia, Male,49, BL,SDF, Sikkim Democratic Front,Unknown,449,NULL,sikkim,01-01-2004,Loser,-226
+A,Assembly,Sangha,Thinley Gyatso Lepcha, Male,33, BL,IND, Independent,Unknown,310,NULL,sikkim,01-01-2004,Loser,-365
+A,Assembly,Sangha,Samdup Dorjee Lama, Male,26, BL,BJP, Bharatiya Janata Party,Unknown,52,NULL,sikkim,01-01-2004,Loser,-623
+A,Assembly,Sangha,Sonam Dorjee, Male,34, BL,IND, Independent,Unknown,15,NULL,sikkim,01-01-2004,Loser,-660
+A,Assembly,Sangha,Palden Lama, Male,Unknown,Unknown,IND, Independent,Unknown,1309,0.660000026,sikkim,01-01-1999,Winner,939
+A,Assembly,Sangha,Namkha Gyaltsen Lama, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,370,0.189999998,sikkim,01-01-1999,Loser,-939
+A,Assembly,Sangha,Dorjee Dadul Lama, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,294,0.150000006,sikkim,01-01-1999,Loser,-1015
+A,Assembly,Sangha,Namkhagyaltsen Lama, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,767,0.469999999,sikkim,01-01-1994,Winner,124
+A,Assembly,Sangha,Palden Lama, Male,Unknown,Unknown,SDF, Sikkim Democratic Front,Unknown,643,0.389999986,sikkim,01-01-1994,Loser,-124
+A,Assembly,Sangha,Sherab Dorji, Male,Unknown,Unknown,IND, Independent,Unknown,150,0.090000004,sikkim,01-01-1994,Loser,-617
+A,Assembly,Sangha,Karma Tenpa, Male,Unknown,Unknown,IND, Independent,Unknown,40,0.02,sikkim,01-01-1994,Loser,-727
+A,Assembly,Sangha,Tshering Lama, Male,Unknown,Unknown,IND, Independent,Unknown,16,0.01,sikkim,01-01-1994,Loser,-751
+A,Assembly,Sangha,Danen Lama, Male,Unknown,Unknown,IND, Independent,Unknown,13,0.01,sikkim,01-01-1994,Loser,-754
+A,Assembly,Sangha,Nanjha Gyaltsen, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,806,0.550000012,sikkim,01-01-1989,Winner,384
+A,Assembly,Sangha,Bazing, Male,Unknown,Unknown,IND, Independents,Unknown,422,0.289999992,sikkim,01-01-1989,Loser,-384
+A,Assembly,Sangha,Rikzing Lama, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,200,0.140000001,sikkim,01-01-1989,Loser,-606
+A,Assembly,Sangha,Pegyal, Male,Unknown,Unknown,RIS, Rising Sun Party,Unknown,38,0.029999999,sikkim,01-01-1989,Loser,-768
+A,Assembly,Sangha,Kalzang Lama, Male,Unknown,Unknown,IND, Independents,Unknown,5,NULL,sikkim,01-01-1989,Loser,-801
+A,Assembly,Sangha,Tshering Lama, Male,Unknown,Unknown,DPC, Denzong Peoples Chogpi,Unknown,2,NULL,sikkim,01-01-1989,Loser,-804
+A,Assembly,Sangha,Namkha Gyaltsen, Male,Unknown,Unknown,SSP, Sikkim Sangram Parishad,Unknown,383,0.519999981,sikkim,01-01-1985,Winner,34
+A,Assembly,Sangha,Lachen Gomchen Rinpochi, Male,Unknown,Unknown,INC, Indian National Congress,Unknown,349,0.479999989,sikkim,01-01-1985,Loser,-34
+A,Assembly,Sangha,Lhachen Ganchen Rimpuchhi, Male,Unknown,Unknown,IND, Independents,Unknown,733,0.939999998,sikkim,01-01-1979,Winner,688
+A,Assembly,Sangha,Pema Lama, Male,Unknown,Unknown,SPC, Sikkim Prajatantra Congress,Unknown,45,0.059999999,sikkim,01-01-1979,Loser,-688
+A,Assembly,Shyari,Kunga Nima Lepcha, Male,71, ST,SKM, Sikkim Krantikari Morcha, table lamp,6638,0.540000021,sikkim,01-01-2019,Winner,1356
+A,Assembly,Shyari,Karma Wangdi Bhutia, Male,49, ST,SDF, Sikkim Democratic Front, umbrella,5282,0.430000007,sikkim,01-01-2019,Loser,-1356
+A,Assembly,Shyari,Chewang Dorjee Bhutia, Male,33, ST,INC, Indian National Congress, hand,170,0.01,sikkim,01-01-2019,Loser,-6468
+A,Assembly,Shyari,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,132,0.01,sikkim,01-01-2019,Loser,-6506
+A,Assembly,Shyari,Kunga Nima Lepcha, Male,66, ST,SKM, Sikkim Krantikari Morcha, table lamp,5324,0.519999981,sikkim,01-01-2014,Winner,736
+A,Assembly,Shyari,Karma Tempo Namgyal Gyaltsen, Male,52, ST,SDF, Sikkim Democratic Front, umbrella,4588,0.449999988,sikkim,01-01-2014,Loser,-736
+A,Assembly,Shyari,Samdup Dorjee Lama, Male,38, ST,INC, Indian National Congress, hand,142,0.01,sikkim,01-01-2014,Loser,-5182
+A,Assembly,Shyari,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,140,0.01,sikkim,01-01-2014,Loser,-5184
+A,Assembly,Shyari,Karma Tempo Namgyal Gyaltsen, Male,48, ST,SDF, Sikkim Democratic Front,Unknown,5034,0.629999995,sikkim,01-01-2009,Winner,2281
+A,Assembly,Shyari,Kunga Nima Lepcha, Male,62, ST,INC, Indian National Congress,Unknown,2753,0.349999994,sikkim,01-01-2009,Loser,-2281
+A,Assembly,Shyari,Karma Tsh Sherpa, Male,52, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,97,0.01,sikkim,01-01-2009,Loser,-4937
+A,Assembly,Shyari,Ang Tshering Bhutia, Male,49, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,87,0.01,sikkim,01-01-2009,Loser,-4947
+A,Assembly,Soreng-chakung,Aditya Golay (tamang), Male,28, ST,SKM, Sikkim Krantikari Morcha, table lamp,6580,0.5,sikkim,01-01-2019,Winner,208
+A,Assembly,Soreng-chakung,Sancha Raj Subba, Male,46, ST,SDF, Sikkim Democratic Front, umbrella,6372,0.479999989,sikkim,01-01-2019,Loser,-208
+A,Assembly,Soreng-chakung,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,188,0.01,sikkim,01-01-2019,Loser,-6392
+A,Assembly,Temi-namphing,Bedu Singh Panth, Male,66, GEN,SKM, Sikkim Krantikari Morcha, table lamp,6084,0.519999981,sikkim,01-01-2019,Winner,770
+A,Assembly,Temi-namphing,Garjaman Gurung, Male,53, GEN,SDF, Sikkim Democratic Front, umbrella,5314,0.449999988,sikkim,01-01-2019,Loser,-770
+A,Assembly,Temi-namphing,Deepak Kumar Bhandari, Male,48, GEN,INC, Indian National Congress, hand,146,0.01,sikkim,01-01-2019,Loser,-5938
+A,Assembly,Temi-namphing,Durga Bahadur Chhetri, Male,54, GEN,HMSKP, Hamro Sikkim Party, whistle,142,0.01,sikkim,01-01-2019,Loser,-5942
+A,Assembly,Temi-namphing,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,82,0.01,sikkim,01-01-2019,Loser,-6002
+A,Assembly,Temi-namphing,Garjaman Gurung, Male,51, GEN,SDF, Sikkim Democratic Front, umbrella,5657,0.550000012,sikkim,01-01-2014,Winner,1389
+A,Assembly,Temi-namphing,Lalit Sharma, Male,41, GEN,SKM, Sikkim Krantikari Morcha, table lamp,4268,0.419999987,sikkim,01-01-2014,Loser,-1389
+A,Assembly,Temi-namphing,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,180,0.02,sikkim,01-01-2014,Loser,-5477
+A,Assembly,Temi-namphing,Deepak Bhandari, Male,45, GEN,INC, Indian National Congress, hand,110,0.01,sikkim,01-01-2014,Loser,-5547
+A,Assembly,Temi-namphing,Bedu Singh Panth, Male,56, GEN,SDF, Sikkim Democratic Front,Unknown,4577,0.519999981,sikkim,01-01-2009,Winner,1740
+A,Assembly,Temi-namphing,Lalit Sharma, Male,37, GEN,INC, Indian National Congress,Unknown,2837,0.319999993,sikkim,01-01-2009,Loser,-1740
+A,Assembly,Temi-namphing,Garja Man Rai, Male,35, GEN,IND, Independent,Unknown,985,0.109999999,sikkim,01-01-2009,Loser,-3592
+A,Assembly,Temi-namphing,Ugen Tamang, Male,33, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,231,0.029999999,sikkim,01-01-2009,Loser,-4346
+A,Assembly,Temi-namphing,Kharga Bahadur Gurung, Male,61, GEN,IND, Independent,Unknown,148,0.02,sikkim,01-01-2009,Loser,-4429
+A,Assembly,Tumen-lingi,Ugen T Gyatso Bhutia, Male,59, ST,SDF, Sikkim Democratic Front, umbrella,6615,0.5,sikkim,01-01-2019,Winner,320
+A,Assembly,Tumen-lingi,Samdup Tshering Bhutia, Male,60, ST,SKM, Sikkim Krantikari Morcha, table lamp,6295,0.469999999,sikkim,01-01-2019,Loser,-320
+A,Assembly,Tumen-lingi,Bhaichung Bhutia, Male,42, ST,HMSKP, Hamro Sikkim Party, whistle,234,0.02,sikkim,01-01-2019,Loser,-6381
+A,Assembly,Tumen-lingi,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,116,0.01,sikkim,01-01-2019,Loser,-6499
+A,Assembly,Tumen-lingi,Ugen T Gyatso Bhutia, Male,50, ST,SDF, Sikkim Democratic Front, umbrella,7191,0.620000005,sikkim,01-01-2014,Winner,3192
+A,Assembly,Tumen-lingi,Nidup Tshering Lepcha, Male,50, ST,SKM, Sikkim Krantikari Morcha, table lamp,3999,0.349999994,sikkim,01-01-2014,Loser,-3192
+A,Assembly,Tumen-lingi,Pandup Lepcha, Male,41, ST,INC, Indian National Congress, hand,151,0.01,sikkim,01-01-2014,Loser,-7040
+A,Assembly,Tumen-lingi,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,105,0.01,sikkim,01-01-2014,Loser,-7086
+A,Assembly,Tumen-lingi,Prem Tshering Lepcha, Male,38, ST,AITC, All India Trinamool Congress, flowers and grass,104,0.01,sikkim,01-01-2014,Loser,-7087
+A,Assembly,Tumen-lingi,Ugen T Gyatso Bhutia, Male,49, ST,SDF, Sikkim Democratic Front,Unknown,5026,0.550000012,sikkim,01-01-2009,Winner,1324
+A,Assembly,Tumen-lingi,Phuchung Bhutia, Male,54, ST,INC, Indian National Congress,Unknown,3702,0.409999996,sikkim,01-01-2009,Loser,-1324
+A,Assembly,Tumen-lingi,Mingma Tharbu Sherpa, Male,50, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,160,0.02,sikkim,01-01-2009,Loser,-4866
+A,Assembly,Tumen-lingi,Pema Bhutia, Male,54, ST,IND, Independent,Unknown,152,0.02,sikkim,01-01-2009,Loser,-4874
+A,Assembly,Tumen-lingi,Dawa Ongdup Lepcha, Male,35, ST,IND, Independent,Unknown,44,NULL,sikkim,01-01-2009,Loser,-4982
+A,Assembly,Upper Burtuk,Dilli Ram Thapa, Male,50, GEN,SDF, Sikkim Democratic Front, umbrella,6107,0.519999981,sikkim,01-01-2019,Winner,757
+A,Assembly,Upper Burtuk,Nagendra Bikram Gurung, Male,68, GEN,SKM, Sikkim Krantikari Morcha, table lamp,5350,0.449999988,sikkim,01-01-2019,Loser,-757
+A,Assembly,Upper Burtuk,Aita Tamang, Male,47, ST,INC, Indian National Congress, hand,128,0.01,sikkim,01-01-2019,Loser,-5979
+A,Assembly,Upper Burtuk,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,93,0.01,sikkim,01-01-2019,Loser,-6014
+A,Assembly,Upper Burtuk,Dal Bahadur Tamang, Male,41, ST,SKPP, Sikkim Republican Party, flute,59,0.01,sikkim,01-01-2019,Loser,-6048
+A,Assembly,Upper Burtuk,Philip Lamichaney, Male,34, SC,HMSKP, Hamro Sikkim Party, whistle,59,0.01,sikkim,01-01-2019,Loser,-6048
+A,Assembly,Upper Burtuk,Prem Singh Tamang, Male,44, ST,SKM, Sikkim Krantikari Morcha, table lamp,5272,0.50999999,sikkim,01-01-2014,Winner,573
+A,Assembly,Upper Burtuk,D R Thapa, Male,45, GEN,SDF, Sikkim Democratic Front, umbrella,4699,0.449999988,sikkim,01-01-2014,Loser,-573
+A,Assembly,Upper Burtuk,Ugen Tamang, Male,40, ST,BJP, Bharatiya Janata Party, lotus,159,0.02,sikkim,01-01-2014,Loser,-5113
+A,Assembly,Upper Burtuk,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,139,0.01,sikkim,01-01-2014,Loser,-5133
+A,Assembly,Upper Burtuk,Santa Bir Gurung, Male,62, GEN,INC, Indian National Congress, hand,124,0.01,sikkim,01-01-2014,Loser,-5148
+A,Assembly,Upper Burtuk,Prem Singh Tamang, Male,41, ST,SDF, Sikkim Democratic Front,Unknown,5908,0.790000021,sikkim,01-01-2009,Winner,4563
+A,Assembly,Upper Burtuk,Arun Kumar Rai, Male,58, GEN,INC, Indian National Congress,Unknown,1345,0.180000007,sikkim,01-01-2009,Loser,-4563
+A,Assembly,Upper Burtuk,Sumitra Rai, Female,41, GEN,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,86,0.01,sikkim,01-01-2009,Loser,-5822
+A,Assembly,Upper Burtuk,Binod Kumar Adhikari, Male,30, GEN,BJP, Bharatiya Janata Party,Unknown,75,0.01,sikkim,01-01-2009,Loser,-5833
+A,Assembly,Upper Burtuk,Tikendra Sharma, Male,40, GEN,IND, Independent,Unknown,74,0.01,sikkim,01-01-2009,Loser,-5834
+A,Assembly,Upper Burtuk,Yuwa Raj Gurung, Male,33, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,26,NULL,sikkim,01-01-2009,Loser,-5882
+A,Assembly,Upper Tadong,Gay Tshering Dhungel, Male,59, GEN,SDF, Sikkim Democratic Front, umbrella,3844,0.50999999,sikkim,01-01-2019,Winner,416
+A,Assembly,Upper Tadong,Anand Lama, Male,57, ST,SKM, Sikkim Krantikari Morcha, table lamp,3428,0.449999988,sikkim,01-01-2019,Loser,-416
+A,Assembly,Upper Tadong,Dr Bina Basnett, Female,33, GEN,HMSKP, Hamro Sikkim Party, whistle,123,0.02,sikkim,01-01-2019,Loser,-3721
+A,Assembly,Upper Tadong,Anita Gurung, Female,34, GEN,INC, Indian National Congress, hand,69,0.01,sikkim,01-01-2019,Loser,-3775
+A,Assembly,Upper Tadong,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,56,0.01,sikkim,01-01-2019,Loser,-3788
+A,Assembly,Upper Tadong,Punam Bhandari, Female,28, GEN,SKPP, Sikkim Republican Party, flute,16,NULL,sikkim,01-01-2019,Loser,-3828
+A,Assembly,Upper Tadong,Timothy William Basnett, Male,45, GEN,SKM, Sikkim Krantikari Morcha, table lamp,3333,0.49000001,sikkim,01-01-2014,Winner,122
+A,Assembly,Upper Tadong,Bhasker Basnett, Male,52, GEN,SDF, Sikkim Democratic Front, umbrella,3211,0.469999999,sikkim,01-01-2014,Loser,-122
+A,Assembly,Upper Tadong,Eli Pal, Female,49, GEN,BJP, Bharatiya Janata Party, lotus,155,0.02,sikkim,01-01-2014,Loser,-3178
+A,Assembly,Upper Tadong,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,79,0.01,sikkim,01-01-2014,Loser,-3254
+A,Assembly,Upper Tadong,Tara Kumar Pradhan, Male,45, GEN,INC, Indian National Congress, hand,79,0.01,sikkim,01-01-2014,Loser,-3254
+A,Assembly,Upper Tadong,Dil Bahadur Thapa, Male,44, GEN,SDF, Sikkim Democratic Front,Unknown,3148,0.560000002,sikkim,01-01-2009,Winner,1043
+A,Assembly,Upper Tadong,Arun Kr Basnet, Male,52, GEN,INC, Indian National Congress,Unknown,2105,0.370000005,sikkim,01-01-2009,Loser,-1043
+A,Assembly,Upper Tadong,Depak Rai, Male,35, GEN,IND, Independent,Unknown,130,0.02,sikkim,01-01-2009,Loser,-3018
+A,Assembly,Upper Tadong,Padam Pd Sharma, Male,33, GEN,BJP, Bharatiya Janata Party,Unknown,104,0.02,sikkim,01-01-2009,Loser,-3044
+A,Assembly,Upper Tadong,Kharka Singh Gurung, Male,52, GEN,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,70,0.01,sikkim,01-01-2009,Loser,-3078
+A,Assembly,Upper Tadong,Garjaman Rai, Male,49, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,64,0.01,sikkim,01-01-2009,Loser,-3084
+A,Assembly,West Pendam,L B Das, Male,48, SC,SKM, Sikkim Krantikari Morcha, table lamp,5799,0.5,sikkim,01-01-2019,Winner,898
+A,Assembly,West Pendam,Gopal Baraily, Male,53, SC,SDF, Sikkim Democratic Front, umbrella,4901,0.419999987,sikkim,01-01-2019,Loser,-898
+A,Assembly,West Pendam,Birendra Pourali, Male,38, SC,BJP, Bharatiya Janata Party, lotus,597,0.050000001,sikkim,01-01-2019,Loser,-5202
+A,Assembly,West Pendam,Binod Darjee, Male,60, SC,INC, Indian National Congress, hand,101,0.01,sikkim,01-01-2019,Loser,-5698
+A,Assembly,West Pendam,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,83,0.01,sikkim,01-01-2019,Loser,-5716
+A,Assembly,West Pendam,Santosh Bardewa, Male,37, SC,IND, Independent, mike,64,0.01,sikkim,01-01-2019,Loser,-5735
+A,Assembly,West Pendam,Indra Kr Suji, Male,45, SC,HMSKP, Hamro Sikkim Party, whistle,60,0.01,sikkim,01-01-2019,Loser,-5739
+A,Assembly,West Pendam,Bikash Darjee, Male,32, SC,IND, Independent, pen nib with seven rays,47,NULL,sikkim,01-01-2019,Loser,-5752
+A,Assembly,West Pendam,Sonam Darjee, Male,31, SC,SKPP, Sikkim Republican Party, flute,31,NULL,sikkim,01-01-2019,Loser,-5768
+A,Assembly,West Pendam,Neeru Sewa, Female,31, SC,SDF, Sikkim Democratic Front,Unknown,4151,0.540000021,sikkim,01-01-2009,Winner,1063
+A,Assembly,West Pendam,Jagdish Cintury, Male,31, SC,INC, Indian National Congress,Unknown,3088,0.400000006,sikkim,01-01-2009,Loser,-1063
+A,Assembly,West Pendam,S K Bardewa, Male,60, SC,BJP, Bharatiya Janata Party,Unknown,212,0.029999999,sikkim,01-01-2009,Loser,-3939
+A,Assembly,West Pendam,Tika Ghatani, Female,40, SC,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,116,0.02,sikkim,01-01-2009,Loser,-4035
+A,Assembly,West Pendam,Tek Bahadur Thatal, Male,60, SC,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,73,0.01,sikkim,01-01-2009,Loser,-4078
+A,Assembly,West Pendam,Nandalal Darjee, Male,37, SC,IND, Independent,Unknown,71,0.01,sikkim,01-01-2009,Loser,-4080
+A,Assembly,West Pendam,Jit Man Darjee, Male,48, SC,NCP, Nationalist Congress Party,Unknown,44,0.01,sikkim,01-01-2009,Loser,-4107
+A,Assembly,Yangthang,Bhim Hang Limboo, Male,30, ST,SKM, Sikkim Krantikari Morcha, table lamp,5184,0.479999989,sikkim,01-01-2019,Winner,47
+A,Assembly,Yangthang,Dal Bdr Subba, Male,36, ST,SDF, Sikkim Democratic Front, umbrella,5137,0.479999989,sikkim,01-01-2019,Loser,-47
+A,Assembly,Yangthang,Dhan Singh Limboo, Male,43, ST,HMSKP, Hamro Sikkim Party, whistle,115,0.01,sikkim,01-01-2019,Loser,-5069
+A,Assembly,Yangthang,Binay Limboo (tsong), Male,40, ST,SKPP, Sikkim Republican Party, flute,93,0.01,sikkim,01-01-2019,Loser,-5091
+A,Assembly,Yangthang,Mangal Subba (limboo), Male,35, ST,INC, Indian National Congress, hand,93,0.01,sikkim,01-01-2019,Loser,-5091
+A,Assembly,Yangthang,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,74,0.01,sikkim,01-01-2019,Loser,-5110
+A,Assembly,Yangthang,Chandra Maya Limboo (subba), Female,38, ST,SDF, Sikkim Democratic Front, umbrella,5211,0.560000002,sikkim,01-01-2014,Winner,1639
+A,Assembly,Yangthang,Kharka Bdr Subba, Male,31, ST,SKM, Sikkim Krantikari Morcha, table lamp,3572,0.379999995,sikkim,01-01-2014,Loser,-1639
+A,Assembly,Yangthang,Lall Man Subba, Male,52, ST,INC, Indian National Congress, hand,223,0.02,sikkim,01-01-2014,Loser,-4988
+A,Assembly,Yangthang,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,159,0.02,sikkim,01-01-2014,Loser,-5052
+A,Assembly,Yangthang,Ashis Gurung, Male,33, GEN,BJP, Bharatiya Janata Party, lotus,140,0.02,sikkim,01-01-2014,Loser,-5071
+A,Assembly,Yangthang,Prem Lall Subba, Male,44, ST,SDF, Sikkim Democratic Front,Unknown,5770,0.730000019,sikkim,01-01-2009,Winner,4225
+A,Assembly,Yangthang,Depan Hang Limbu, Male,34, ST,INC, Indian National Congress,Unknown,1545,0.200000003,sikkim,01-01-2009,Loser,-4225
+A,Assembly,Yangthang,Padam Bahadur Chettri, Male,32, GEN,BJP, Bharatiya Janata Party,Unknown,218,0.029999999,sikkim,01-01-2009,Loser,-5552
+A,Assembly,Yangthang,Akar Dhoj Limbu, Male,44, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,148,0.02,sikkim,01-01-2009,Loser,-5622
+A,Assembly,Yangthang,Karna Bahadur Gurung, Male,31, GEN,SJEP, Sikkim Jan-ekta Party,Unknown,143,0.02,sikkim,01-01-2009,Loser,-5627
+A,Assembly,Yangthang,Ganesh Bhattarai, Male,28, GEN,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,60,0.01,sikkim,01-01-2009,Loser,-5710
+A,Assembly,Yoksam-tashiding,Sangay Lepcha, Male,56, ST,SKM, Sikkim Krantikari Morcha, table lamp,5686,0.49000001,sikkim,01-01-2019,Winner,79
+A,Assembly,Yoksam-tashiding,Dichen Wangchuk Bhutia, Female,59, ST,SDF, Sikkim Democratic Front, umbrella,5607,0.479999989,sikkim,01-01-2019,Loser,-79
+A,Assembly,Yoksam-tashiding,Phurkit Lepcha, Female,31, ST,HMSKP, Hamro Sikkim Party, whistle,158,0.01,sikkim,01-01-2019,Loser,-5528
+A,Assembly,Yoksam-tashiding,Pema Rinzing Bhutia, Male,48, ST,INC, Indian National Congress, hand,137,0.01,sikkim,01-01-2019,Loser,-5549
+A,Assembly,Yoksam-tashiding,Nota,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,132,0.01,sikkim,01-01-2019,Loser,-5554
+A,Assembly,Yoksam-tashiding,Sonam Dadul Bhutia, Male,43, ST,SDF, Sikkim Democratic Front, umbrella,6777,0.680000007,sikkim,01-01-2014,Winner,4218
+A,Assembly,Yoksam-tashiding,Thutop Bhutia, Male,54, ST,SKM, Sikkim Krantikari Morcha, table lamp,2559,0.25999999,sikkim,01-01-2014,Loser,-4218
+A,Assembly,Yoksam-tashiding,Pema Rinzing Bhutia, Male,44, ST,INC, Indian National Congress, hand,363,0.039999999,sikkim,01-01-2014,Loser,-6414
+A,Assembly,Yoksam-tashiding,None Of The Above,Unknown,Unknown,Unknown,NOTA, None Of The Above, nota,219,0.02,sikkim,01-01-2014,Loser,-6558
+A,Assembly,Yoksam-tashiding,Dawcho Lepcha, Male,39, ST,SDF, Sikkim Democratic Front,Unknown,5909,0.720000029,sikkim,01-01-2009,Winner,4243
+A,Assembly,Yoksam-tashiding,Aden Tshering Lepcha, Male,45, ST,INC, Indian National Congress,Unknown,1666,0.200000003,sikkim,01-01-2009,Loser,-4243
+A,Assembly,Yoksam-tashiding,Nedup Tshering Bhutia, Male,57, ST,SHRP, Sikkim Himali Rajya Parishad Party,Unknown,430,0.050000001,sikkim,01-01-2009,Loser,-5479
+A,Assembly,Yoksam-tashiding,Pemba Sherpa, Male,29, ST,SGPP, Sikkim Gorkha Prajatantric Party,Unknown,230,0.029999999,sikkim,01-01-2009,Loser,-5679
