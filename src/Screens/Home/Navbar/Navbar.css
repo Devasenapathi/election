@@ -1,0 +1,58 @@
+.activeLink {
+  color: red; 
+  text-decoration: none;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.deactiveLink{
+  color: blue; 
+  text-decoration: none;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.navigation {
+  background-image: linear-gradient(orange, white,white,darkgreen);
+  color: black;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+ul li {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .navigation{
+    background-image: linear-gradient(#333,#333);
+    color: white;
+  }
+  .nav-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  ul {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  ul li {
+    margin: 10px 0;
+  }
+}
