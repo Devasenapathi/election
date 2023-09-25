@@ -2,7 +2,7 @@ const express = require('express')
 const bodyparser = require('body-parser')
 const cors = require('cors')
 const mongoose = require('mongoose')
-
+const morgan = reuire('morgan')
 const main = require('./src/routers/main')
 const data = require('./src/routers/db')
 
@@ -11,20 +11,21 @@ const app = express()
 //Middleware used to parse the JSON bodies
 app.use(express.json())
 app.use(cors())
+app.use(bodyparser.urlencoded({ extended: true }))
+app.use(bodyparser.json({ limit: '5mb' }));
+app.use(morgan('dev'));
+app.use(bodyparser.json());
+app.use(express.static(path.join(__dirname, "src/build/index.html")));
 
 //calling the router end points with main router keyword
 app.use('/data', data)
 app.use('/main', main)
 app.get("*", (req, res) => {
 
-  res.sendFile(path.join(__dirname, "./src/build/index.html"));
+  res.sendFile(path.join(__dirname, "src/build/index.html"));
 
 });
-app.use(bodyparser.urlencoded({ extended: true }))
-app.use(bodyparser.json({ limit: '5mb' }));
-app.use(morgan('dev'));
-app.use(bodyparser.json());
-app.use(express.static(path.join(__dirname, "./src/build/index.html")));
+
 app.use(function (req, res, next) {
 
   res.header("Access-Control-Allow-Orgin", "*");
