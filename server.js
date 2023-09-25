@@ -2,9 +2,10 @@ const express = require('express')
 const bodyparser = require('body-parser')
 const cors = require('cors')
 const mongoose = require('mongoose')
-const morgan = reuire('morgan')
+const morgan = require('morgan')
 const main = require('./src/routers/main')
 const data = require('./src/routers/db')
+const path = require('path')
 
 const app = express()
 
