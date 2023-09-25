@@ -2,8 +2,8 @@ const express = require('express')
 const cors = require('cors')
 const mongoose = require('mongoose')
 
-const main = require('./routers/main')
-const data = require('./routers/db')
+const main = require('./src/routers/main')
+const data = require('./src/routers/db')
 
 const app = express()
 
