@@ -1,3 +1,4 @@
+const http = require('http')
 const express = require('express')
 const bodyparser = require('body-parser')
 const cors = require('cors')
@@ -8,6 +9,7 @@ const data = require('./src/routers/db')
 const path = require('path')
 
 const app = express()
+const server = http.createServer(app);
 
 //Middleware used to parse the JSON bodies
 app.use(express.json())
@@ -28,19 +30,12 @@ app.get("*", (req, res) => {
 });
 
 app.use(function (req, res, next) {
-
-  res.header("Access-Control-Allow-Orgin", "*");
-
+  res.header("Access-Control-Allow-Orgin", "http://localhost:3000");
   res.header("Access-Control-Allow-Header", "Orgin,X-Request-With, Content-Type, Accept");
-
   res.header("Cache-Control", "no-cache, no-store, must-revalidate");
-
   res.header("Pragma", "no-cache");
-
   res.header("Expires", 0);
-
   next();
-
 });
 mongoose.connect('mongodb+srv://devahari:KPcIX1NxmagZkdps@devahari6465.vok7c.mongodb.net/election?retryWrites=true&w=majority', {
   useNewUrlParser: true,
@@ -57,6 +52,6 @@ const PORT = 5000
 
 //start the server
 
-app.listen(PORT, () => {
+server.listen(PORT, () => {
   console.log("The server connected to port", PORT)
 })
