@@ -1,46 +1,48 @@
-const http = require('http')
-const express = require('express')
-const bodyparser = require('body-parser')
-const cors = require('cors')
-const mongoose = require('mongoose')
-const morgan = require('morgan')
-const main = require('./src/routers/main')
-const data = require('./src/routers/db')
-const path = require('path')
+const http = require('http');
+const express = require('express');
+const bodyParser = require('body-parser');
+const cors = require('cors');
+const mongoose = require('mongoose');
+const morgan = require('morgan');
+const mainRouter = require('./src/routers/main');
+const dataRouter = require('./src/routers/db');
+const path = require('path');
 
-const app = express()
+const app = express();
 const server = http.createServer(app);
 
-//Middleware used to parse the JSON bodies
-app.use(express.json())
-app.use(cors())
-app.use(bodyparser.urlencoded({ extended: true }))
-app.use(bodyparser.json({ limit: '5mb' }));
+app.use(express.json());
+app.use(cors());
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json({ limit: '5mb' }));
 app.use(morgan('dev'));
-app.use(bodyparser.json());
-app.use(express.static(path.join(__dirname, "src/build/index.html")));
 
-//calling the router end points with main router keyword
-app.use('/data', data)
-app.use('/main', main)
-app.get("*", (req, res) => {
+// Serve static files from the build directory
+app.use(express.static(path.join(__dirname, 'src/build')));
 
-  res.sendFile(path.join(__dirname, "src/build/index.html"));
+// API endpoints
+app.use('/data', dataRouter);
+app.use('/main', mainRouter);
 
+// Send index.html for any other requests
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'src/build/index.html'));
 });
 
 app.use(function (req, res, next) {
-  res.header("Access-Control-Allow-Orgin", "http://localhost:3000");
-  res.header("Access-Control-Allow-Header", "Orgin,X-Request-With, Content-Type, Accept");
-  res.header("Cache-Control", "no-cache, no-store, must-revalidate");
-  res.header("Pragma", "no-cache");
-  res.header("Expires", 0);
+  res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+  res.header('Cache-Control', 'no-cache, no-store, must-revalidate');
+  res.header('Pragma', 'no-cache');
+  res.header('Expires', 0);
   next();
 });
-mongoose.connect('mongodb+srv://devahari:KPcIX1NxmagZkdps@devahari6465.vok7c.mongodb.net/election?retryWrites=true&w=majority', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
+
+mongoose
+  .connect('mongodb+srv://devahari:KPcIX1NxmagZkdps@devahari6465.vok7c.mongodb.net/election?retryWrites=true&w=majority', {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
   .then(() => {
     console.log('Connected to MongoDB');
   })
@@ -48,10 +50,8 @@ mongoose.connect('mongodb+srv://devahari:KPcIX1NxmagZkdps@devahari6465.vok7c.mon
     console.error('Error connecting to MongoDB:', error);
   });
 
-const PORT = 5000
-
-//start the server
+const PORT = 5000;
 
 server.listen(PORT, () => {
-  console.log("The server connected to port", PORT)
-})
+  console.log('Server connected to port', PORT);
+});
