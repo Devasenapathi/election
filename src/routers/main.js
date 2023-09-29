@@ -5,12 +5,16 @@ const csv = require("csv-parser");
 const Election = require('../models/main.model')
 // const Lokshaba = require('../models/state.model')
 const State = require("../models/state.model");
+const moment = require('moment')
 
 
 router.get('/delete', async function (req, res) {
 	try {
-		var ress = await Election.deleteMany({ state: "TELANGANA" })
-		res.sendStatus(200)
+		console.log("aaaaaaaaaaaaaaaaaaaaa")
+		var date = moment()
+		console.log(date)
+		// var ress = await Election.deleteMany({ state: "TELANGANA" })
+		res.send(date)
 	} catch {
 
 	}
@@ -116,7 +120,7 @@ router.get('/getDetails', async function (req, res) {
 
 router.get('/getState', async function (req, res) {
 	try {
-		var data = await State.find({});
+		var data = await State.find({}).sort("state");
 		res.send(data)
 
 	} catch {
@@ -171,18 +175,41 @@ router.get('/getTotalVotes', async function (req, res) {
 				arr[index].votes = parseInt(arr[index].votes) + parseInt(v.totalVotes)
 			}
 		})
-		if (arr.length > 10) {
-			const top8Parties = arr.sort((a, b) => b.votes - a.votes).slice(0, 10);
-			const remainingVotes = arr.sort((a, b) => b.votes - a.votes).slice(10).reduce((votes, party) => votes + parseInt(party.votes), 0);
-			const top9Parties = [
-				...top8Parties,
-				{ party: 'Others', votes: remainingVotes }
-			];
-			res.send(top9Parties)
+		if (arr.length > 3) {
+			const top8Parties = arr.sort((a, b) => b.votes - a.votes).slice(0, 4);
+			// const remainingVotes = arr.sort((a, b) => b.votes - a.votes).slice(10).reduce((votes, party) => votes + parseInt(party.votes), 0);
+			// const top9Parties = [
+			// 	...top8Parties,
+			// ];
+			res.send(top8Parties)
 		} else {
 			res.send(arr.sort((a, b) => b.votes - a.votes))
 		}
 	} catch {
+
+	}
+})
+
+
+router.get('/getPartyDomination',async function(req,res){
+	try{
+		var arr = []
+		var data =await Election.find({"electionId":"L","state":"TAMIL NADU","year":"2019"})
+		const datas = data.forEach(v => {
+			const index = arr.findIndex(i => i.party === v.party)
+			if (index == -1) {
+				arr.push({
+					party: v.party,
+					votes: v.totalVotes
+				})
+			} else {
+				arr[index].votes = parseInt(arr[index].votes) + parseInt(v.totalVotes)
+			}
+		})
+		const top8Parties = arr.sort((a, b) => b.votes - a.votes).slice(0, 3);
+		console.log(top8Parties,'aaaaaaaaaaaaaa')
+		res.send(top8Parties)
+	}catch{
 
 	}
 })
